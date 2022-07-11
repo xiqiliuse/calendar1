@@ -1,0 +1,1335 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-CALSTART:20220711T003500Z
+X-CALEND:20220715T090000Z
+X-CLIPSTART:20220710T160000Z
+X-CLIPEND:20220717T160000Z
+X-WR-RELCALID:{0000002E-4624-F197-70FA-88B3997B8C1A}
+X-WR-CALNAME:Li\, Xiaodong03 (uib07707)
+X-PRIMARY-CALENDAR:TRUE
+X-OWNER;CN="Li, Xiaodong03 (uib07707)":mailto:xiaodong.3.li@benecke-changsh
+	un.com.cn
+X-MS-OLK-WKHRSTART;TZID="China Standard Time":083000
+X-MS-OLK-WKHREND;TZID="China Standard Time":170000
+X-MS-OLK-WKHRDAYS:MO,TU,WE,TH,FR
+BEGIN:VTIMEZONE
+TZID:China Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Huang, Yuyang";RSVP=TRUE:mailto:yuyang.huang@benecke-changshun
+	.com.cn
+ATTENDEE;CN="Chen, Chenglong (uie33255)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto
+	:chenglong.chen@benecke-changshun.com.cn
+ATTENDEE;CN="Guo, Wei02 (uie32366)";RSVP=TRUE:mailto:wei.2.guo@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="He, Wei04 (uie48907)";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Wang, Fen";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:fen.wang@benecke
+	-changshun.com.cn
+ATTENDEE;CN="Liu, Kai05 (uia69439)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:kai.
+	5.liu@benecke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Qiang";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:qiang.sun@benec
+	ke-changshun.com.cn
+ATTENDEE;CN="Wang, Congyu (uic39881)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:co
+	ngyu.wang@benecke-changshun.com.cn
+ATTENDEE;CN="cheng, yifei (uic16637)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yi
+	fei.cheng@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:x
+	iaoyong.sun@benecke-changshun.com.cn
+ATTENDEE;CN="PPI BCZ";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:team_10010014@c
+	ontinental.onmicrosoft.com
+ATTENDEE;CN="li xiaodong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	invalid:nomail
+CLASS:PUBLIC
+CREATED:20211027T003359Z
+DESCRIPTION: \n\n__________________________________________________________
+	______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+	动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+	l/meetup-join/19%3ameeting_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE
+	4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+	265a%22%2c%22Oid%22%3a%22f197facf-a886-4339-8104-b345536e433f%22%7d>  \n\n
+	了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+	ams.microsoft.com/meetingOptions/?organizerId=f197facf-a886-4339-8104-b345
+	536e433f&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+	_M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&messageId=0&la
+	nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+	ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+	______________________________________ \n\n \n\n
+DTEND;TZID="China Standard Time":20220711T092500
+DTSTAMP:20220411T004325Z
+DTSTART;TZID="China Standard Time":20220711T083500
+LAST-MODIFIED:20220711T003638Z
+LOCATION:Microsoft Teams 会议
+ORGANIZER;CN="Huang, Yuyang":mailto:yuyang.huang@benecke-changshun.com.cn
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=5;BYDAY=MO,TU,WE,TH,FR
+SEQUENCE:8
+SUMMARY:PPI早会
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C0AB03A5B630D501000000000000000
+	010000000C106524FD094EB4DBC20643058898877
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 1 
+	1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 
+	2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorma
+	l\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-famil
+	y:等线\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color
+	:#0563C1\;\n	text-decoration:underline\;}\nspan.EmailStyle18\n	{mso-style-
+	type:personal-compose\;\n	font-family:等线\;\n	color:windowtext\;}\n.Mso
+	ChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;}\n@page Wo
+	rdSection1\n	{size:612.0pt 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\
+	;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9
+	]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]-
+	-><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="
+	edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lang="ZH
+	-CN" link="#0563C1" vlink="#954F72" style="word-wrap:break-word\;text-just
+	ify-trim:punctuation"><div class="WordSection1"><p class="MsoNormal"><span
+	 lang="EN-US"><o:p>&nbsp\;</o:p></span></p><div><div><p class="MsoNormal" 
+	align="left" style="text-align:left"><span lang="EN-US" style="color:#5F5F
+	5F">______________________________________________________________________
+	__________</span><span lang="EN-US"> </span><span lang="EN-US" style="font
+	-size:12.0pt"><o:p></o:p></span></p></div><div><div style="margin-top:18.0
+	pt\;margin-bottom:15.0pt"><p class="MsoNormal"><span lang="EN-US" style="f
+	ont-size:18.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#25
+	2424">Microsoft Teams </span><span style="font-size:18.0pt\;color:#252424"
+	>会议</span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\
+	;color:#252424"> <span lang="EN-US"><o:p></o:p></span></span></p></div><di
+	v style="margin-bottom:15.0pt"><div><p class="MsoNormal"><b><span style="c
+	olor:#252424">使用电脑或移动应用加入</span></b><b><span style="
+	font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"> <span lang
+	="EN-US"><o:p></o:p></span></span></b></p></div><p class="MsoNormal"><span
+	 lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color
+	:#252424"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_
+	M2IzMjk4ZTQtOGJmOC00ZmIzLWI5MjktZjZkNTc5ODA1YjE4%40thread.v2/0?context=%7b
+	%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22f1
+	97facf-a886-4339-8104-b345536e433f%22%7d" target="_blank"><span lang="EN-U
+	S" style="font-family:等线\;color:#6264A7"><span lang="EN-US">点击此
+	处加入会议</span></span></a> <o:p></o:p></span></p></div><div style="
+	margin-top:15.0pt\;margin-bottom:18.0pt"><p class="MsoNormal"><span lang="
+	EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#25242
+	4"><a href="https://aka.ms/JoinTeamsMeeting" target="_blank"><span lang="E
+	N-US" style="font-family:等线\;color:#6264A7"><span lang="EN-US">了解
+	更多</span></span></a> | <a href="https://teams.microsoft.com/meetingOpt
+	ions/?organizerId=f197facf-a886-4339-8104-b345536e433f&amp\;tenantId=8d4b5
+	58f-7b2e-40ba-ad1f-e04d79e6265a&amp\;threadId=19_meeting_M2IzMjk4ZTQtOGJmO
+	C00ZmIzLWI5MjktZjZkNTc5ODA1YjE4@thread.v2&amp\;messageId=0&amp\;language=z
+	h-CN" target="_blank"><span lang="EN-US" style="font-family:等线\;color:
+	#6264A7"><span lang="EN-US">会议选项</span></span></a> | <a href="http
+	s://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e" ta
+	rget="_blank"><span lang="EN-US" style="font-family:等线\;color:#6264A7"
+	><span lang="EN-US">法律</span></span></a> <o:p></o:p></span></p></div><
+	/div></div><div><p class="MsoNormal"><span lang="EN-US" style="color:#5F5F
+	5F">______________________________________________________________________
+	__________</span><span lang="EN-US"> </span><span lang="EN-US" style="font
+	-family:宋体"><o:p></o:p></span></p></div><p class="MsoNormal"><span lan
+	g="EN-US"><o:p>&nbsp\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20220401T055647Z
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Chen, Chenglong (uie33255)";RSVP=TRUE:mailto:chenglong.chen@be
+	necke-changshun.com.cn
+ATTENDEE;CN="Liu, Kai05 (uia69439)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:kai.
+	5.liu@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Congyu (uic39881)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:co
+	ngyu.wang@benecke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:x
+	iaoyong.sun@benecke-changshun.com.cn
+ATTENDEE;CN="Jing, Longxia02 (uie68005)";RSVP=TRUE:mailto:longxia.2.jing@be
+	necke-changshun.com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice302_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
+	ARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:mailto:TE_ZG_MR_PlantOffice302_Zhan
+	gjiagang@continental.com
+ATTENDEE;CN="Huang, Yuyang";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:yuyang.huang@benecke-changshun.com.cn
+ATTENDEE;CN="Xu, Jinkai (uie99823)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:j
+	inkai.xu@benecke-changshun.com.cn
+ATTENDEE;CN="li xiaodong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	invalid:nomail
+CLASS:PUBLIC
+CREATED:20220217T021301Z
+DESCRIPTION: \n\n
+DTEND;TZID="China Standard Time":20220713T140000
+DTSTAMP:20220217T011849Z
+DTSTART;TZID="China Standard Time":20220713T130000
+LAST-MODIFIED:20220706T035953Z
+LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
+ORGANIZER;CN="Chen, Chenglong (uie33255)":mailto:chenglong.chen@benecke-cha
+	ngshun.com.cn
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=1;BYDAY=WE
+SEQUENCE:0
+SUMMARY:TPO颜色梳理会
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000060FF1E6D3023D801000000000000000
+	010000000AC26618F5BBFE140ABC8FAD6F1DF0F27
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 1 
+	1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal
+	\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-family
+	:等线\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
+	family:等线\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:ex
+	port-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.
+	0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:Wo
+	rdSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext
+	="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:
+	shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelay
+	out></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink="#954
+	F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><div clas
+	s="WordSection1"><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p
+	></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Chen, Chenglong (uie33255)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto
+	:chenglong.chen@benecke-changshun.com.cn
+ATTENDEE;CN="cheng, yifei (uic16637)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yi
+	fei.cheng@benecke-changshun.com.cn
+ATTENDEE;CN="Guo, Wei02 (uie32366)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:wei.
+	2.guo@benecke-changshun.com.cn
+ATTENDEE;CN="He, Wei04 (uie48907)";RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Huang, Yuyang";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yuyang.huang
+	@benecke-changshun.com.cn
+ATTENDEE;CN="Liu, Kai05 (uia69439)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:kai.
+	5.liu@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Qiang";RSVP=TRUE:mailto:qiang.sun@benecke-changshun.com.c
+	n
+ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:x
+	iaoyong.sun@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Congyu (uic39881)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:co
+	ngyu.wang@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Fen";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:fen.wang@benecke
+	-changshun.com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice301_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
+	ARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_PlantOffice301_Zhan
+	gjiagang@continental.com
+CLASS:PUBLIC
+CREATED:20220307T051000Z
+DESCRIPTION:汇报各自项目：更新项目进度、风险、完成度、
+	状态等信息。项目文件 链接 <https://continental.sharepoint.com/
+	:x:/r/teams/team_10010014/Shared%20Documents/General/05%20Project%20Manage
+	ment/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/%E9%A1%B9%E7%9B%AE%E8%BF%BD%E8%B
+	8%AA%E8%A1%A8-2022.xlsx?d=we8bae9ac8ac04b039ca7b97d9322f73c&csf=1&web=1&e=
+	DDYS9T> \n\n项目要求：\n\n*  项目名称，中英文描述；\n\n*  
+	项目描述（KPI）、项目风险 、行动计划，要有具体内容
+	。\n\n
+DTEND;TZID="China Standard Time":20220715T150000
+DTSTAMP:20220307T050955Z
+DTSTART;TZID="China Standard Time":20220715T140000
+LAST-MODIFIED:20220701T082119Z
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+ORGANIZER;CN="Li, Xiaodong03 (uib07707)":mailto:xiaodong.3.li@benecke-chang
+	shun.com.cn
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=1;INTERVAL=2;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY;LANGUAGE=zh-cn:PPI内部项目回顾会议
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D066F0EA2232D801000000000000000
+	010000000321010AC644BF0449A791E785B798F37
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:x="urn:schemas-microsoft-com:office:excel" x
+	mlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:m="http://schema
+	s.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html4
+	0"><head><meta http-equiv=Content-Type content="text/html\; charset=utf-8"
+	><meta name=Generator content="Microsoft Word 15 (filtered medium)"><!--[i
+	f !mso]><style>v\\:* {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#
+	default#VML)\;}\nw\\:* {behavior:url(#default#VML)\;}\n.shape {behavior:ur
+	l(#default#VML)\;}\n</style><![endif]--><style><!--\n/* Font Definitions *
+	/\n@font-face\n	{font-family:Wingdings\;\n	panose-1:5 0 0 0 0 0 0 0 0 0\;}
+	\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 
+	4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;}
+	\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;
+	}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{
+	margin:0cm\;\n	text-align:justify\;\n	text-justify:inter-ideograph\;\n	fon
+	t-size:10.5pt\;\n	font-family:等线\;}\np.MsoListParagraph\, li.MsoListPa
+	ragraph\, div.MsoListParagraph\n	{mso-style-priority:34\;\n	margin:0cm\;\n
+		text-align:justify\;\n	text-justify:inter-ideograph\;\n	text-indent:21.0p
+	t\;\n	font-size:10.5pt\;\n	font-family:等线\;}\nspan.MsoSmartlink\n	{mso
+	-style-priority:99\;\n	color:blue\;\n	background:#F3F2F1\;\n	text-decorati
+	on:underline\;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	
+	font-family:等线\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;\n	font-family:等线\;}\n/* Page Definitions */\n@page Wo
+	rdSection1\n	{size:612.0pt 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\
+	;}\ndiv.WordSection1\n	{page:WordSection1\;}\n/* List Definitions */\n@lis
+	t l0\n	{mso-list-id:697781999\;\n	mso-list-type:hybrid\;\n	mso-list-templa
+	te-ids:-341539772 67698699 67698691 67698693 67698689 67698691 67698693 67
+	698689 67698691 67698693\;}\n@list l0:level1\n	{mso-level-number-format:bu
+	llet\;\n	mso-level-text:\;\n	mso-level-tab-stop:none\;\n	mso-level-numb
+	er-position:left\;\n	margin-left:21.0pt\;\n	text-indent:-21.0pt\;\n	font-f
+	amily:Wingdings\;}\n@list l0:level2\n	{mso-level-number-format:bullet\;\n	
+	mso-level-text:\;\n	mso-level-tab-stop:none\;\n	mso-level-number-positi
+	on:left\;\n	margin-left:42.0pt\;\n	text-indent:-21.0pt\;\n	font-family:Win
+	gdings\;}\n@list l0:level3\n	{mso-level-number-format:bullet\;\n	mso-level
+	-text:\;\n	mso-level-tab-stop:none\;\n	mso-level-number-position:left\;
+	\n	margin-left:63.0pt\;\n	text-indent:-21.0pt\;\n	font-family:Wingdings\;}
+	\n@list l0:level4\n	{mso-level-number-format:bullet\;\n	mso-level-text:
+	\;\n	mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	margin
+	-left:84.0pt\;\n	text-indent:-21.0pt\;\n	font-family:Wingdings\;}\n@list l
+	0:level5\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-
+	level-tab-stop:none\;\n	mso-level-number-position:left\;\n	margin-left:105
+	.0pt\;\n	text-indent:-21.0pt\;\n	font-family:Wingdings\;}\n@list l0:level6
+	\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-ta
+	b-stop:none\;\n	mso-level-number-position:left\;\n	margin-left:126.0pt\;\n
+		text-indent:-21.0pt\;\n	font-family:Wingdings\;}\n@list l0:level7\n	{mso-
+	level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:n
+	one\;\n	mso-level-number-position:left\;\n	margin-left:147.0pt\;\n	text-in
+	dent:-21.0pt\;\n	font-family:Wingdings\;}\n@list l0:level8\n	{mso-level-nu
+	mber-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:none\;\n	
+	mso-level-number-position:left\;\n	margin-left:168.0pt\;\n	text-indent:-21
+	.0pt\;\n	font-family:Wingdings\;}\n@list l0:level9\n	{mso-level-number-for
+	mat:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:none\;\n	mso-leve
+	l-number-position:left\;\n	margin-left:189.0pt\;\n	text-indent:-21.0pt\;\n
+		font-family:Wingdings\;}\nol\n	{margin-bottom:0cm\;}\nul\n	{margin-bottom
+	:0cm\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit
+	" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapel
+	ayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></
+	xml><![endif]--></head><body lang=ZH-CN link="#0563C1" vlink="#954F72" sty
+	le='word-wrap:break-word\;text-justify-trim:punctuation'><div class=WordSe
+	ction1><p class=MsoNormal>汇报各自项目：更新项目进度、风险
+	、完成度、状态等信息。项目文件<span lang=EN-US><a href="htt
+	ps://continental.sharepoint.com/:x:/r/teams/team_10010014/Shared%20Documen
+	ts/General/05%20Project%20Management/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/
+	%E9%A1%B9%E7%9B%AE%E8%BF%BD%E8%B8%AA%E8%A1%A8-2022.xlsx?d=we8bae9ac8ac04b0
+	39ca7b97d9322f73c&amp\;csf=1&amp\;web=1&amp\;e=DDYS9T"><span class=MsoSmar
+	tlink><img border=0 width=16 height=16 style='width:.1666in\;height:.1666i
+	n' id="图片_x0020_1" src="cid:image001.png@01D83224.14F4AB20" alt="​xl
+	sx 图标"> </span><span class=MsoSmartlink><span lang=EN-US><span lang=EN
+	-US>链接</span></span></span></a><o:p></o:p></span></p><p class=MsoNorma
+	l>项目要求：<span lang=EN-US><o:p></o:p></span></p><p class=MsoListPa
+	ragraph style='margin-left:21.0pt\;text-indent:-21.0pt\;mso-list:l0 level1
+	 lfo1'><![if !supportLists]><span lang=EN-US style='font-family:Wingdings'
+	><span style='mso-list:Ignore'>Ø<span style='font:7.0pt "Times New Roman"
+	'>&nbsp\; </span></span></span><![endif]>项目名称，中英文描述；
+	<span lang=EN-US><o:p></o:p></span></p><p class=MsoListParagraph style='ma
+	rgin-left:21.0pt\;text-indent:-21.0pt\;mso-list:l0 level1 lfo1'><![if !sup
+	portLists]><span lang=EN-US style='font-family:Wingdings'><span style='mso
+	-list:Ignore'>Ø<span style='font:7.0pt "Times New Roman"'>&nbsp\; </span>
+	</span></span><![endif]>项目描述（<span lang=EN-US>KPI</span>）、
+	项目风险<span lang=EN-US> </span>、行动计划，要有具体内容
+	。<span lang=EN-US><o:p></o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:2
+X-MS-OLK-APPTSEQTIME:20220307T050955Z
+X-MS-OLK-AUTOFILLLOCATION:TRUE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Liu, Kai05 (uia69439)";RSVP=TRUE:mailto:kai.5.liu@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Yuyang Huang";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yuyang.huang@
+	benecke-changshun.com.cn
+ATTENDEE;CN="Guo, Wei02 (uie32366)";RSVP=TRUE:mailto:wei.2.guo@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="cheng, yifei (uic16637)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yi
+	fei.cheng@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Congyu (uic39881)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:co
+	ngyu.wang@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Qiang";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:qiang.sun@benec
+	ke-changshun.com.cn
+ATTENDEE;CN="Wang, Fen";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:fen.wang@benecke
+	-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:x
+	iaoyong.sun@benecke-changshun.com.cn
+ATTENDEE;CN="Chen, Chenglong (uie33255)";RSVP=TRUE:mailto:chenglong.chen@be
+	necke-changshun.com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice301_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
+	ARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_PlantOffice301_Zhan
+	gjiagang@continental.com
+ATTENDEE;CN="li xiaodong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	invalid:nomail
+CLASS:PUBLIC
+CREATED:20220318T003526Z
+DESCRIPTION: \n\n
+DTEND;TZID="China Standard Time":20220715T170000
+DTSTAMP:20220317T084745Z
+DTSTART;TZID="China Standard Time":20220715T150000
+LAST-MODIFIED:20220708T064554Z
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+ORGANIZER;CN="Liu, Kai05 (uia69439)":mailto:kai.5.liu@benecke-changshun.com
+	.cn
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=1;BYDAY=FR
+SEQUENCE:0
+SUMMARY:前期开发和客户项目回顾
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000A078305C1E3AD801000000000000000
+	0100000009DDDE534EDBF604A9FA0C92470F01530
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 
+	1 1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1
+	 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorm
+	al\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-fami
+	ly:DengXian\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	f
+	ont-family:DengXian\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-t
+	ype:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0p
+	t 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{p
+	age:WordSection1\;}\n--></style></head><body lang="ZH-CN" link="#0563C1" v
+	link="#954F72" style="word-wrap:break-word\;text-justify-trim:punctuation"
+	><div class="WordSection1"><p class="MsoNormal"><span lang="EN-US"><o:p>&n
+	bsp\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Liu, Kai05 (uia69439)";RSVP=TRUE:mailto:kai.5.liu@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Guo, Wei02 (uie32366)";RSVP=TRUE:mailto:wei.2.guo@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Sun, Qiang";RSVP=TRUE:mailto:qiang.sun@benecke-changshun.com.c
+	n
+ATTENDEE;CN="cheng, yifei (uic16637)";RSVP=TRUE:mailto:yifei.cheng@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Wang, Congyu (uic39881)";RSVP=TRUE:mailto:congyu.wang@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Wang, Fen";RSVP=TRUE:mailto:fen.wang@benecke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED;X-MS-OL
+	K-RESPTIME=20220419T044200Z:mailto:xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE:mailto:xiaoyong.sun@beneck
+	e-changshun.com.cn
+ATTENDEE;CN="Chen, Chenglong (uie33255)";RSVP=TRUE:mailto:chenglong.chen@be
+	necke-changshun.com.cn
+ATTENDEE;CN="Yuyang Huang";RSVP=TRUE:mailto:yuyang.huang@benecke-changshun.
+	com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice301_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
+	ARTICIPANT;RSVP=TRUE:mailto:TE_ZG_MR_PlantOffice301_Zhangjiagang@continent
+	al.com
+CLASS:PUBLIC
+CREATED:20220419T044257Z
+DESCRIPTION: \n\n__________________________________________________________
+	______________________ \n\nMicrosoft Teams 会议 \n\n使用电脑或移
+	动应用加入 \n\n点击此处加入会议 <https://teams.microsoft.com/
+	l/meetup-join/19%3ameeting_NjY2MGIyNmMtZjI1MS00NDZhLThjOGEtNDNiZmQ2N2JiMmU
+	1%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6
+	265a%22%2c%22Oid%22%3a%220a951e7f-d2e8-41b2-af3e-09d6b8622148%22%7d>  \n\n
+	了解更多 <https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://te
+	ams.microsoft.com/meetingOptions/?organizerId=0a951e7f-d2e8-41b2-af3e-09d6
+	b8622148&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting
+	_NjY2MGIyNmMtZjI1MS00NDZhLThjOGEtNDNiZmQ2N2JiMmU1@thread.v2&messageId=0&la
+	nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
+	ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
+	______________________________________ \n\n \n\n
+DTEND;TZID="China Standard Time":20220712T170000
+DTSTAMP:20220419T043905Z
+DTSTART;TZID="China Standard Time":20220712T160000
+LAST-MODIFIED:20220705T075516Z
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+ORGANIZER;CN="Liu, Kai05 (uia69439)":mailto:kai.5.liu@benecke-changshun.com
+	.cn
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=1;BYDAY=TU
+SEQUENCE:0
+SUMMARY:问题库与大事件回顾会议
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000B07ABFA3E953D801000000000000000
+	010000000DDC4775C1C9BEA41A8B00C083A004CB9
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 
+	1 1\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2
+	 2 3\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 
+	1 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNor
+	mal\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-fam
+	ily:DengXian\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	c
+	olor:#0563C1\;\n	text-decoration:underline\;}\nspan.EmailStyle18\n	{mso-st
+	yle-type:personal-compose\;\n	font-family:DengXian\;\n	color:windowtext\;}
+	\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;}\n@p
+	age WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 9
+	0.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte
+	 mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![e
+	ndif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v
+	:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body la
+	ng="ZH-CN" link="#0563C1" vlink="#954F72" style="word-wrap:break-word\;tex
+	t-justify-trim:punctuation"><div class="WordSection1"><p class="MsoNormal"
+	><span lang="EN-US"><o:p>&nbsp\;</o:p></span></p><div><p class="MsoNormal"
+	 align="left" style="text-align:left"><span lang="EN-US" style="color:#5F5
+	F5F">_____________________________________________________________________
+	___________</span><span lang="EN-US"> </span><span lang="EN-US" style="fon
+	t-size:12.0pt"><o:p></o:p></span></p></div><div><div style="margin-top:18.
+	0pt\;margin-bottom:15.0pt"><p class="MsoNormal"><span lang="EN-US" style="
+	font-size:18.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#2
+	52424">Microsoft Teams </span><span style="font-size:18.0pt\;color:#252424
+	">会议</span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif
+	\;color:#252424"> <span lang="EN-US"><o:p></o:p></span></span></p></div><d
+	iv style="margin-bottom:15.0pt"><div><p class="MsoNormal"><b><span style="
+	color:#252424">使用电脑或移动应用加入</span></b><b><span style=
+	"font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"> <span lan
+	g="EN-US"><o:p></o:p></span></span></b></p></div><p class="MsoNormal"><spa
+	n lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;colo
+	r:#252424"><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting
+	_NjY2MGIyNmMtZjI1MS00NDZhLThjOGEtNDNiZmQ2N2JiMmU1%40thread.v2/0?context=%7
+	b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%220
+	a951e7f-d2e8-41b2-af3e-09d6b8622148%22%7d" target="_blank"><span lang="EN-
+	US" style="font-family:DengXian\;color:#6264A7"><span lang="EN-US">点击
+	此处加入会议</span></span></a> <o:p></o:p></span></p></div><div styl
+	e="margin-top:15.0pt\;margin-bottom:18.0pt"><p class="MsoNormal"><span lan
+	g="EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#25
+	2424"><a href="https://aka.ms/JoinTeamsMeeting" target="_blank"><span lang
+	="EN-US" style="font-family:DengXian\;color:#6264A7"><span lang="EN-US">
+	了解更多</span></span></a> | <a href="https://teams.microsoft.com/meet
+	ingOptions/?organizerId=0a951e7f-d2e8-41b2-af3e-09d6b8622148&amp\;tenantId
+	=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&amp\;threadId=19_meeting_NjY2MGIyNmM
+	tZjI1MS00NDZhLThjOGEtNDNiZmQ2N2JiMmU1@thread.v2&amp\;messageId=0&amp\;lang
+	uage=zh-CN" target="_blank"><span lang="EN-US" style="font-family:DengXian
+	\;color:#6264A7"><span lang="EN-US">会议选项</span></span></a> | <a hr
+	ef="https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9
+	ad7e" target="_blank"><span lang="EN-US" style="font-family:DengXian\;colo
+	r:#6264A7"><span lang="EN-US">法律</span></span></a> <o:p></o:p></span><
+	/p></div></div><div><p class="MsoNormal"><span lang="EN-US" style="color:#
+	5F5F5F">__________________________________________________________________
+	______________</span><span lang="EN-US"> </span><span lang="EN-US" style="
+	font-family:宋体"><o:p></o:p></span></p></div><p class="MsoNormal"><span
+	 lang="EN-US"><o:p>&nbsp\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Bian, Baoxiang02 (uib97886)";RSVP=TRUE:mailto:baoxiang.2.bian@
+	benecke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=TENTATIVE:mailto
+	:xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Hou, Xuewen";RSVP=TRUE:mailto:xuewen.hou@benecke-changshun.com
+	.cn
+ATTENDEE;CN="Tang, Yan";RSVP=TRUE:mailto:yan.tang@benecke-changshun.com.cn
+ATTENDEE;CN="Zhang, Haiyan03 (uia67176)";RSVP=TRUE:mailto:haiyan.3.zhang@be
+	necke-changshun.com.cn
+ATTENDEE;CN="Huang, Qing";RSVP=TRUE;PARTSTAT=DECLINED:mailto:Qing.Huang@ben
+	ecke-changshun.com.cn
+ATTENDEE;CN="Wang, Jianrui (uidt5628)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:jianrui.wang@benecke-changshun.com.cn
+ATTENDEE;CN="Cheng, Dong01";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:dong01.ch
+	eng@benecke-changshun.com.cn
+ATTENDEE;CN="Qian, Quick (qianz1)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:zh
+	engkai.qian@benecke-changshun.com.cn
+ATTENDEE;CN="Lu, Patrick (uic72634)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:patrick.lu@benecke-changshun.com.cn
+ATTENDEE;CN="Lan, Tian (uie20619)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ti
+	an.lan@benecke-changshun.com.cn
+ATTENDEE;CN="Zhu, Dali (uic89469)";RSVP=TRUE:mailto:dali.zhu@benecke-changs
+	hun.com.cn
+ATTENDEE;CN="Peng, Lirong (uie74009)";RSVP=TRUE:mailto:lirong.peng@benecke-
+	changshun.com.cn
+CLASS:PUBLIC
+CREATED:20220429T054425Z
+DESCRIPTION:Dear all \n\n \n\n让我们每两周花半小时聚聚，讨论
+	一下RPA学习的进度和问题。\n\n \n\n如果有不懂的地方，
+	请尽管提问。\n\n \n\n谢谢\n\n \n\n（如能线下，请到IT办公
+	室讨论，IT会准备下午茶恭候~）\n\n____________________________
+	____________________________________________________ \n\nMicrosoft Teams 
+	会议 \n\n使用电脑或移动应用加入 \n\n点击此处加入会议 
+	<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjRlMDBjMWMtM2Q1Mi
+	00YWRmLTg2M2YtNDUxZWFjMDlmZjc4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4
+	b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22bc653502-48b8-4262-8
+	c77-13bf7fe4d34f%22%7d>  \n\n或呼入(仅音频) \n\n+86 400 819 0722\,\,
+	921873786# <tel:+864008190722\,\,921873786#>    China\, 所有位置 \n\n
+	电话会议 ID: 921 873 786# \n\n查找本地号码 <https://dialin.teams
+	.microsoft.com/97c37549-d499-4e63-9ec0-dc16377f37d4?id=921873786>  | 重
+	置 PIN <https://mysettings.lync.com/pstnconferencing>  \n\n了解更多 <
+	https://aka.ms/JoinTeamsMeeting>  | 会议选项 <https://teams.microsoft.
+	com/meetingOptions/?organizerId=bc653502-48b8-4262-8c77-13bf7fe4d34f&tenan
+	tId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_MjRlMDBjMWMtM
+	2Q1Mi00YWRmLTg2M2YtNDUxZWFjMDlmZjc4@thread.v2&messageId=0&language=zh-CN> 
+	 | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1
+	d684ab9ad7e>  \n\n________________________________________________________
+	________________________ \n\n \n\n
+DTEND;TZID="China Standard Time":20220715T143000
+DTSTAMP:20220429T054418Z
+DTSTART;TZID="China Standard Time":20220715T140000
+LAST-MODIFIED:20220701T082118Z
+LOCATION:Microsoft Teams 会议\; IT Office
+ORGANIZER;CN="Bian, Baoxiang02 (uib97886)":mailto:baoxiang.2.bian@benecke-c
+	hangshun.com.cn
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=1;INTERVAL=2;BYDAY=FR;WKST=MO
+SEQUENCE:0
+SUMMARY:Salon of RPA Study Group
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000009029F39BCC5BD801000000000000000
+	010000000D471B5689279994B9B370AD5DC750524
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 2 
+	3\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 
+	1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorma
+	l\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-famil
+	y:等线\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color
+	:#0563C1\;\n	text-decoration:underline\;}\nspan.EmailStyle18\n	{mso-style-
+	type:personal-compose\;\n	font-family:等线\;\n	color:windowtext\;}\n.Mso
+	ChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;}\n@page Wo
+	rdSection1\n	{size:612.0pt 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\
+	;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9
+	]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><![endif]-
+	-><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="
+	edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body lang="ZH
+	-CN" link="#0563C1" vlink="#954F72" style="word-wrap:break-word\;text-just
+	ify-trim:punctuation"><div class="WordSection1"><p class="MsoNormal"><span
+	 lang="EN-US">Dear all <o:p></o:p></span></p><p class="MsoNormal"><span la
+	ng="EN-US"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal">让我们每
+	两周花半小时聚聚，讨论一下<span lang="EN-US">RPA</span>学习
+	的进度和问题。<span lang="EN-US"><o:p></o:p></span></p><p class="Ms
+	oNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p></span></p><p class="MsoNorm
+	al">如果有不懂的地方，请尽管提问。<span lang="EN-US"><o:p><
+	/o:p></span></p><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p>
+	</span></p><p class="MsoNormal">谢谢<span lang="EN-US"><o:p></o:p></span
+	></p><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p></span></p>
+	<p class="MsoNormal">（如能线下，请到<span lang="EN-US">IT</span>
+	办公室讨论，<span lang="EN-US">IT</span>会准备下午茶恭候<spa
+	n lang="EN-US">~</span>）<span lang="EN-US"><o:p></o:p></span></p><div><p
+	 class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US"
+	 style="color:#5F5F5F">___________________________________________________
+	_____________________________</span><span lang="EN-US"> </span><span lang=
+	"EN-US" style="font-size:12.0pt"><o:p></o:p></span></p></div><div><div sty
+	le="margin-top:18.0pt\;margin-bottom:15.0pt"><p class="MsoNormal"><span la
+	ng="EN-US" style="font-size:18.0pt\;font-family:&quot\;Segoe UI&quot\;\,sa
+	ns-serif\;color:#252424">Microsoft Teams </span><span style="font-size:18.
+	0pt\;color:#252424">会议</span><span style="font-family:&quot\;Segoe UI&
+	quot\;\,sans-serif\;color:#252424"> <span lang="EN-US"><o:p></o:p></span><
+	/span></p></div><div style="margin-bottom:15.0pt"><div><p class="MsoNormal
+	"><b><span style="color:#252424">使用电脑或移动应用加入</span><
+	/b><b><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#
+	252424"> <span lang="EN-US"><o:p></o:p></span></span></b></p></div><p clas
+	s="MsoNormal"><span lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;
+	\,sans-serif\;color:#252424"><a href="https://teams.microsoft.com/l/meetup
+	-join/19%3ameeting_MjRlMDBjMWMtM2Q1Mi00YWRmLTg2M2YtNDUxZWFjMDlmZjc4%40thre
+	ad.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%
+	2c%22Oid%22%3a%22bc653502-48b8-4262-8c77-13bf7fe4d34f%22%7d" target="_blan
+	k"><span lang="EN-US" style="font-family:等线\;color:#6264A7"><span lang
+	="EN-US">点击此处加入会议</span></span></a> <o:p></o:p></span></p>
+	</div><div style="margin-bottom:3.0pt"><div style="margin-bottom:3.0pt"><p
+	 class="MsoNormal"><b><span style="color:#252424">或呼入</span></b><b><
+	span lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;c
+	olor:#252424">(</span><span style="color:#252424">仅音频</span></b><b><
+	span lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;c
+	olor:#252424">)</span></b><span lang="EN-US" style="font-family:&quot\;Seg
+	oe UI&quot\;\,sans-serif\;color:#252424"> <o:p></o:p></span></p></div><div
+	 style="margin-bottom:3.0pt"><p class="MsoNormal"><span lang="EN-US" style
+	="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="
+	tel:+864008190722\,\,921873786# "><span style="color:#6264A7">+86 400 819 
+	0722\,\,921873786#</span></a> &nbsp\; China\, </span><span style="color:#2
+	52424">所有位置</span><span style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\;color:#252424"> <span lang="EN-US"><o:p></o:p></span></span><
+	/p></div></div><p class="MsoNormal"><span style="color:#252424">电话会
+	议</span><span lang="EN-US" style="font-family:&quot\;Segoe UI&quot\;\,sa
+	ns-serif\;color:#252424"> ID: 921 873 786# <o:p></o:p></span></p><div styl
+	e="margin-bottom:15.0pt"><p class="MsoNormal"><span lang="EN-US" style="fo
+	nt-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="http
+	s://dialin.teams.microsoft.com/97c37549-d499-4e63-9ec0-dc16377f37d4?id=921
+	873786" target="_blank"><span lang="EN-US" style="font-family:等线\;colo
+	r:#6264A7"><span lang="EN-US">查找本地号码</span></span></a> | <a hr
+	ef="https://mysettings.lync.com/pstnconferencing" target="_blank"><span la
+	ng="EN-US" style="font-family:等线\;color:#6264A7"><span lang="EN-US">
+	重置</span></span><span style="color:#6264A7"> PIN</span></a> <o:p></o:p
+	></span></p></div><div style="margin-top:15.0pt\;margin-bottom:18.0pt"><p 
+	class="MsoNormal"><span lang="EN-US" style="font-family:&quot\;Segoe UI&qu
+	ot\;\,sans-serif\;color:#252424"><a href="https://aka.ms/JoinTeamsMeeting"
+	 target="_blank"><span lang="EN-US" style="font-family:等线\;color:#6264
+	A7"><span lang="EN-US">了解更多</span></span></a> | <a href="https://t
+	eams.microsoft.com/meetingOptions/?organizerId=bc653502-48b8-4262-8c77-13b
+	f7fe4d34f&amp\;tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&amp\;threadId
+	=19_meeting_MjRlMDBjMWMtM2Q1Mi00YWRmLTg2M2YtNDUxZWFjMDlmZjc4@thread.v2&amp
+	\;messageId=0&amp\;language=zh-CN" target="_blank"><span lang="EN-US" styl
+	e="font-family:等线\;color:#6264A7"><span lang="EN-US">会议选项</spa
+	n></span></a> | <a href="https://filehub.admiralcloud.com/dl/5/6501531f-d1
+	ca-436b-832a-1d684ab9ad7e" target="_blank"><span lang="EN-US" style="font-
+	family:等线\;color:#6264A7"><span lang="EN-US">法律</span></span></a> 
+	<o:p></o:p></span></p></div></div><div><p class="MsoNormal"><span lang="EN
+	-US" style="color:#5F5F5F">_______________________________________________
+	_________________________________</span><span lang="EN-US"> </span><span l
+	ang="EN-US" style="font-family:宋体"><o:p></o:p></span></p></div><p clas
+	s="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p></span></p></div></body
+	></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Cao, Haibing (uib97156)";RSVP=TRUE:mailto:haibing.cao@benecke-
+	changshun.com.cn
+ATTENDEE;CN="jiang, song03 (uic15874)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:Song.3.Jiang@benecke-changshun.com.cn
+ATTENDEE;CN="Huang, Yuyang";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:yuyang.huang@benecke-changshun.com.cn
+ATTENDEE;CN="Pan, Sheng";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:
+	mailto:sheng.pan@benecke-changshun.com.cn
+ATTENDEE;CN="Zhang, Qiang (uia26407)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto
+	:qiang.zhang@benecke-changshun.com.cn
+ATTENDEE;CN="Liu, Jiawen02";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jiawen.2.
+	liu@benecke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Xu, Jinlong (uie25425)";RSVP=TRUE:mailto:jinlong.4.xu@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Xu, Jinkai (uie99823)";RSVP=TRUE:mailto:jinkai.xu@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Jing, Longxia02 (uie68005)";RSVP=TRUE:mailto:longxia.2.jing@be
+	necke-changshun.com.cn
+CLASS:PUBLIC
+CREATED:20220531T050557Z
+DESCRIPTION:大家好，为了配合解决自制色母粒析出问题，色
+	母粒现场已在陆续接受色母粒退库，但退库色母粒后续
+	也需要有解决措施，特邀请大家一起讨论。\n\n \n\n
+DTEND;TZID="China Standard Time":20220712T110000
+DTSTAMP:20220531T050223Z
+DTSTART;TZID="China Standard Time":20220712T103000
+LAST-MODIFIED:20220705T023150Z
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+ORGANIZER;CN="Cao, Haibing (uib97156)":mailto:haibing.cao@benecke-changshun
+	.com.cn
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=1;BYDAY=TU
+SEQUENCE:0
+SUMMARY:退库色母粒后续问题解决
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000B0F2F7E6ED74D801000000000000000
+	010000000FD00CF0EB415334799FFCEB524F295CD
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1 
+	1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal
+	\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-family
+	:等线\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
+	family:等线\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:ex
+	port-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.
+	0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:Wo
+	rdSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext
+	="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:
+	shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelay
+	out></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink="#954
+	F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><div clas
+	s="WordSection1"><p class="MsoNormal">大家好，为了配合解决自制
+	色母粒析出问题，色母粒现场已在陆续接受色母粒退库
+	，但退库色母粒后续也需要有解决措施，特邀请大家一
+	起讨论。<span lang="EN-US"><o:p></o:p></span></p><p class="MsoNormal">
+	<span lang="EN-US"><o:p>&nbsp\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Tang, Jiawei04 (uif21900)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	jiawei.4.tang@benecke-changshun.com.cn
+ATTENDEE;CN="Liu, Kai05 (uia69439)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:kai.
+	5.liu@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:x
+	iaoyong.sun@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Qiang";RSVP=TRUE:mailto:qiang.sun@benecke-changshun.com.c
+	n
+ATTENDEE;CN="Guo, Wei02 (uie32366)";RSVP=TRUE:mailto:wei.2.guo@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Wang, Fen";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:fen.wang@benecke
+	-changshun.com.cn
+ATTENDEE;CN="Chen, Chenglong (uie33255)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto
+	:chenglong.chen@benecke-changshun.com.cn
+ATTENDEE;CN="Cheng, Dong01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:dong01.cheng@benecke-changshun.com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice301_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
+	ARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_PlantOffice301_Zhan
+	gjiagang@continental.com
+ATTENDEE;CN="Wang, Jianrui (uidt5628)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:jianrui.wang@benecke-changshun.com.cn
+CLASS:PUBLIC
+CREATED:20220706T031334Z
+DESCRIPTION:主要讨论以下内容：\n\n1.        显示界面、界面
+	画像\n\n2.        数据来源\n\n3.        角色与数据维护\n\n
+DTEND;TZID="China Standard Time":20220711T170000
+DTSTAMP:20220706T031330Z
+DTSTART;TZID="China Standard Time":20220711T143000
+LAST-MODIFIED:20220707T045534Z
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+ORGANIZER;CN="Li, Xiaodong03 (uib07707)":mailto:xiaodong.3.li@benecke-chang
+	shun.com.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=zh-cn:PPMS数字化管理模块讨论
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D0E0762C2791D801000000000000000
+	010000000A68EE7B91465B54BB98D189497F7CC5B
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=utf-8"><meta name=Generator conten
+	t="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definitions *
+	/\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2
+	 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;
+	}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\
+	;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	
+	{margin:0cm\;\n	text-align:justify\;\n	text-justify:inter-ideograph\;\n	fo
+	nt-size:10.5pt\;\n	font-family:等线\;}\np.MsoListParagraph\, li.MsoListP
+	aragraph\, div.MsoListParagraph\n	{mso-style-priority:34\;\n	margin:0cm\;\
+	n	text-align:justify\;\n	text-justify:inter-ideograph\;\n	text-indent:21.0
+	pt\;\n	font-size:10.5pt\;\n	font-family:等线\;}\nspan.EmailStyle17\n	{ms
+	o-style-type:personal-compose\;\n	font-family:等线\;\n	color:windowtext\
+	;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-family:等线\;}
+	\n/* Page Definitions */\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	m
+	argin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:WordSection
+	1\;}\n/* List Definitions */\n@list l0\n	{mso-list-id:23751591\;\n	mso-lis
+	t-type:hybrid\;\n	mso-list-template-ids:2085116524 67698703 67698713 67698
+	715 67698703 67698713 67698715 67698703 67698713 67698715\;}\n@list l0:lev
+	el1\n	{mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	marg
+	in-left:21.0pt\;\n	text-indent:-21.0pt\;}\n@list l0:level2\n	{mso-level-nu
+	mber-format:alpha-lower\;\n	mso-level-text:"%2\\)"\;\n	mso-level-tab-stop:
+	none\;\n	mso-level-number-position:left\;\n	margin-left:42.0pt\;\n	text-in
+	dent:-21.0pt\;}\n@list l0:level3\n	{mso-level-number-format:roman-lower\;\
+	n	mso-level-tab-stop:none\;\n	mso-level-number-position:right\;\n	margin-l
+	eft:63.0pt\;\n	text-indent:-21.0pt\;}\n@list l0:level4\n	{mso-level-tab-st
+	op:none\;\n	mso-level-number-position:left\;\n	margin-left:84.0pt\;\n	text
+	-indent:-21.0pt\;}\n@list l0:level5\n	{mso-level-number-format:alpha-lower
+	\;\n	mso-level-text:"%5\\)"\;\n	mso-level-tab-stop:none\;\n	mso-level-numb
+	er-position:left\;\n	margin-left:105.0pt\;\n	text-indent:-21.0pt\;}\n@list
+	 l0:level6\n	{mso-level-number-format:roman-lower\;\n	mso-level-tab-stop:n
+	one\;\n	mso-level-number-position:right\;\n	margin-left:126.0pt\;\n	text-i
+	ndent:-21.0pt\;}\n@list l0:level7\n	{mso-level-tab-stop:none\;\n	mso-level
+	-number-position:left\;\n	margin-left:147.0pt\;\n	text-indent:-21.0pt\;}\n
+	@list l0:level8\n	{mso-level-number-format:alpha-lower\;\n	mso-level-text:
+	"%8\\)"\;\n	mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\n
+		margin-left:168.0pt\;\n	text-indent:-21.0pt\;}\n@list l0:level9\n	{mso-le
+	vel-number-format:roman-lower\;\n	mso-level-tab-stop:none\;\n	mso-level-nu
+	mber-position:right\;\n	margin-left:189.0pt\;\n	text-indent:-21.0pt\;}\nol
+	\n	{margin-bottom:0cm\;}\nul\n	{margin-bottom:0cm\;}\n--></style><!--[if g
+	te mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><!
+	[endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap
+	 v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body 
+	lang=ZH-CN link="#0563C1" vlink="#954F72" style='word-wrap:break-word\;tex
+	t-justify-trim:punctuation'><div class=WordSection1><p class=MsoNormal sty
+	le='margin-left:21.0pt\;text-indent:-21.0pt'>主要讨论以下内容：<s
+	pan lang=EN-US><o:p></o:p></span></p><p class=MsoListParagraph style='marg
+	in-left:21.0pt\;text-indent:-21.0pt\;mso-list:l0 level1 lfo1'><![if !suppo
+	rtLists]><span lang=EN-US><span style='mso-list:Ignore'>1.<span style='fon
+	t:7.0pt "Times New Roman"'>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp
+	\; </span></span></span><![endif]>显示界面、界面画像<span lang=EN
+	-US><o:p></o:p></span></p><p class=MsoListParagraph style='margin-left:21.
+	0pt\;text-indent:-21.0pt\;mso-list:l0 level1 lfo1'><![if !supportLists]><s
+	pan lang=EN-US><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Ti
+	mes New Roman"'>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; </span><
+	/span></span><![endif]>数据来源<span lang=EN-US><o:p></o:p></span></p>
+	<p class=MsoListParagraph style='margin-left:21.0pt\;text-indent:-21.0pt\;
+	mso-list:l0 level1 lfo1'><![if !supportLists]><span lang=EN-US><span style
+	='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp\;&nb
+	sp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; </span></span></span><![endif]>角
+	色与数据维护<span lang=EN-US><o:p></o:p></span></p></div></body></ht
+	ml>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20220706T031330Z
+X-MS-OLK-AUTOFILLLOCATION:TRUE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Du, Lijie";RSVP=TRUE:mailto:lijie.du@benecke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Lu, Zhichao02 (uic98985)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:z
+	hichao.2.lu@benecke-changshun.com.cn
+ATTENDEE;CN="Lou, Hangyu (uif02025)";RSVP=TRUE:mailto:hangyu.lou@benecke-ch
+	angshun.com.cn
+ATTENDEE;CN="Huang, Yuyang";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yuyang.huang
+	@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Weikai";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:weikai.wang@b
+	enecke-changshun.com.cn
+ATTENDEE;CN="Zhou, Bin";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Bin.Zhou@benecke
+	-changshun.com.cn
+ATTENDEE;CN="Liu, Bing06";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:bing06.liu@ben
+	ecke-changshun.com.cn
+ATTENDEE;CN="Chen, Ryan (uie25784)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:li.7
+	.chen@benecke-changshun.com.cn
+ATTENDEE;CN="Pan, Sheng";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:sheng.pan@benecke-changshun.com.cn
+ATTENDEE;CN="Liu, Jiawen02";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jiawen.2.
+	liu@benecke-changshun.com.cn
+ATTENDEE;CN="Dingduo Jiang (dingduo.jiang@benecke-changshun.com.cn)";ROLE=O
+	PT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:dingduo.jiang@benecke-ch
+	angshun.com.cn
+CLASS:PUBLIC
+CREATED:20220706T074707Z
+DESCRIPTION:Dear all:\n\n鉴于目前的TPO hylite 粘皮严重。短期只
+	能在隔离纸上努力。\n\n长期在配方上改善。现在的信息
+	都是零散，会议上希望从工艺和项目这边得到更全面的
+	信息。大家一起讨论一下\n\n我这边希望\n\n从工艺及生产
+	的输入\n\n1， 目前的状态\n\n2， 不同工段由于粘皮的报
+	废率\n\n3， 现场如何评判粘皮\n\n4， 需要达到什么标准
+	才能不粘皮\n\n从项目的输入\n\n1， 客户主要关注点，是
+	透光率还是一定要软\n\n2， 目前项目性能上的要求\n\n希
+	望各位能给我们更多的输入。\n\n \n\n
+DTEND;TZID="China Standard Time":20220712T160000
+DTSTAMP:20220706T054848Z
+DTSTART;TZID="China Standard Time":20220712T140000
+LAST-MODIFIED:20220707T033439Z
+LOCATION:TE_ZG_MR_CBC221_Zhangjiagang
+ORGANIZER;CN="Du, Lijie":mailto:lijie.du@benecke-changshun.com.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:TPO hylite 粘皮改善 Kick off
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000020BE26A53A91D801000000000000000
+	010000000B864898F0404AD41A65C2D1D1C910FCD
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 
+	1 1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1
+	 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorm
+	al\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-fami
+	ly:DengXian\;}\np.MsoListParagraph\, li.MsoListParagraph\, div.MsoListPara
+	graph\n	{mso-style-priority:34\;\n	margin:0cm\;\n	text-align:justify\;\n	t
+	ext-indent:21.0pt\;\n	font-size:10.5pt\;\n	font-family:DengXian\;}\nspan.E
+	mailStyle19\n	{mso-style-type:personal-compose\;\n	font-family:DengXian\;\
+	n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	fo
+	nt-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:7
+	2.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n/
+	* List Definitions */\n@list l0\n	{mso-list-id:710573840\;\n	mso-list-type
+	:hybrid\;\n	mso-list-template-ids:-1733678270 64621474 67698713 67698715 6
+	7698703 67698713 67698715 67698703 67698713 67698715\;}\n@list l0:level1\n
+		{mso-level-text:%1，\;\n	mso-level-tab-stop:none\;\n	mso-level-number-po
+	sition:left\;\n	margin-left:18.0pt\;\n	text-indent:-18.0pt\;}\n@list l0:le
+	vel2\n	{mso-level-number-format:alpha-lower\;\n	mso-level-text:"%2\\)"\;\n
+		mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	margin-lef
+	t:42.0pt\;\n	text-indent:-21.0pt\;}\n@list l0:level3\n	{mso-level-number-f
+	ormat:roman-lower\;\n	mso-level-tab-stop:none\;\n	mso-level-number-positio
+	n:right\;\n	margin-left:63.0pt\;\n	text-indent:-21.0pt\;}\n@list l0:level4
+	\n	{mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	margin-
+	left:84.0pt\;\n	text-indent:-21.0pt\;}\n@list l0:level5\n	{mso-level-numbe
+	r-format:alpha-lower\;\n	mso-level-text:"%5\\)"\;\n	mso-level-tab-stop:non
+	e\;\n	mso-level-number-position:left\;\n	margin-left:105.0pt\;\n	text-inde
+	nt:-21.0pt\;}\n@list l0:level6\n	{mso-level-number-format:roman-lower\;\n	
+	mso-level-tab-stop:none\;\n	mso-level-number-position:right\;\n	margin-lef
+	t:126.0pt\;\n	text-indent:-21.0pt\;}\n@list l0:level7\n	{mso-level-tab-sto
+	p:none\;\n	mso-level-number-position:left\;\n	margin-left:147.0pt\;\n	text
+	-indent:-21.0pt\;}\n@list l0:level8\n	{mso-level-number-format:alpha-lower
+	\;\n	mso-level-text:"%8\\)"\;\n	mso-level-tab-stop:none\;\n	mso-level-numb
+	er-position:left\;\n	margin-left:168.0pt\;\n	text-indent:-21.0pt\;}\n@list
+	 l0:level9\n	{mso-level-number-format:roman-lower\;\n	mso-level-tab-stop:n
+	one\;\n	mso-level-number-position:right\;\n	margin-left:189.0pt\;\n	text-i
+	ndent:-21.0pt\;}\n@list l1\n	{mso-list-id:1117068812\;\n	mso-list-type:hyb
+	rid\;\n	mso-list-template-ids:1209151232 -883772408 67698713 67698715 6769
+	8703 67698713 67698715 67698703 67698713 67698715\;}\n@list l1:level1\n	{m
+	so-level-text:%1，\;\n	mso-level-tab-stop:none\;\n	mso-level-number-posit
+	ion:left\;\n	margin-left:18.0pt\;\n	text-indent:-18.0pt\;}\n@list l1:level
+	2\n	{mso-level-number-format:alpha-lower\;\n	mso-level-text:"%2\\)"\;\n	ms
+	o-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	margin-left:4
+	2.0pt\;\n	text-indent:-21.0pt\;}\n@list l1:level3\n	{mso-level-number-form
+	at:roman-lower\;\n	mso-level-tab-stop:none\;\n	mso-level-number-position:r
+	ight\;\n	margin-left:63.0pt\;\n	text-indent:-21.0pt\;}\n@list l1:level4\n	
+	{mso-level-tab-stop:none\;\n	mso-level-number-position:left\;\n	margin-lef
+	t:84.0pt\;\n	text-indent:-21.0pt\;}\n@list l1:level5\n	{mso-level-number-f
+	ormat:alpha-lower\;\n	mso-level-text:"%5\\)"\;\n	mso-level-tab-stop:none\;
+	\n	mso-level-number-position:left\;\n	margin-left:105.0pt\;\n	text-indent:
+	-21.0pt\;}\n@list l1:level6\n	{mso-level-number-format:roman-lower\;\n	mso
+	-level-tab-stop:none\;\n	mso-level-number-position:right\;\n	margin-left:1
+	26.0pt\;\n	text-indent:-21.0pt\;}\n@list l1:level7\n	{mso-level-tab-stop:n
+	one\;\n	mso-level-number-position:left\;\n	margin-left:147.0pt\;\n	text-in
+	dent:-21.0pt\;}\n@list l1:level8\n	{mso-level-number-format:alpha-lower\;\
+	n	mso-level-text:"%8\\)"\;\n	mso-level-tab-stop:none\;\n	mso-level-number-
+	position:left\;\n	margin-left:168.0pt\;\n	text-indent:-21.0pt\;}\n@list l1
+	:level9\n	{mso-level-number-format:roman-lower\;\n	mso-level-tab-stop:none
+	\;\n	mso-level-number-position:right\;\n	margin-left:189.0pt\;\n	text-inde
+	nt:-21.0pt\;}\nol\n	{margin-bottom:0cm\;}\nul\n	{margin-bottom:0cm\;}\n-->
+	</style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1
+	026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext=
+	"edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif
+	]--></head><body lang="ZH-CN" link="#0563C1" vlink="#954F72" style="word-w
+	rap:break-word\;text-justify-trim:punctuation"><div class="WordSection1"><
+	p class="MsoNormal"><span lang="EN-US">Dear all:<o:p></o:p></span></p><p c
+	lass="MsoNormal">鉴于目前的<span lang="EN-US">TPO hylite </span>粘
+	皮严重。短期只能在隔离纸上努力。<span lang="EN-US"><o:p></
+	o:p></span></p><p class="MsoNormal">长期在配方上改善。现在的
+	信息都是零散，会议上希望从工艺和项目这边得到更全
+	面的信息。大家一起讨论一下<span lang="EN-US"><o:p></o:p></spa
+	n></p><p class="MsoNormal">我这边希望<span lang="EN-US"><o:p></o:p></
+	span></p><p class="MsoNormal">从工艺及生产的输入<span lang="EN-US
+	"><o:p></o:p></span></p><p class="MsoListParagraph" style="margin-left:18.
+	0pt\;text-indent:-18.0pt\;mso-list:l0 level1 lfo2"><![if !supportLists]><s
+	pan lang="EN-US"><span style="mso-list:Ignore">1，<span style="font:7.0pt
+	 &quot\;Times New Roman&quot\;"> </span></span></span><![endif]>目前的
+	状态<span lang="EN-US"><o:p></o:p></span></p><p class="MsoListParagraph"
+	 style="margin-left:18.0pt\;text-indent:-18.0pt\;mso-list:l0 level1 lfo2">
+	<![if !supportLists]><span lang="EN-US"><span style="mso-list:Ignore">2，
+	<span style="font:7.0pt &quot\;Times New Roman&quot\;"> </span></span></sp
+	an><![endif]>不同工段由于粘皮的报废率<span lang="EN-US"><o:p><
+	/o:p></span></p><p class="MsoListParagraph" style="margin-left:18.0pt\;tex
+	t-indent:-18.0pt\;mso-list:l0 level1 lfo2"><![if !supportLists]><span lang
+	="EN-US"><span style="mso-list:Ignore">3，<span style="font:7.0pt &quot\;
+	Times New Roman&quot\;"> </span></span></span><![endif]>现场如何评判
+	粘皮<span lang="EN-US"><o:p></o:p></span></p><p class="MsoListParagraph"
+	 style="margin-left:18.0pt\;text-indent:-18.0pt\;mso-list:l0 level1 lfo2">
+	<![if !supportLists]><span lang="EN-US"><span style="mso-list:Ignore">4，
+	<span style="font:7.0pt &quot\;Times New Roman&quot\;"> </span></span></sp
+	an><![endif]>需要达到什么标准才能不粘皮<span lang="EN-US"><o:
+	p></o:p></span></p><p class="MsoNormal">从项目的输入<span lang="EN-U
+	S"><o:p></o:p></span></p><p class="MsoListParagraph" style="margin-left:18
+	.0pt\;text-indent:-18.0pt\;mso-list:l1 level1 lfo4"><![if !supportLists]><
+	span lang="EN-US"><span style="mso-list:Ignore">1，<span style="font:7.0p
+	t &quot\;Times New Roman&quot\;"> </span></span></span><![endif]>客户主
+	要关注点，是透光率还是一定要软<span lang="EN-US"><o:p></o:p
+	></span></p><p class="MsoListParagraph" style="margin-left:18.0pt\;text-in
+	dent:-18.0pt\;mso-list:l1 level1 lfo4"><![if !supportLists]><span lang="EN
+	-US"><span style="mso-list:Ignore">2，<span style="font:7.0pt &quot\;Time
+	s New Roman&quot\;"> </span></span></span><![endif]>目前项目性能上
+	的要求<span lang="EN-US"><o:p></o:p></span></p><p class="MsoNormal">希
+	望各位能给我们更多的输入。<span lang="EN-US"><o:p></o:p></spa
+	n></p><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p></span></p
+	></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Hou, Xuewen";RSVP=TRUE:mailto:xuewen.hou@benecke-changshun.com
+	.cn
+ATTENDEE;CN="Xu, Jinkai (uie99823)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:jinkai.xu@benecke-changshun.com.cn
+ATTENDEE;CN="Huang, Qing";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Qing.Huang@ben
+	ecke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Liu, Jiawen02";RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:jiawen.2.li
+	u@benecke-changshun.com.cn
+ATTENDEE;CN="Zhang, Haiyan03 (uia67176)";RSVP=TRUE:mailto:haiyan.3.zhang@be
+	necke-changshun.com.cn
+ATTENDEE;CN="Lv, Tiantian";RSVP=TRUE;PARTSTAT=DECLINED:mailto:tiantian.lv@b
+	enecke-changshun.com.cn
+ATTENDEE;CN="Jing, Longxia02 (uie68005)";RSVP=TRUE:mailto:longxia.2.jing@be
+	necke-changshun.com.cn
+ATTENDEE;CN="Cheng, Dong01";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:dong01.cheng
+	@benecke-changshun.com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice301_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
+	ARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_PlantOffice301_Zhan
+	gjiagang@continental.com
+ATTENDEE;CN="Wang, Mengjiao";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:mengjiao.wa
+	ng@benecke-changshun.com.cn
+CLASS:PUBLIC
+CREATED:20220707T013759Z
+DESCRIPTION: \n\n
+DTEND;TZID="China Standard Time":20220711T113000
+DTSTAMP:20220706T090146Z
+DTSTART;TZID="China Standard Time":20220711T100000
+LAST-MODIFIED:20220711T020029Z
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+ORGANIZER;CN="Hou, Xuewen":mailto:xuewen.hou@benecke-changshun.com.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:主数据变更对挤出投料防错系统数据的更新（2022年
+	第三次会议）
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000406BD87B5891D801000000000000000
+	010000000941835E57C3A8D42B254B4F940ED631E
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 
+	1 1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1
+	 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorm
+	al\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-fami
+	ly:DengXian\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	f
+	ont-family:DengXian\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-t
+	ype:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0p
+	t 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{p
+	age:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults
+	 v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml
+	>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:sh
+	apelayout></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink
+	="#954F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><di
+	v class="WordSection1"><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\
+	;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Qiuhua Lu";RSVP=TRUE:mailto:qiuhua.lu@benecke-changshun.com.cn
+ATTENDEE;CN="jiang, song03 (uic15874)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:Song.3.Jiang@benecke-changshun.com.cn
+ATTENDEE;CN="Jing, Longxia02 (uie68005)";RSVP=TRUE:mailto:longxia.2.jing@be
+	necke-changshun.com.cn
+ATTENDEE;CN="Xu, Jinkai (uie99823)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:jink
+	ai.xu@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Qiang";RSVP=TRUE:mailto:qiang.sun@benecke-changshun.com.c
+	n
+ATTENDEE;CN="cheng, yifei (uic16637)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yi
+	fei.cheng@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Congyu (uic39881)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:co
+	ngyu.wang@benecke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE:mailto:xiaodong.3.li@bene
+	cke-changshun.com.cn
+ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE:mailto:xiaoyong.sun@beneck
+	e-changshun.com.cn
+ATTENDEE;CN="Chen, Chenglong (uie33255)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto
+	:chenglong.chen@benecke-changshun.com.cn
+ATTENDEE;CN="Bian, Dongxu (uie35082)";RSVP=TRUE:mailto:dongxu.bian@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Liu, Jiawen02";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:jiawen.2.liu
+	@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Nick (uib69460)";RSVP=TRUE:mailto:nick.wang@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Meng, Fancheng";RSVP=TRUE:mailto:fancheng.meng@benecke-changsh
+	un.com.cn
+ATTENDEE;CN="wang, hongcheng (uic03724)";RSVP=TRUE:mailto:hongcheng.wang@be
+	necke-changshun.com.cn
+ATTENDEE;CN="Zhang, Hongbo03 (uib63801)";RSVP=TRUE:mailto:hongbo.3.zhang@be
+	necke-changshun.com.cn
+ATTENDEE;CN="Cao, Haibing (uib97156)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:ha
+	ibing.cao@benecke-changshun.com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice301_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
+	ARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_PlantOffice301_Zhan
+	gjiagang@continental.com
+ATTENDEE;CN="Guo, Wei02 (uie32366)";RSVP=TRUE:mailto:wei.2.guo@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Bian, Baoxiang02 (uib97886)";RSVP=TRUE:mailto:baoxiang.2.bian@
+	benecke-changshun.com.cn
+CLASS:PUBLIC
+CREATED:20220708T053600Z
+DESCRIPTION: \n\n
+DTEND;TZID="China Standard Time":20220711T143000
+DTSTAMP:20220708T053553Z
+DTSTART;TZID="China Standard Time":20220711T140000
+LAST-MODIFIED:20220711T025900Z
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+ORGANIZER;CN="Qiuhua Lu":mailto:qiuhua.lu@benecke-changshun.com.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:PVC+TPO过程异常保留相关
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000010AD24F8C792D801000000000000000
+	010000000B5364BA71BB0314793465C4DD114CD4D
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1 
+	1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal
+	\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-family
+	:等线\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
+	family:等线\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:ex
+	port-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.
+	0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:Wo
+	rdSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext
+	="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:
+	shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelay
+	out></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink="#954
+	F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><div clas
+	s="WordSection1"><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p
+	></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Guo, Wei02 (uie32366)";RSVP=TRUE:mailto:wei.2.guo@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Sun, Qiang";RSVP=TRUE:mailto:qiang.sun@benecke-changshun.com.c
+	n
+ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE:mailto:xiaoyong.sun@beneck
+	e-changshun.com.cn
+ATTENDEE;CN="Liu, Kai05 (uia69439)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:kai.
+	5.liu@benecke-changshun.com.cn
+ATTENDEE;CN="Chen, Chenglong (uie33255)";RSVP=TRUE:mailto:chenglong.chen@be
+	necke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE:mailto:xiaodong.3.li@bene
+	cke-changshun.com.cn
+ATTENDEE;CN="Wang, Congyu (uic39881)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:co
+	ngyu.wang@benecke-changshun.com.cn
+ATTENDEE;CN="cheng, yifei (uic16637)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yi
+	fei.cheng@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Fen";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:fen.wang@benecke
+	-changshun.com.cn
+ATTENDEE;CN="Zhang, Haiyan03 (uia67176)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto
+	:haiyan.3.zhang@benecke-changshun.com.cn
+ATTENDEE;CN="Huang, Yuyang";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yuyang.huang
+	@benecke-changshun.com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice301_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
+	ARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_PlantOffice301_Zhan
+	gjiagang@continental.com
+CLASS:PUBLIC
+CREATED:20220711T022934Z
+DESCRIPTION:Hello all:\n\n我写了一份UEV VAVE的项目报告，在汇
+	报前想邀请大家帮忙参谋一下，指导查漏补缺。\n\n \n\n
+	谢谢！\n\n \n\nBest regards！\n\n郭巍\n\n
+DTEND;TZID="China Standard Time":20220711T130000
+DTSTAMP:20220711T022923Z
+DTSTART;TZID="China Standard Time":20220711T123000
+LAST-MODIFIED:20220711T033226Z
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+ORGANIZER;CN="Guo, Wei02 (uie32366)":mailto:wei.2.guo@benecke-changshun.com
+	.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:UEV VAVE project report check
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000A03838570F95D801000000000000000
+	010000000B0AFA2C919A03D45BD283EFA2B9D9272
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 1 
+	1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal
+	\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-family
+	:等线\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
+	family:等线\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:ex
+	port-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.
+	0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:Wo
+	rdSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext
+	="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:
+	shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelay
+	out></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink="#954
+	F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><div clas
+	s="WordSection1"><p class="MsoNormal"><span lang="EN-US">Hello all:<o:p></
+	o:p></span></p><p class="MsoNormal">我写了一份<span lang="EN-US">UEV 
+	VAVE</span>的项目报告，在汇报前想邀请大家帮忙参谋一下
+	，指导查漏补缺。<span lang="EN-US"><o:p></o:p></span></p><p class=
+	"MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p></span></p><p class="MsoN
+	ormal">谢谢！<span lang="EN-US"><o:p></o:p></span></p><p class="MsoNorm
+	al"><span lang="EN-US"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal"><
+	span lang="EN-US">Best regards</span>！<span lang="EN-US"><o:p></o:p></sp
+	an></p><p class="MsoNormal">郭巍<span lang="EN-US"><o:p></o:p></span></p
+	></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
