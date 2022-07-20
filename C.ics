@@ -3,7 +3,7 @@ PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 VERSION:2.0
 METHOD:PUBLISH
 X-CALSTART:20220719T003500Z
-X-CALEND:20220725T012500Z
+X-CALEND:20220725T070000Z
 X-CLIPSTART:20220718T160000Z
 X-CLIPEND:20220725T160000Z
 X-WR-RELCALID:{0000002E-4624-F197-70FA-88B3997B8C1A}
@@ -978,7 +978,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220412T232022Z
 DTEND:20220720T150000Z
-DTSTAMP:20220719T005454Z
+DTSTAMP:20220719T125511Z
 DTSTART:20220720T140000Z
 LAST-MODIFIED:20220718T191049Z
 PRIORITY:5
@@ -1948,7 +1948,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220118T193700Z
 DTEND:20220720T080000Z
-DTSTAMP:20220719T005510Z
+DTSTAMP:20220719T125528Z
 DTSTART:20220720T070000Z
 LAST-MODIFIED:20220718T191103Z
 PRIORITY:5
@@ -2236,7 +2236,7 @@ CATEGORIES:假日
 CLASS:PUBLIC
 CREATED:20220324T040549Z
 DTEND;VALUE=DATE:20220724
-DTSTAMP:20220719T005525Z
+DTSTAMP:20220719T125543Z
 DTSTART;VALUE=DATE:20220723
 LAST-MODIFIED:20220711T123253Z
 LOCATION:中国
@@ -2258,7 +2258,7 @@ CATEGORIES:假日
 CLASS:PUBLIC
 CREATED:20220328T055228Z
 DTEND;VALUE=DATE:20220724
-DTSTAMP:20220719T005525Z
+DTSTAMP:20220719T125543Z
 DTSTART;VALUE=DATE:20220723
 LAST-MODIFIED:20220711T123253Z
 LOCATION:中国
@@ -2316,7 +2316,7 @@ DESCRIPTION: \n\n__________________________________________________________
 DTEND;TZID="China Standard Time":20220719T170000
 DTSTAMP:20220419T043905Z
 DTSTART;TZID="China Standard Time":20220719T160000
-LAST-MODIFIED:20220712T075017Z
+LAST-MODIFIED:20220719T075505Z
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 ORGANIZER;CN="Liu, Kai05 (uia69439)":mailto:kai.5.liu@benecke-changshun.com
 	.cn
@@ -2432,7 +2432,7 @@ DESCRIPTION:大家好，为了配合解决自制色母粒析出问题，色
 DTEND;TZID="China Standard Time":20220719T110000
 DTSTAMP:20220531T050223Z
 DTSTART;TZID="China Standard Time":20220719T103000
-LAST-MODIFIED:20220713T085657Z
+LAST-MODIFIED:20220719T023237Z
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 ORGANIZER;CN="Cao, Haibing (uib97156)":mailto:haibing.cao@benecke-changshun
 	.com.cn
@@ -2768,94 +2768,6 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN="Zhang, Qiang (uia26407)";RSVP=TRUE:mailto:qiang.zhang@benecke-
-	changshun.com.cn
-ATTENDEE;CN="Huang, Yinan";RSVP=TRUE:mailto:yinan.huang@benecke-changshun.c
-	om.cn
-ATTENDEE;CN="Xu, Jinkai (uie99823)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:jink
-	ai.xu@benecke-changshun.com.cn
-ATTENDEE;CN="Qian, Quick (qianz1)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:zheng
-	kai.qian@benecke-changshun.com.cn
-ATTENDEE;CN="Liu, Jiawen02";RSVP=TRUE:mailto:jiawen.2.liu@benecke-changshun
-	.com.cn
-ATTENDEE;CN="Huang, Yuyang";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yuyang.huang
-	@benecke-changshun.com.cn
-ATTENDEE;CN="Miao, Yingmin";RSVP=TRUE:mailto:Yingmin.Miao@benecke-changshun
-	.com.cn
-ATTENDEE;CN="Zhang, Gavin (zhangy38)";RSVP=TRUE:mailto:yanxu.zhang@benecke-
-	changshun.com.cn
-ATTENDEE;CN="Pan, Sheng";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:sheng.pan@benec
-	ke-changshun.com.cn
-ATTENDEE;CN=TE_ZG_MR_PlantOffice301_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
-	ARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_PlantOffice301_Zhan
-	gjiagang@continental.com
-ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:x
-	iaoyong.sun@benecke-changshun.com.cn
-ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE:mailto:xiaodong.3.li@bene
-	cke-changshun.com.cn
-CLASS:PUBLIC
-CREATED:20220718T013226Z
-DESCRIPTION:Dear All\,\n\n \n\n基于目前常州新泉对我们产品质
-	量抱怨非常大， 这个会议上面我会展示近期在客户端的
-	所有质量问题\n\n需要大家一起看一下如何全面解决这些
-	问题。\n\n \n\n这个项目的质量问题我会在下周二的QFM上
-	面给管理层做汇报.\n\n \n\n
-DTEND;TZID="China Standard Time":20220719T120000
-DTSTAMP:20220718T013223Z
-DTSTART;TZID="China Standard Time":20220719T110000
-LAST-MODIFIED:20220718T034800Z
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-ORGANIZER;CN="Zhang, Qiang (uia26407)":mailto:qiang.zhang@benecke-changshun
-	.com.cn
-PRIORITY:5
-SEQUENCE:0
-SUMMARY:常州新泉SC2E客户抱怨
-TRANSP:OPAQUE
-UID:040000008200E00074C5B7101A82E0080000000080C5865F879AD801000000000000000
-	01000000084CF25E39C85A8438495E9AAEF3EF564
-X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
-	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
-	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
-	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
-	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
-	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
-	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
-	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
-	 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1
-	 1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 
-	1 1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1
-	 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorm
-	al\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-fami
-	ly:DengXian\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	f
-	ont-family:DengXian\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-t
-	ype:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0p
-	t 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{p
-	age:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults
-	 v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml
-	>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:sh
-	apelayout></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink
-	="#954F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><di
-	v class="WordSection1"><p class="MsoNormal"><span lang="EN-US">Dear All\,<
-	o:p></o:p></span></p><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;<
-	/o:p></span></p><p class="MsoNormal">基于目前常州新泉对我们产
-	品质量抱怨非常大， 这个会议上面我会展示近期在客户
-	端的所有质量问题<span lang="EN-US"><o:p></o:p></span></p><p class=
-	"MsoNormal">需要大家一起看一下如何全面解决这些问题。<s
-	pan lang="EN-US"><o:p></o:p></span></p><p class="MsoNormal"><span lang="EN
-	-US"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal">这个项目的质
-	量问题我会在下周二的<span lang="EN-US">QFM</span>上面给管理
-	层做汇报<span lang="EN-US">.<o:p></o:p></span></p><p class="MsoNormal"
-	><span lang="EN-US"><o:p>&nbsp\;</o:p></span></p></div></body></html>
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 ATTENDEE;CN="Chen, Tingting02";RSVP=TRUE:mailto:tingting.2.chen@benecke-cha
 	ngshun.com.cn
 ATTENDEE;CN=TE_ZG_MR_CBC401_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-PARTICIPA
@@ -2938,6 +2850,54 @@ ATTENDEE;CN="Wang, Rong (uif10588)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
 	=ACCEPTED:mailto:rong.4.wang@continental-corporation.com
 ATTENDEE;CN="Chen, Hao06 (uib99720)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
 	T=ACCEPTED:mailto:hao.6.chen@benecke-changshun.com.cn
+ATTENDEE;CN="Zhou, Dan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
+	ilto:dan.zhou@benecke-changshun.com.cn
+ATTENDEE;CN="Pan, Hong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
+	ilto:Hong.Pan@benecke-changshun.com.cn
+ATTENDEE;CN="Qi, Nicholas (uie17680)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:nicholas.qi@benecke-changshun.com.cn
+ATTENDEE;CN="Zhou, Xiaolan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:xiaolan.zhou@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Dimin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:
+	mailto:dimin.sun@benecke-changshun.com.cn
+ATTENDEE;CN="Pei, Yang";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
+	ilto:yang.pei@benecke-changshun.com.cn
+ATTENDEE;CN="Lu, Zhichao02 (uic98985)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:zhichao.2.lu@benecke-changshun.com.cn
+ATTENDEE;CN="Gao, Juan01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:juan01.gao@benecke-changshun.com.cn
+ATTENDEE;CN="Tang, Jiawei04 (uif21900)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:jiawei.4.tang@benecke-changshun.com.cn
+ATTENDEE;CN="Fan, Yinfeng";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:yinfeng.fan@benecke-changshun.com.cn
+ATTENDEE;CN="Xu, Hua";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:mai
+	lto:Hua.Xu@benecke-changshun.com.cn
+ATTENDEE;CN="Shan, Lan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:ma
+	ilto:lan.shan@benecke-changshun.com.cn
+ATTENDEE;CN="Zou, Yang (uia69734)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:yang.zou@benecke-changshun.com.cn
+ATTENDEE;CN="Bian, Dongxu (uie35082)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:dongxu.bian@benecke-changshun.com.cn
+ATTENDEE;CN="cheng, yifei (uic16637)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:yifei.cheng@benecke-changshun.com.cn
+ATTENDEE;CN="Hang, Qiaodi";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:Qiaodi.Hang@benecke-changshun.com.cn
+ATTENDEE;CN="Yu, Xiaoyu";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:m
+	ailto:xiaoyu.yu@benecke-changshun.com.cn
+ATTENDEE;CN="Bian, Baoxiang02 (uib97886)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:baoxiang.2.bian@benecke-changshun.com.cn
+ATTENDEE;CN="Lu, Xinhua";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:m
+	ailto:Xinhua.Lu@benecke-changshun.com.cn
+ATTENDEE;CN="Gu, Ying (uic82228)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:ying.gu@benecke-changshun.com.cn
+ATTENDEE;CN="Xu, Yanqiu";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:
+	mailto:yanqiu.xu@benecke-changshun.com.cn
+ATTENDEE;CN="Huang, Bo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:m
+	ailto:bo.huang@benecke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Sun, Juan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
+	ilto:juan.sun@benecke-changshun.com.cn
 CLASS:PUBLIC
 CREATED:20220718T074652Z
 DESCRIPTION:Dear  all：\n\n \n\n健康是我们最宝贵的财富!\n\n \n\
@@ -2954,7 +2914,7 @@ DESCRIPTION:Dear  all：\n\n \n\n健康是我们最宝贵的财富!\n\n \n\
 DTEND;TZID="China Standard Time":20220721T150000
 DTSTAMP:20220718T065313Z
 DTSTART;TZID="China Standard Time":20220721T130000
-LAST-MODIFIED:20220718T085442Z
+LAST-MODIFIED:20220719T105823Z
 LOCATION:TE_ZG_MR_CBC401_Zhangjiagang\; TE_ZG_MR_PlantOffice303_Zhangjiagan
 	g\; TE_ZG_MR_CBC107_Zhangjiagang
 ORGANIZER;CN="Chen, Tingting02":mailto:tingting.2.chen@benecke-changshun.co
@@ -3055,6 +3015,145 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	 lang="EN-US">Tina<o:p></o:p></span></p><p class="MsoNormal"><span lang="E
 	N-US">ESH &nbsp\;<o:p></o:p></span></p><p class="MsoNormal"><span lang="EN
 	-US"><o:p>&nbsp\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Zhang, Qiang (uia26407)";RSVP=TRUE:mailto:qiang.zhang@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Huang, Yinan";RSVP=TRUE:mailto:yinan.huang@benecke-changshun.c
+	om.cn
+ATTENDEE;CN="Xu, Jinkai (uie99823)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:jink
+	ai.xu@benecke-changshun.com.cn
+ATTENDEE;CN="Qian, Quick (qianz1)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:zheng
+	kai.qian@benecke-changshun.com.cn
+ATTENDEE;CN="Liu, Jiawen02";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:jiawen.2.liu
+	@benecke-changshun.com.cn
+ATTENDEE;CN="Huang, Yuyang";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yuyang.huang
+	@benecke-changshun.com.cn
+ATTENDEE;CN="Miao, Yingmin";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Yingmin.Miao
+	@benecke-changshun.com.cn
+ATTENDEE;CN="Zhang, Gavin (zhangy38)";RSVP=TRUE:mailto:yanxu.zhang@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Pan, Sheng";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:sheng.pan@benec
+	ke-changshun.com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice301_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
+	ARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_PlantOffice301_Zhan
+	gjiagang@continental.com
+ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:x
+	iaoyong.sun@benecke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	xiaodong.3.li@benecke-changshun.com.cn
+CLASS:PUBLIC
+CREATED:20220719T024243Z
+DESCRIPTION:Dear All\,\n\n \n\n基于目前常州新泉对我们产品质
+	量抱怨非常大， 这个会议上面我会展示近期在客户端的
+	所有质量问题\n\n需要大家一起看一下如何全面解决这些
+	问题。\n\n \n\n这个项目的质量问题我会在下周二的QFM上
+	面给管理层做汇报.\n\n \n\n
+DTEND;TZID="China Standard Time":20220719T120000
+DTSTAMP:20220718T013223Z
+DTSTART;TZID="China Standard Time":20220719T110000
+LAST-MODIFIED:20220719T030307Z
+LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
+ORGANIZER;CN="Zhang, Qiang (uia26407)":mailto:qiang.zhang@benecke-changshun
+	.com.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:常州新泉SC2E客户抱怨
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000080C5865F879AD801000000000000000
+	01000000084CF25E39C85A8438495E9AAEF3EF564
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 
+	1 1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1
+	 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorm
+	al\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-fami
+	ly:DengXian\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	f
+	ont-family:DengXian\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-t
+	ype:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0p
+	t 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{p
+	age:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults
+	 v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml
+	>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:sh
+	apelayout></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink
+	="#954F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><di
+	v class="WordSection1"><p class="MsoNormal"><span lang="EN-US">Dear All\,<
+	o:p></o:p></span></p><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;<
+	/o:p></span></p><p class="MsoNormal">基于目前常州新泉对我们产
+	品质量抱怨非常大， 这个会议上面我会展示近期在客户
+	端的所有质量问题<span lang="EN-US"><o:p></o:p></span></p><p class=
+	"MsoNormal">需要大家一起看一下如何全面解决这些问题。<s
+	pan lang="EN-US"><o:p></o:p></span></p><p class="MsoNormal"><span lang="EN
+	-US"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal">这个项目的质
+	量问题我会在下周二的<span lang="EN-US">QFM</span>上面给管理
+	层做汇报<span lang="EN-US">.<o:p></o:p></span></p><p class="MsoNormal"
+	><span lang="EN-US"><o:p>&nbsp\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Wang, Fen";RSVP=TRUE:mailto:fen.wang@benecke-changshun.com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice303_Zhangjiagang@continental.com;CUTYPE=RES
+	OURCE;ROLE=NON-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_Pla
+	ntOffice303_Zhangjiagang@continental.com
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Tang, Jiawei04 (uif21900)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	jiawei.4.tang@benecke-changshun.com.cn
+CLASS:PUBLIC
+CREATED:20220719T064349Z
+DESCRIPTION: \n\n
+DTEND;TZID="China Standard Time":20220725T150000
+DTSTAMP:20220719T063301Z
+DTSTART;TZID="China Standard Time":20220725T140000
+LAST-MODIFIED:20220719T065931Z
+ORGANIZER;CN="Wang, Fen":mailto:fen.wang@benecke-changshun.com.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:R2R项目数据整理讨论
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000B0D079137C9BD801000000000000000
+	0100000001DCE528819ADAC42A26FE49F357ECDBB
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1 
+	1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal
+	\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-family
+	:等线\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
+	family:等线\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:ex
+	port-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.
+	0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:Wo
+	rdSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext
+	="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:
+	shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelay
+	out></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink="#954
+	F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><div clas
+	s="WordSection1"><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p
+	></span></p></div></body></html>
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
