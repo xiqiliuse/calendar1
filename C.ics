@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 VERSION:2.0
 METHOD:PUBLISH
-X-CALSTART:20220719T003500Z
-X-CALEND:20220725T070000Z
-X-CLIPSTART:20220718T160000Z
-X-CLIPEND:20220725T160000Z
+X-CALSTART:20220720T003500Z
+X-CALEND:20220726T120000Z
+X-CLIPSTART:20220719T160000Z
+X-CLIPEND:20220726T160000Z
 X-WR-RELCALID:{0000002E-4624-F197-70FA-88B3997B8C1A}
 X-WR-CALNAME:Li\, Xiaodong03 (uib07707)
 X-PRIMARY-CALENDAR:TRUE
@@ -842,6 +842,10 @@ ATTENDEE;CN="Straile, Hildegard";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
 	CLINED:mailto:Hildegard.Straile@continental-corporation.com
 ATTENDEE;CN="Menclova, Dana (uic44367)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
 	to:dana.menclova@continental-corporation.com
+ATTENDEE;CN="Terekhova, Yulia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:yulia.terekhova@conti.de
+ATTENDEE;CN="Eineder, Heidi";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:heidi.eineder@continental-corporation.com
 CLASS:PUBLIC
 CREATED:20211020T095233Z
 DESCRIPTION:Dear All\,\nHere are the events for our CBS@Operations Communit
@@ -864,7 +868,7 @@ DESCRIPTION:Dear All\,\nHere are the events for our CBS@Operations Communit
 DTEND;TZID="Romance Standard Time":20220720T170000
 DTSTAMP:20211020T095159Z
 DTSTART;TZID="Romance Standard Time":20220720T160000
-LAST-MODIFIED:20220718T191056Z
+LAST-MODIFIED:20220719T221831Z
 ORGANIZER;CN="CBS Coaches Worldwide Platform":mailto:team_10005256@continen
 	tal.onmicrosoft.com
 PRIORITY:5
@@ -978,7 +982,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220412T232022Z
 DTEND:20220720T150000Z
-DTSTAMP:20220719T125511Z
+DTSTAMP:20220720T010817Z
 DTSTART:20220720T140000Z
 LAST-MODIFIED:20220718T191049Z
 PRIORITY:5
@@ -1836,7 +1840,7 @@ DESCRIPTION:Dear All\,\nHere are the events for our CBS@Operations Communit
 DTEND;TZID="Romance Standard Time":20220720T100000
 DTSTAMP:20211020T095008Z
 DTSTART;TZID="Romance Standard Time":20220720T090000
-LAST-MODIFIED:20220718T191107Z
+LAST-MODIFIED:20220719T221852Z
 ORGANIZER;CN="CBS Coaches Worldwide Platform":mailto:team_10005256@continen
 	tal.onmicrosoft.com
 PRIORITY:5
@@ -1948,9 +1952,9 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220118T193700Z
 DTEND:20220720T080000Z
-DTSTAMP:20220719T125528Z
+DTSTAMP:20220720T010834Z
 DTSTART:20220720T070000Z
-LAST-MODIFIED:20220718T191103Z
+LAST-MODIFIED:20220719T221837Z
 PRIORITY:5
 RECURRENCE-ID:20220720T070000Z
 SEQUENCE:0
@@ -2004,10 +2008,10 @@ DESCRIPTION: \n\n__________________________________________________________
 	nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
 	ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
 	______________________________________ \n\n \n\n
-DTEND;TZID="China Standard Time":20220719T092500
+DTEND;TZID="China Standard Time":20220720T092500
 DTSTAMP:20220411T004325Z
-DTSTART;TZID="China Standard Time":20220719T083500
-LAST-MODIFIED:20220719T003240Z
+DTSTART;TZID="China Standard Time":20220720T083500
+LAST-MODIFIED:20220720T002843Z
 LOCATION:Microsoft Teams 会议
 ORGANIZER;CN="Huang, Yuyang":mailto:yuyang.huang@benecke-changshun.com.cn
 PRIORITY:5
@@ -2236,7 +2240,7 @@ CATEGORIES:假日
 CLASS:PUBLIC
 CREATED:20220324T040549Z
 DTEND;VALUE=DATE:20220724
-DTSTAMP:20220719T125543Z
+DTSTAMP:20220720T010850Z
 DTSTART;VALUE=DATE:20220723
 LAST-MODIFIED:20220711T123253Z
 LOCATION:中国
@@ -2258,7 +2262,7 @@ CATEGORIES:假日
 CLASS:PUBLIC
 CREATED:20220328T055228Z
 DTEND;VALUE=DATE:20220724
-DTSTAMP:20220719T125543Z
+DTSTAMP:20220720T010850Z
 DTSTART;VALUE=DATE:20220723
 LAST-MODIFIED:20220711T123253Z
 LOCATION:中国
@@ -2313,9 +2317,9 @@ DESCRIPTION: \n\n__________________________________________________________
 	nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
 	ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
 	______________________________________ \n\n \n\n
-DTEND;TZID="China Standard Time":20220719T170000
+DTEND;TZID="China Standard Time":20220726T170000
 DTSTAMP:20220419T043905Z
-DTSTART;TZID="China Standard Time":20220719T160000
+DTSTART;TZID="China Standard Time":20220726T160000
 LAST-MODIFIED:20220719T075505Z
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 ORGANIZER;CN="Liu, Kai05 (uia69439)":mailto:kai.5.liu@benecke-changshun.com
@@ -2429,9 +2433,9 @@ CREATED:20220531T050557Z
 DESCRIPTION:大家好，为了配合解决自制色母粒析出问题，色
 	母粒现场已在陆续接受色母粒退库，但退库色母粒后续
 	也需要有解决措施，特邀请大家一起讨论。\n\n \n\n
-DTEND;TZID="China Standard Time":20220719T110000
+DTEND;TZID="China Standard Time":20220726T110000
 DTSTAMP:20220531T050223Z
-DTSTART;TZID="China Standard Time":20220719T103000
+DTSTART;TZID="China Standard Time":20220726T103000
 LAST-MODIFIED:20220719T023237Z
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 ORGANIZER;CN="Cao, Haibing (uib97156)":mailto:haibing.cao@benecke-changshun
@@ -2475,6 +2479,681 @@ X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
 BEGIN:VALARM
 TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="CLAP Open Teams";RSVP=TRUE:mailto:team_10030559@continental.on
+	microsoft.com
+ATTENDEE;CN="Zhang, Sophie";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:sophie.zhang
+	@conti.de
+ATTENDEE;CN="Francis Limgenco";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Francis.L
+	imgenco@conti.de
+ATTENDEE;CN="Cogliani, Emilio";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:emilio.cogliani@conti.de
+ATTENDEE;CN="Cattau, Paulina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:paulina.cattau@conti.de
+ATTENDEE;CN="Szczepanska, Karolina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:karolina.szczepanska@continental-corporation.com
+ATTENDEE;CN="Kassack, Carolin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:carolin.kassack@conti.de
+ATTENDEE;CN="Neumeier, Dominic";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:dominic.neumeier@continental-corporation.com
+ATTENDEE;CN="Ramos-Mendez, Helena";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	DECLINED:mailto:helena.ramos-mendez@conti.de
+ATTENDEE;CN="Ickelsheimer, Andre";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:Andre.Ickelsheimer@contitrade.com
+ATTENDEE;CN="Tejedor, Raul";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:raul.tejedor@continental-corporation.com
+ATTENDEE;CN="Kupai, Sandor (uic69733)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:sandor.kupai@continental-corporation.com
+ATTENDEE;CN="Barlsen, Kerstin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:kerstin.barlsen@conti.de
+ATTENDEE;CN="Drienovsky, Daniel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:daniel.drienovsky@continental-corporation.com
+ATTENDEE;CN="Forgone Keresztes-Nagy, Kinga (uib49308)";ROLE=OPT-PARTICIPANT
+	;RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:kinga.forgone.keresztes-nagy@continen
+	tal-corporation.com
+ATTENDEE;CN="Zadorozhna, Julia (uie84620)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=ACCEPTED:mailto:julia.zadorozhna@continental.com
+ATTENDEE;CN="Torterolo, Roberto";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TE
+	NTATIVE:mailto:roberto.torterolo@continental-corporation.com
+ATTENDEE;CN="R M, Chetak (uie07524)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:chetak.r.m@ptg.contitech.in
+ATTENDEE;CN="Richter, Matthias";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:matthias.richter@conti.de
+ATTENDEE;CN="Deichmann, Klaus";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:klaus.deichmann@conti.de
+ATTENDEE;CN="Meyer, Timo (uic90889)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=DECLINED:mailto:timo.meyer@conti.de
+ATTENDEE;CN="Myshrall, Chris";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:Chris.Myshrall@fluid.contitech.co.uk
+ATTENDEE;CN="Trmata, Stepan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:stepan.trmata@continental-corporation.com
+ATTENDEE;CN="Kuppek, Jessica";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:jessica.kuppek@continental-corporation.com
+ATTENDEE;CN="Qu, Yongxiang";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:yongxiang.qu@continental-corporation.com
+ATTENDEE;CN="Dusleag, Alin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:alin.dusleag@continental-corporation.com
+ATTENDEE;CN="Silva, Leticia03";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:invalid:nomail
+ATTENDEE;CN="Tao, Tom";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:ma
+	ilto:tom.tao@continental-corporation.com
+ATTENDEE;CN="Luber, Tobias";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Tobias.Luber@continental-corporation.com
+ATTENDEE;CN="Hasselbring, Karl03 (uie59687)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=TENTATIVE:mailto:karl.3.hasselbring@conti.de
+ATTENDEE;CN="Cismas, Sorin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:Sorin.Cismas@continental-corporation.com
+ATTENDEE;CN="Fritsch, Dennis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:dennis.fritsch@continental-corporation.com
+ATTENDEE;CN="Wolf, Stefan03 (uid60742)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:Stefan.3.Wolf@continental-corporation.com
+ATTENDEE;CN="Busch, Carina (buschc1)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:mailto:carina.busch@conti.de
+ATTENDEE;CN="Alexandrescu, Marius (uif04179)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=ACCEPTED:mailto:marius.alexandrescu@continental-corporation.com
+ATTENDEE;CN="Gombai, Norbert";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:Norbert.Gombai@conti.de
+ATTENDEE;CN="Fanning, Tammy";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Tammy.Fanning@continental-corporation.com
+ATTENDEE;CN="Voetsch, Martin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:martin.voetsch@continental-corporation.com
+ATTENDEE;CN="Terei, Rolf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:rolf.terei@conti.de
+ATTENDEE;CN="Damnjanovic, Vladimir";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:vladimir.damnjanovic@fluid.contitech.rs
+ATTENDEE;CN="Diaz, David";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:david.diaz@continental.com
+ATTENDEE;CN="Wang, Kai09";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:Kai.9.Wang@continental-corporation.com
+ATTENDEE;CN="Kovacs, Adam02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:adam02.kovacs@continental-corporation.com
+ATTENDEE;CN="Krolik, Michael (uia89860)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:michael.krolik@conti.de
+ATTENDEE;CN="Gerschwitz, Philipp";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:Philipp.Gerschwitz@continental-corporation.com
+ATTENDEE;CN="Arweiler, Berthold";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TE
+	NTATIVE:mailto:berthold.arweiler@continental-corporation.com
+ATTENDEE;CN="Kossa, Dirk";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:dirk.kossa@continental-corporation.com
+ATTENDEE;CN="Comes, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:michael.comes@continental-corporation.com
+ATTENDEE;CN="Kolodziej, Carolin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:carolin.kolodziej@conti.de
+ATTENDEE;CN="Reckenberger, Wolfgang";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=TENTATIVE:mailto:wolfgang.reckenberger@continental-corporation.com
+ATTENDEE;CN="Gabriel, Jakob (uia31919)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:jakob.gabriel@fluid.contitech.de
+ATTENDEE;CN="Diergardt, Jochen (diergardtj)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=TENTATIVE:mailto:jochen.diergardt@conti.de
+ATTENDEE;CN="Sharma, Prashant-Kumar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:Prashant-Kumar.Sharma@conti.in
+ATTENDEE;CN="Harnisch, Claudia (harnischc)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=ACCEPTED:mailto:claudia.harnisch@conti.de
+ATTENDEE;CN="Melcher, Andreas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:andreas.melcher@conti.de
+ATTENDEE;CN="Griesch, Stefan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Stefan.Griesch@continental-corporation.com
+ATTENDEE;CN="Lange, Ulf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:m
+	ailto:ulf.lange@conti.de
+ATTENDEE;CN="Petrescu, Florentina (uidd7090)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=ACCEPTED:mailto:florentina.dimcea@continental-corporation.com
+ATTENDEE;CN="Brandt, Mike";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:mike.brandt@continental.com
+ATTENDEE;CN="Van Winckel, Luc";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:luc.van.winckel@continental-corporation.com
+ATTENDEE;CN="Pantea, Loredana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:loredana.pantea@continental-corporation.com
+ATTENDEE;CN="Schlecht, Volker (uia32691)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=TENTATIVE:mailto:Volker.Schlecht@continental-corporation.com
+ATTENDEE;CN="Kiss, Lajos02 (uic07802)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=TENTATIVE:mailto:lajos.2.kiss@continental-corporation.com
+ATTENDEE;CN="Fleischer, Sven";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:sven.fleischer@conti.de
+ATTENDEE;CN="van_Thiel, Borris";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:borris.van_thiel@conti.de
+ATTENDEE;CN="Kruml, David";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:David.Kruml@continental-corporation.com
+ATTENDEE;CN="Lange, Nina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:nina.lange@conti.de
+ATTENDEE;CN="Dose, Patrick";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:patrick.dose@continental-corporation.com
+ATTENDEE;CN="Breker, Maren";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:maren.breker@conti.de
+ATTENDEE;CN=CAS_BU_MES_TEAM;ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:cas_bu_me
+	s_team@continental-corporation.com
+ATTENDEE;CN="Viszkei, Gyorgy";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Gyorgy.Viszkei@continental-corporation.com
+ATTENDEE;CN="Sell, Helge";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:helge.sell@contitech.de
+ATTENDEE;CN="Wachmann, Fabian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:fabian.wachmann@conti.de
+ATTENDEE;CN="Mancs, Tibor";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:tibor.mancs@continental-corporation.com
+ATTENDEE;CN="Biberger, Markus";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:Markus.Biberger@continental-corporation.com
+ATTENDEE;CN="Csatlos, Tamas Peter (uie81228)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=ACCEPTED:mailto:tamas.peter.csatlos@continental-corporation.com
+ATTENDEE;CN="Kottenbrock-EXT, Felix (uie52322)";ROLE=OPT-PARTICIPANT;RSVP=T
+	RUE;PARTSTAT=ACCEPTED:mailto:felix.kottenbrock-EXT@conti.de
+ATTENDEE;CN="Shoji, Jessica (uif07060)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:jessica.shoji@continental-corporation.com
+ATTENDEE;CN="Dettmer, Norman (uia22654)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=TENTATIVE:mailto:norman.dettmer@continental-corporation.com
+ATTENDEE;CN="Stadlbauer, Thomas02 (uid11576)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=DECLINED:mailto:Thomas.2.Stadlbauer@continental-corporation.com
+ATTENDEE;CN="Loebel, Matti";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:matti.loebel@conti.de
+ATTENDEE;CN="Muehlhausen, Patrick";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	DECLINED:mailto:patrick.muehlhausen@conti.de
+ATTENDEE;CN="Schneidereit, Sven";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:sven.schneidereit@conti.de
+ATTENDEE;CN="Schlarb, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:michael.schlarb@continental-corporation.com
+ATTENDEE;CN="Da Silva Pereira, Rodrigo (uia37391)";ROLE=OPT-PARTICIPANT;RSV
+	P=TRUE;PARTSTAT=ACCEPTED:mailto:rodrigo.pereira@continental-corporation.co
+	m
+ATTENDEE;CN="Sharma, Vishal01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:vishal01.sharma@ptg.contitech.in
+ATTENDEE;CN="Baumueller, David";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:david.baumueller@continental-corporation.com
+ATTENDEE;CN="Pellizzer, Paulo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:paulo.pellizzer@continental-corporation.com
+ATTENDEE;CN="Horstmann, Tim Luka (uic29736)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:mailto:tim.luka.horstmann@continental-corporation.com
+ATTENDEE;CN="Tung, Andrew";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:andrew.tung@continental-corporation.com
+ATTENDEE;CN="Tuntke, Stefan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Stefan.Tuntke@continental-corporation.com
+ATTENDEE;CN="Stapel, Bjoern";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:Bjoern.Stapel@conti.de
+ATTENDEE;CN="Meier, Alexander";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:alexander.meier@continental.com
+ATTENDEE;CN="Zoykov, Metodi";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:metodi.zoykov@conti.de
+ATTENDEE;CN="Uelsmann, Stefan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:Stefan.Uelsmann@continental-corporation.com
+ATTENDEE;CN="Yuan, Jing (uidu1758)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:Jing.Yuan@contitrade.com
+ATTENDEE;CN="Noack, Andreea (uidl6446)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:Andreea.Noack@continental-corporation.com
+ATTENDEE;CN="Pierschel, Pierre";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:pierre.pierschel@conti.de
+ATTENDEE;CN="Niehaus, Christian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:christian.niehaus@conti.de
+ATTENDEE;CN="Ricetti, Lucas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:lucas.ricetti@continental-corporation.com
+ATTENDEE;CN="Scherk, Rastislav (uia90969)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=ACCEPTED:mailto:rastislav.scherk@conti.sk
+ATTENDEE;CN="Horber, Harald";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:Harald.Horber@continental-corporation.com
+ATTENDEE;CN="Almeida, Mario";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Mario.Almeida@continental-corporation.com
+ATTENDEE;CN="Garrison, Clint";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:clint.garrison@continental-corporation.com
+ATTENDEE;CN="Farias, Jose";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:jose.farias@continental-corporation.com
+ATTENDEE;CN="Rehling, Harald";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:harald.rehling@conti.de
+ATTENDEE;CN="Tyagi, Neeraj";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:neeraj.tyagi@conti.in
+ATTENDEE;CN="Bilik, Tomas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:tomas.bilik@continental-corporation.com
+ATTENDEE;CN="Berenyi, Tibor";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Tibor.Berenyi@continental-corporation.com
+ATTENDEE;CN="Spitzer, Lisa";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:lisa.spitzer@continental.com
+ATTENDEE;CN="HERNANDEZ LOPEZ, PEDRO ALFREDO (Hernandezp)";ROLE=OPT-PARTICIP
+	ANT;RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:Pedro.Alfredo.Hernandez@continenta
+	l-corporation.com
+ATTENDEE;CN="Fackler, Patrick (uic79500)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:patrick.fackler@conti.de
+ATTENDEE;CN="Van Rensbergen, Matthias";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:Matthias.Van.Rensbergen@continental-corporation.com
+ATTENDEE;CN="Moga, Petrica Cosmin (uia81335)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=ACCEPTED:mailto:petrica.cosmin.moga@continental-corporation.com
+ATTENDEE;CN="Goelden, Felix (uia61504)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:felix.2.goelden@continental-corporation.com
+ATTENDEE;CN="Jagusch, Jens";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:jens.jagusch@contitech.de
+ATTENDEE;CN="Fleiner, Christian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TE
+	NTATIVE:mailto:christian.fleiner@continental-corporation.com
+ATTENDEE;CN="Leitmannslehner, Ernst";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=DECLINED:mailto:ernst.leitmannslehner@continental-corporation.com
+ATTENDEE;CN="Werft, Thomas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Thomas.Werft@continental-corporation.com
+ATTENDEE;CN="Witala, Christian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:christian.witala@continental-corporation.com
+ATTENDEE;CN="Koehler, Markus";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:markus.koehler@continental-corporation.com
+ATTENDEE;CN="Garduno, Norma";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:norma.garduno@continental-corporation.com
+ATTENDEE;CN="GERHARD, SIBYLLE (uidk5778)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:sibylle.gerhard@continental-corporation.com
+ATTENDEE;CN="Toedt, Carsten (uia00141)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:carsten.toedt@conti-na.com
+ATTENDEE;CN="Jaeger, Robert";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Robert.Jaeger@continental.com
+ATTENDEE;CN="Ebel, Markus";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:markus.ebel@conti.de
+ATTENDEE;CN="Kamasani, Reddy";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:Reddy.Kamasani@conti-na.com
+ATTENDEE;CN="Gonzalez, Carlos07";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:carlos.7.gonzalez@continental-corporation.com
+ATTENDEE;CN="Sehring, Marc";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:Marc.Sehring@continental-corporation.com
+ATTENDEE;CN="Maurer, CHRISTOPH EGBERT (uia15496)";ROLE=OPT-PARTICIPANT;RSVP
+	=TRUE;PARTSTAT=DECLINED:mailto:christoph.maurer@continental-corporation.co
+	m
+ATTENDEE;CN="Kocsis, Krisztian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:Krisztian.Kocsis@continental-corporation.com
+ATTENDEE;CN="Schionatti, Roberto";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:roberto.schionatti@continental-corporation.com
+ATTENDEE;CN="Ortiz, Manolo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:Manolo.Ortiz@conti.com.ec
+ATTENDEE;CN="Dobo, Laszlo (uia29884)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:mailto:Laszlo.Dobo@continental.com
+ATTENDEE;CN="Presecan, George";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:george.presecan@continental-corporation.com
+ATTENDEE;CN="Woonhan, Yap";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:Yap.Woonhan@conti.cn
+ATTENDEE;CN="Jehle, Patrick (uic19088)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:patrick.jehle@continental-corporation.com
+ATTENDEE;CN="Popescu, Alexandru (uib98463)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=TENTATIVE:mailto:alexandru.popescu@continental-corporation.com
+ATTENDEE;CN="Radewaldt, Tjark";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:tjark.radewaldt@conti.de
+ATTENDEE;CN="Ney, Gabi";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:ma
+	ilto:gabi.ney@conti-engineering.com
+ATTENDEE;CN="Hertelendy, Agnes (uia56874)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=ACCEPTED:mailto:agnes.hertelendy@continental-corporation.com
+ATTENDEE;CN="Prabhu, Manojkumar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TE
+	NTATIVE:mailto:manojkumar.prabhu@continental-corporation.com
+ATTENDEE;CN="Gonzalez, Oscar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:oscar.gonzalez@continental.com
+ATTENDEE;CN="Veszely, Gergely";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:Gergely.Veszely@continental-corporation.com
+ATTENDEE;CN="Sheynkler, Alexander (uib18077)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=ACCEPTED:mailto:alexander.sheynkler@continental-corporation.com
+ATTENDEE;CN="Rosas, Israel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:israel.rosas@continental-corporation.com
+ATTENDEE;CN="VEGA CARRILLO, EDGAR MANUEL (uif05479)";ROLE=OPT-PARTICIPANT;R
+	SVP=TRUE;PARTSTAT=ACCEPTED:mailto:edgar.manuel.vega.carrillo@continental-c
+	orporation.com
+ATTENDEE;CN="Semilla, Constanza";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:constanza.semilla@continental-corporation.com
+ATTENDEE;CN="Schamel, Armin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:armin.schamel@conti.de
+ATTENDEE;CN="BARRETO CORTES, SERGIO ARIAN (uia32669)";ROLE=OPT-PARTICIPANT;
+	RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:Sergio.Barreto@continental-corporation
+	.com
+ATTENDEE;CN="Madapakula, Venkat";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:Venkat.Madapakula@conti-na.com
+ATTENDEE;CN="Willaert, Tom";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:Tom.Willaert@continental-corporation.com
+ATTENDEE;CN="Baerenz, Maike (uid43584)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:maike.baerenz@continental-corporation.com
+ATTENDEE;CN="Wang-Hsin-Yoong, Edison";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=TENTATIVE:mailto:edison.wang-hsin-yoong@conti.my
+ATTENDEE;CN="Lambert, Lauren";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:lauren.lambert@continental-corporation.com
+ATTENDEE;CN="Rohmann, Manuel (uidg2299)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=TENTATIVE:mailto:manuel.rohmann@continental-corporation.com
+ATTENDEE;CN="Taliuk, Tatsiana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:tatsiana.taliuk@conti.de
+ATTENDEE;CN="Demirbas, Soner (uia89850)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:soner.demirbas@conti.de
+ATTENDEE;CN="Rother, Dennis (uia48785)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:dennis.rother@conti-na.com
+ATTENDEE;CN="Guttikonda, Bhavani";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:Bhavani.Guttikonda@conti-na.com
+ATTENDEE;CN="Nolte, Cherry Claire (uia30942)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=DECLINED:mailto:cherry.claire.nolte@conti.de
+ATTENDEE;CN="Molnar, Mark (uib52998)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:mark.molnar@continental-corporation.com
+ATTENDEE;CN="Aguillon, Mauro";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:mauro.aguillon@continental-corporation.com
+ATTENDEE;CN="Giebenhain, Mirco";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:Mirco.Giebenhain@continental-corporation.com
+ATTENDEE;CN="Heise, Karsten";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:karsten.heise@continental-corporation.com
+ATTENDEE;CN="Marasigan, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:michael.marasigan@continental-corporation.com
+ATTENDEE;CN="Ortiz, Adriana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:adriana.ortiz@continental-corporation.com
+ATTENDEE;CN="Varga, Peter02 (uia07777)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:Peter.2.Varga@continental-corporation.com
+ATTENDEE;CN="Gonzalez-Pacheco, Eduardo (uid85537)";ROLE=OPT-PARTICIPANT;RSV
+	P=TRUE;PARTSTAT=TENTATIVE:mailto:eduardo.gonzalez-pacheco@continental-corp
+	oration.com
+ATTENDEE;CN="Moraru, Roland-Paul (uie70795)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:mailto:roland-paul.moraru@continental-corporation.com
+ATTENDEE;CN="Sy, Svetlana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:Svetlana.Sy@continental-corporation.com
+ATTENDEE;CN="Proempers, Guenter";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:guenter.proempers@continental.com
+ATTENDEE;CN="huang, Qimin02 (uif03547)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:qimin.2.huang@continental-corporation.com
+ATTENDEE;CN="Herendi, Daniel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:daniel.herendi@continental-corporation.com
+ATTENDEE;CN="Rath, Heike";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:heike.rath@conti.de
+ATTENDEE;CN="Ducasse, Maxime";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:maxime.ducasse@conti.de
+ATTENDEE;CN="Kan, Karen (uidu9661)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=DECLINED:mailto:karen.kan@continental-corporation.com
+ATTENDEE;CN="Anane, Ahlam";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:ahlam.anane@continental-corporation.com
+ATTENDEE;CN="Wallenwein, Wiebke";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:Wiebke.Wallenwein@conti.de
+ATTENDEE;CN="Mendoza, Aryan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:aryan.mendoza@continental-corporation.com
+ATTENDEE;CN="Ballesta, Jennifer (uidm1971)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=TENTATIVE:mailto:jennifer.ballesta@continental-corporation.com
+ATTENDEE;CN="De Vera, Heidi (uidc1413)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:Heidi.Brigid@continental-corporation.com
+ATTENDEE;CN="Zhang, Xuechao";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Xuechao.Zhang@continental-corporation.com
+ATTENDEE;CN="Li, Bin01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
+	ilto:bin.1.li@continental-corporation.com
+ATTENDEE;CN="Feng, Yi";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mai
+	lto:Yi.Feng@continental-corporation.com
+ATTENDEE;CN="Yee, Tien Si (uidk3821)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:Tien.Si.Yee@continental-corporation.com
+ATTENDEE;CN="Kempkes, Ansgar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:ansgar.kempkes@continental-corporation.com
+ATTENDEE;CN="Druxeis, Tamara (uidt6456)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=TENTATIVE:mailto:tamara.druxeis@continental-corporation.com
+ATTENDEE;CN="Amrein, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:michael.amrein@continental-corporation.com
+ATTENDEE;CN="Ramos-Wirsig, Crissi";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	DECLINED:mailto:cristina.ramos-wirsig@conti.de
+ATTENDEE;CN="Daeumling, Dirk";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:Dirk.Daeumling@continental-corporation.com
+ATTENDEE;CN="Steinmetz, Raphael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:raphael.steinmetz@continental-corporation.com
+ATTENDEE;CN="Ahrens, Dirk";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:dirk.ahrens@continental-corporation.com
+ATTENDEE;CN="Guo, Zhengyong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Zhengyong.Guo@continental-corporation.com
+ATTENDEE;CN="Weber, Christian06 (uidw7798)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=ACCEPTED:mailto:christian.6.weber@continental-corporation.com
+ATTENDEE;CN="Tan, Paul";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
+	ilto:paul.tan@continental-corporation.com
+ATTENDEE;CN="Rappne Pogany, Orsolya";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=TENTATIVE:mailto:orsolya.rappne.pogany@conti.de
+ATTENDEE;CN="Boehmer, Thomas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:thomas.boehmer@continental-corporation.com
+ATTENDEE;CN="Balachandran, Niranjan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:niranjan.balachandran@continental-corporation.com
+ATTENDEE;CN="Sasse, Chris";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:chris.sasse@conti.de
+ATTENDEE;CN="Billinger, Luca (uic32679)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:luca.billinger@contitech.de
+ATTENDEE;CN="Bobic, Elvis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:elvis.bobic@continental-corporation.com
+ATTENDEE;CN="Kruff, Daniel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:daniel.kruff@continental-corporation.com
+ATTENDEE;CN="Garcia, Luis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:Luis.Garcia@continental-corporation.com
+ATTENDEE;CN="Wichtendahl, Robert (uie55735)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=ACCEPTED:mailto:robert.wichtendahl@conti.de
+ATTENDEE;CN="Kocsis, Szabolcs";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:Szabolcs.Kocsis@continental-corporation.com
+ATTENDEE;CN="Muehlnickel, Thorsten";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:Thorsten.Muehlnickel@continental-corporation.com
+ATTENDEE;CN="Vieira, Natalia01 (VieiraN)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=TENTATIVE:mailto:natalia01.vieira@conti.de
+ATTENDEE;CN="Duviel, Matthieu";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:invalid:nomail
+ATTENDEE;CN="Spiegel, Christina (uib25059)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=DECLINED:mailto:christina.spiegel@continental-corporation.com
+ATTENDEE;CN="Hess, Hannes";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:Hannes.Hess@continental-corporation.com
+ATTENDEE;CN="Calzada, Sandra";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:sandra.calzada@conti.de
+ATTENDEE;CN="Schmidt, Marion";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:marion.schmidt@conti.de
+ATTENDEE;CN="Werner, Andre";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:andre.werner@continental-corporation.com
+ATTENDEE;CN="Zernetsch, Holger";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:holger.zernetsch@continental-corporation.com
+ATTENDEE;CN="Okuyama, Marisa";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:marisa.okuyama@continental-corporation.com
+ATTENDEE;CN="Arnold, Leticia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:leticia.arnold@continental-corporation.com
+ATTENDEE;CN="Schaper, Kay";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:kay.schaper@conti.de
+ATTENDEE;CN="Schmitzer, Fabian02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:fabian.2.schmitzer@continental-corporation.com
+ATTENDEE;CN="Schmid, Peter02 (uidr4904)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:peter.2.schmid@continental-corporation.com
+ATTENDEE;CN="Ungeheuer, Peter";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:Peter.Ungeheuer@continental-corporation.com
+ATTENDEE;CN="Elfers, Fabian (uia05781)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:fabian.elfers@contitech.de
+ATTENDEE;CN="Schunack, Daniel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:Daniel.Schunack@continental-corporation.com
+ATTENDEE;CN="Lutz, Andre01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:andre01.lutz@conti.de
+ATTENDEE;CN="Abuczki, Zoltan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:zoltan.abuczki@continental-corporation.com
+ATTENDEE;CN="Smolne, Sebastian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:sebastian.smolne@continental.com
+ATTENDEE;CN="Giannakopoulos, Spyridon";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:Spyridon.Giannakopoulos@continental-corporation.com
+ATTENDEE;CN="Fajilagot, Edson";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:edson.fajilagot@continental-corporation.com
+ATTENDEE;CN="Schaefer, Thomas03";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:Thomas.3.Schaefer@continental-corporation.com
+ATTENDEE;CN="Feith, Gergely (uia11688)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:gergely.feith@continental-corporation.com
+ATTENDEE;CN="Kraineva, Julia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:julia.kraineva@continental.com
+ATTENDEE;CN="Berking, Leah (uib05377)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=TENTATIVE:mailto:leah.berking@conti.de
+ATTENDEE;CN="Rueger, Tobias";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Tobias.Rueger@continental-corporation.com
+ATTENDEE;CN="Piendl, Veronika";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:Veronika.Piendl@continental-corporation.com
+ATTENDEE;CN="Wenzel, Inga";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:inga.wenzel@conti.de
+ATTENDEE;CN="Schambach, Vesna (uidf0673)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=DECLINED:mailto:vesna.schambach@continental-corporation.com
+ATTENDEE;CN="TOLDI, CLAUDIO (toldic1)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:claudio.toldi@conti.de
+ATTENDEE;CN="Plischke, Sarah";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:sarah.plischke@conti.de
+ATTENDEE;CN="Pessoto, Rodrigo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:rodrigo.pessoto@continental-corporation.com
+ATTENDEE;CN="Richter, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:michael.richter@continental-corporation.com
+ATTENDEE;CN="Fang, Jason";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:Jason.Fang@fluid.contitech.cn
+ATTENDEE;CN="Drechsler, Daniel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:daniel.drechsler@conti.de
+ATTENDEE;CN="Borges, Niklas (borgesn)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:niklas.borges@conti.de
+ATTENDEE;CN="Runge, Timo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:timo.runge@conti.de
+ATTENDEE;CN="Noetzel, Harry";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:harry.noetzel@conti.de
+ATTENDEE;CN="JONES, PETER02 (uidu8521)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:peter.2.jones@continental-corporation.com
+ATTENDEE;CN="Zingel, Alena (zingela)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:alena.zingel@conti.de
+ATTENDEE;CN="Walther, Kai-Uwe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:Kai-Uwe.Walther@continental-corporation.com
+ATTENDEE;CN="Padilla, Enrique";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:enrique.padilla@continental-corporation.com
+ATTENDEE;CN="Sturk, Holger";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:holger.sturk@conti.de
+ATTENDEE;CN="Berndt, Franziska";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:franziska.berndt@continental.com
+ATTENDEE;CN="Aderbauer, Hubert";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:hubert.aderbauer@continental-corporation.com
+CLASS:PUBLIC
+CREATED:20220624T101526Z
+DESCRIPTION:Topic:  CLAP Confluence Documentation\n\nSpeaker: Francis / Sop
+	hie (CLAP Platform Engineer)\n\nFor this session we will present you the C
+	LAP Confluence pages\, where we resctructure all documentation for guideli
+	nes\, best practices\, how-to\, etc. so that you can easily find support f
+	or your app development.\n\n \n\nPlease note that we will do a recording i
+	n the session! We intend to only record the presentation. If you have ques
+	tions to ask about the topic and don’t want your voice to be recorded\, 
+	kindly raise your question in the chat. \n\n------------------------------
+	--------------------------------------------------------------------------
+	---------------------------------------------------\n\n \n\nGoal of CLAP L
+	earning Bite:\n\n*	share practical experience/best practice of Mendix deve
+	lopment\n*	introduce company App Store modules (e.g Start APP\, CLAP App T
+	emplate etc. )\n*	demo existing projects\n*	exchange knowledge for buildin
+	g app\, project management\, etc.\n\n \n\nTarget audience:\n\npeople who h
+	ave basic knowledge about Mendix development and have certain developing e
+	xperience\n(please note that Learning Bites is NOT for beginners! For basi
+	c Mendix training\,  please check out Mendix Academy or our Rapid Develope
+	r training in CLAP community!)\n\n\n\n\n__________________________________
+	______________________________________________ \nMicrosoft Teams meeting \
+	nJoin on your computer or mobile app \nClick here to join the meeting <htt
+	ps://teams.microsoft.com/l/meetup-join/19%3af967da2f19d941caad56bf94829433
+	4c%40thread.skype/1656065711860?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40
+	ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2225a95ac9-69ae-4694-9dee-b87c5851a
+	e61%22%7d>  \nOr call in (audio only) \n+49 69 365057961\,\,8155568# <tel:
+	+4969365057961\,\,8155568#>    Germany\, Frankfurt am Main \nPhone Confere
+	nce ID: 815 556 8# \nFind a local number <https://dialin.teams.microsoft.c
+	om/97c37549-d499-4e63-9ec0-dc16377f37d4?id=8155568>  | Reset PIN <https://
+	dialin.teams.microsoft.com/usp/pstnconferencing>  \nLearn More <https://ak
+	a.ms/JoinTeamsMeeting>  | Meeting options <https://teams.microsoft.com/mee
+	tingOptions/?organizerId=25a95ac9-69ae-4694-9dee-b87c5851ae61&tenantId=8d4
+	b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_f967da2f19d941caad56bf948294
+	334c@thread.skype&messageId=1656065711860&language=en-US>  | Legal <https:
+	//filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n_
+	__________________________________________________________________________
+	_____ \n
+DTEND;TZID="Romance Standard Time":20220726T140000
+DTSTAMP:20220624T101512Z
+DTSTART;TZID="Romance Standard Time":20220726T133000
+LAST-MODIFIED:20220719T093152Z
+ORGANIZER;CN="CLAP Open Teams":mailto:team_10030559@continental.onmicrosoft
+	.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:CLAP Learning Bite 25
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E078474AB387D801000000000000000
+	010000000599B57895082ED4F8E83C95CDE817D89
+X-ALT-DESC;FMTTYPE=text/html:<meta http-equiv="Content-Type" content="text/
+	html\; charset=Windows-1252"><div class="copy-paste-block" itemprop="copy-
+	paste-block">\n<p><span style="font-size:11pt\;"><span style="font-family:
+	Calibri\,sans-serif\;"><strong><span style="font-family:&quot\;Calibri&quo
+	t\;\,sans-serif\;">Topic:&nbsp\; CLAP Confluence Documentation</span></str
+	ong></span></span></p>\n\n<p><span style="font-size:11pt\;"><span style="f
+	ont-family:Calibri\,sans-serif\;"><strong><span style="font-family:&quot\;
+	Calibri&quot\;\,sans-serif\;">Speaker: Francis / Sophie&nbsp\;(CLAP Platfo
+	rm Engineer)</span></strong></span></span></p>\n\n<p><span style="font-siz
+	e:11pt\;"><span style="font-family:Calibri\,sans-serif\;">For this session
+	 we will present you the CLAP Confluence pages\, where we resctructure all
+	 documentation for guidelines\, best practices\, how-to\, etc. so that you
+	 can easily find support for your app development.</span></span></p>\n\n<p
+	><span style="font-size:11pt\;"><span style="font-family:Calibri\,sans-ser
+	if\;">&nbsp\;</span></span></p>\n\n<p><span style="font-size:11pt\;"><span
+	 style="font-family:Calibri\,sans-serif\;"><span style="font-size:12.0pt\;
+	"><span style="color:#ef6950\;">Please note that we will do a recording in
+	 the session! We intend to only record the presentation. If you have quest
+	ions to ask about the topic and don’t want your voice to be recorded\, k
+	indly raise your question in the chat.&nbsp\;</span></span></span></span><
+	/p>\n\n<p><span style="font-size:11pt\;"><span style="font-family:Calibri\
+	,sans-serif\;">-----------------------------------------------------------
+	--------------------------------------------------------------------------
+	----------------------</span></span></p>\n\n<p><span style="font-size:11pt
+	\;"><span style="font-family:Calibri\,sans-serif\;">&nbsp\;</span></span><
+	/p>\n\n<p><span style="font-size:11pt\;"><span style="font-family:Calibri\
+	,sans-serif\;"><strong><span style="font-family:&quot\;Calibri&quot\;\,san
+	s-serif\;">Goal of CLAP Learning Bite:</span></strong></span></span></p>\n
+	\n<ul>\n	<li><span style="font-size:11pt\;"><span><span style="font-family
+	:Calibri\,sans-serif\;">share practical experience/best practice of Mendix
+	 development</span></span></span></li>\n	<li><span style="font-size:11pt\;
+	"><span><span style="font-family:Calibri\,sans-serif\;">introduce company 
+	App Store&nbsp\;modules (e.g Start APP\, CLAP App Template etc. )</span></
+	span></span></li>\n	<li><span style="font-size:11pt\;"><span><span style="
+	font-family:Calibri\,sans-serif\;">demo existing projects</span></span></s
+	pan></li>\n	<li><span style="font-size:11pt\;"><span><span style="font-fam
+	ily:Calibri\,sans-serif\;">exchange knowledge for building app\, project m
+	anagement\, etc.</span></span></span></li>\n</ul>\n\n<p><span style="font-
+	size:11pt\;"><span style="font-family:Calibri\,sans-serif\;">&nbsp\;</span
+	></span></p>\n\n<p><span style="font-size:11pt\;"><span style="font-family
+	:Calibri\,sans-serif\;"><strong><span style="font-family:&quot\;Calibri&qu
+	ot\;\,sans-serif\;">Target audience:</span></strong></span></span></p>\n\n
+	<p><span style="font-size:11pt\;"><span style="font-family:Calibri\,sans-s
+	erif\;">people who have basic knowledge about Mendix development and have 
+	certain developing experience<br>\n(please note that Learning Bites is NOT
+	 for beginners! For basic Mendix training\, &nbsp\;please check out Mendix
+	 Academy or our Rapid Developer training in CLAP community!)</span></span>
+	</p>\n</div>\n<div><br><br><br><div style="width:100%\;height: 20px\;">\n 
+	   <span style="white-space:nowrap\;color:#5F5F5F\;opacity:.36\;">________
+	________________________________________________________________________</
+	span>\n</div>\n \n <div class="me-email-text" style="color:#252424\;font-f
+	amily:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" lang="
+	en-US">\n    <div style="margin-top: 24px\; margin-bottom: 20px\;">\n     
+	   <span style="font-size: 24px\; color:#252424">Microsoft Teams meeting</
+	span>\n    </div>\n    <div style="margin-bottom: 20px\;">\n        <div s
+	tyle="margin-top: 0px\; margin-bottom: 0px\; font-weight: bold">\n        
+	  <span style="font-size: 14px\; color:#252424">Join on your computer or m
+	obile app</span>\n        </div>\n        <a class="me-email-headline" sty
+	le="font-size: 14px\;font-family:'Segoe UI Semibold'\,'Segoe UI'\,'Helveti
+	ca Neue'\,Helvetica\,Arial\,sans-serif\;text-decoration: underline\;color:
+	 #6264a7\;" href="https://teams.microsoft.com/l/meetup-join/19%3af967da2f1
+	9d941caad56bf948294334c%40thread.skype/1656065711860?context=%7b%22Tid%22%
+	3a%228d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%2225a95ac9-69a
+	e-4694-9dee-b87c5851ae61%22%7d" target="_blank" rel="noreferrer noopener">
+	Click here to join the meeting</a>\n    </div>\n    \n    \n    \n	<div st
+	yle="margin-bottom: 4px\;">\n	<div style="margin-bottom: 4px\;">\n    <spa
+	n style="font-size: 14px\; color:#252424\; font-weight: bold">Or call in (
+	audio only)</span>\n    </div>	\n    \n	  <div style="margin-bottom: 4px\;
+	">\n      <a style="font-size: 14px\;text-decoration: underline\;color: #6
+	264a7\;" href="tel:+4969365057961\,\,8155568# ">+49 69 365057961\,\,815556
+	8#</a>\n      <span style="font-size: 14px\; color:#252424\;">&nbsp\; Germ
+	any\, Frankfurt am Main </span>\n    </div>\n    \n	</div>\n  \n    \n    
+	<span style="font-size: 14px\; color:#252424\;">\n      Phone Conference I
+	D:\n    </span>\n    <span style="font-size: 16px\; color:#252424\;">\n   
+	   815 556 8#\n    </span>\n    \n    \n      <div style="margin-bottom: 2
+	0px\;">\n      <a class="me-email-link" style="font-size: 14px\;text-decor
+	ation: underline\;color: #6264a7\;font-family:'Segoe UI'\,'Helvetica Neue'
+	\,Helvetica\,Arial\,sans-serif\;" target="_blank" href="https://dialin.tea
+	ms.microsoft.com/97c37549-d499-4e63-9ec0-dc16377f37d4?id=8155568" rel="nor
+	eferrer noopener">Find a local number</a>\n   |\n   <a class="me-email-lin
+	k" style="font-size: 14px\;text-decoration: underline\;color: #6264a7\;" t
+	arget="_blank" href="https://dialin.teams.microsoft.com/usp/pstnconferenci
+	ng" rel="noreferrer noopener">\n     Reset PIN</a>\n     </div>\n   \n    
+	\n    <div style="margin-bottom: 24px\;margin-top: 20px\;">\n        <a cl
+	ass="me-email-link" style="font-size: 14px\;text-decoration: underline\;co
+	lor: #6264a7\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,
+	sans-serif\;" target="_blank" href="https://aka.ms/JoinTeamsMeeting" rel="
+	noreferrer noopener">Learn More</a>  | <a class="me-email-link" style="fon
+	t-size: 14px\;text-decoration: underline\;color: #6264a7\;font-family:'Seg
+	oe UI'\,'Helvetica Neue'\,Helvetica\,Arial\,sans-serif\;" target="_blank" 
+	href="https://teams.microsoft.com/meetingOptions/?organizerId=25a95ac9-69a
+	e-4694-9dee-b87c5851ae61&amp\;tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265
+	a&amp\;threadId=19_f967da2f19d941caad56bf948294334c@thread.skype&amp\;mess
+	ageId=1656065711860&amp\;language=en-US" rel="noreferrer noopener">Meeting
+	 options</a> | <a class="me-email-link" style="font-size: 14px\;text-decor
+	ation: underline\;color: #6264a7\;font-family:'Segoe UI'\,'Helvetica Neue'
+	\,Helvetica\,Arial\,sans-serif\;" target="_blank" href="https://filehub.ad
+	miralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e" rel="noreferrer 
+	noopener">Legal</a>\n      </div>\n</div>\n<div style="font-size: 14px\; m
+	argin-bottom: 4px\;font-family:'Segoe UI'\,'Helvetica Neue'\,Helvetica\,Ar
+	ial\,sans-serif\;">\n\n</div>\n<div style="font-size: 12px\;">\n\n</div>\n
+	\n</div>\n<div style="width:100%\;height: 20px\;">\n    <span style="white
+	-space:nowrap\;color:#5F5F5F\;opacity:.36\;">_____________________________
+	___________________________________________________</span>\n</div></div>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20220624T101512Z
+BEGIN:VALARM
+TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 END:VALARM
@@ -2768,6 +3447,544 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220714T123428Z
+DESCRIPTION: \n
+DTEND;TZID="China Standard Time":20220726T170000
+DTSTAMP:20220720T010851Z
+DTSTART;TZID="China Standard Time":20220726T083000
+LAST-MODIFIED:20220714T152500Z
+ORGANIZER;CN="Li, Xiaodong03 (uib07707)":mailto:xiaodong.3.li@benecke-chang
+	shun.com.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=zh-cn:交房
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000F0348905C197D801000000000000000
+	01000000024916B42CE977648A4ED7B89CBBE87FE
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=utf-8"><meta name=ProgId content=W
+	ord.Document><meta name=Generator content="Microsoft Word 15"><meta name=O
+	riginator content="Microsoft Word 15"><link rel=File-List href="cid:fileli
+	st.xml@01D897C1.10600480"><!--[if gte mso 9]><xml>\n<o:OfficeDocumentSetti
+	ngs>\n<o:AllowPNG/>\n</o:OfficeDocumentSettings>\n</xml><![endif]--><!--[i
+	f gte mso 9]><xml>\n<w:WordDocument>\n<w:TrackMoves/>\n<w:TrackFormatting/
+	>\n<w:EnvelopeVis/>\n<w:PunctuationKerning/>\n<w:DrawingGridVerticalSpacin
+	g>7.8 磅</w:DrawingGridVerticalSpacing>\n<w:DisplayHorizontalDrawingGridE
+	very>0</w:DisplayHorizontalDrawingGridEvery>\n<w:DisplayVerticalDrawingGri
+	dEvery>2</w:DisplayVerticalDrawingGridEvery>\n<w:ValidateAgainstSchemas/>\
+	n<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\n<w:IgnoreMixedContent>fal
+	se</w:IgnoreMixedContent>\n<w:AlwaysShowPlaceholderText>false</w:AlwaysSho
+	wPlaceholderText>\n<w:DoNotPromoteQF/>\n<w:LidThemeOther>EN-US</w:LidTheme
+	Other>\n<w:LidThemeAsian>ZH-CN</w:LidThemeAsian>\n<w:LidThemeComplexScript
+	>X-NONE</w:LidThemeComplexScript>\n<w:Compatibility>\n<w:SpaceForUL/>\n<w:
+	BalanceSingleByteDoubleByteWidth/>\n<w:DoNotLeaveBackslashAlone/>\n<w:ULTr
+	ailSpace/>\n<w:DoNotExpandShiftReturn/>\n<w:AdjustLineHeightInTable/>\n<w:
+	BreakWrappedTables/>\n<w:SnapToGridInCell/>\n<w:WrapTextWithPunct/>\n<w:Us
+	eAsianBreakRules/>\n<w:DontGrowAutofit/>\n<w:SplitPgBreakAndParaMark/>\n<w
+	:EnableOpenTypeKerning/>\n<w:DontFlipMirrorIndents/>\n<w:OverrideTableStyl
+	eHps/>\n<w:UseFELayout/>\n</w:Compatibility>\n<m:mathPr>\n<m:mathFont m:va
+	l="Cambria Math"/>\n<m:brkBin m:val="before"/>\n<m:brkBinSub m:val="&#45\;
+	-"/>\n<m:smallFrac m:val="off"/>\n<m:dispDef/>\n<m:lMargin m:val="0"/>\n<m
+	:rMargin m:val="0"/>\n<m:defJc m:val="centerGroup"/>\n<m:wrapIndent m:val=
+	"1440"/>\n<m:intLim m:val="subSup"/>\n<m:naryLim m:val="undOvr"/>\n</m:mat
+	hPr></w:WordDocument>\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<w:Late
+	ntStyles DefLockedState="false" DefUnhideWhenUsed="false" DefSemiHidden="f
+	alse" DefQFormat="false" DefPriority="99" LatentStyleCount="376">\n<w:LsdE
+	xception Locked="false" Priority="0" QFormat="true" Name="Normal"/>\n<w:Ls
+	dException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>\n
+	<w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhenUs
+	ed="true" QFormat="true" Name="heading 2"/>\n<w:LsdException Locked="false
+	" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name
+	="heading 3"/>\n<w:LsdException Locked="false" Priority="9" SemiHidden="tr
+	ue" UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>\n<w:LsdExcepti
+	on Locked="false" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFo
+	rmat="true" Name="heading 5"/>\n<w:LsdException Locked="false" Priority="9
+	" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="heading 6"/
+	>\n<w:LsdException Locked="false" Priority="9" SemiHidden="true" UnhideWhe
+	nUsed="true" QFormat="true" Name="heading 7"/>\n<w:LsdException Locked="fa
+	lse" Priority="9" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" N
+	ame="heading 8"/>\n<w:LsdException Locked="false" Priority="9" SemiHidden=
+	"true" UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>\n<w:LsdExce
+	ption Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 1
+	"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true
+	" Name="index 2"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhid
+	eWhenUsed="true" Name="index 3"/>\n<w:LsdException Locked="false" SemiHidd
+	en="true" UnhideWhenUsed="true" Name="index 4"/>\n<w:LsdException Locked="
+	false" SemiHidden="true" UnhideWhenUsed="true" Name="index 5"/>\n<w:LsdExc
+	eption Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="index 
+	6"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tru
+	e" Name="index 7"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhi
+	deWhenUsed="true" Name="index 8"/>\n<w:LsdException Locked="false" SemiHid
+	den="true" UnhideWhenUsed="true" Name="index 9"/>\n<w:LsdException Locked=
+	"false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 1"
+	/>\n<w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideW
+	henUsed="true" Name="toc 2"/>\n<w:LsdException Locked="false" Priority="39
+	" SemiHidden="true" UnhideWhenUsed="true" Name="toc 3"/>\n<w:LsdException 
+	Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name=
+	"toc 4"/>\n<w:LsdException Locked="false" Priority="39" SemiHidden="true" 
+	UnhideWhenUsed="true" Name="toc 5"/>\n<w:LsdException Locked="false" Prior
+	ity="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 6"/>\n<w:LsdExc
+	eption Locked="false" Priority="39" SemiHidden="true" UnhideWhenUsed="true
+	" Name="toc 7"/>\n<w:LsdException Locked="false" Priority="39" SemiHidden=
+	"true" UnhideWhenUsed="true" Name="toc 8"/>\n<w:LsdException Locked="false
+	" Priority="39" SemiHidden="true" UnhideWhenUsed="true" Name="toc 9"/>\n<w
+	:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name=
+	"Normal Indent"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhide
+	WhenUsed="true" Name="footnote text"/>\n<w:LsdException Locked="false" Sem
+	iHidden="true" UnhideWhenUsed="true" Name="annotation text"/>\n<w:LsdExcep
+	tion Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="header"/
+	>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" 
+	Name="footer"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWh
+	enUsed="true" Name="index heading"/>\n<w:LsdException Locked="false" Prior
+	ity="35" SemiHidden="true" UnhideWhenUsed="true" QFormat="true" Name="capt
+	ion"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="t
+	rue" Name="table of figures"/>\n<w:LsdException Locked="false" SemiHidden=
+	"true" UnhideWhenUsed="true" Name="envelope address"/>\n<w:LsdException Lo
+	cked="false" SemiHidden="true" UnhideWhenUsed="true" Name="envelope return
+	"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true
+	" Name="footnote reference"/>\n<w:LsdException Locked="false" SemiHidden="
+	true" UnhideWhenUsed="true" Name="annotation reference"/>\n<w:LsdException
+	 Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="line number"
+	/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+	 Name="page number"/>\n<w:LsdException Locked="false" SemiHidden="true" Un
+	hideWhenUsed="true" Name="endnote reference"/>\n<w:LsdException Locked="fa
+	lse" SemiHidden="true" UnhideWhenUsed="true" Name="endnote text"/>\n<w:Lsd
+	Exception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="tab
+	le of authorities"/>\n<w:LsdException Locked="false" SemiHidden="true" Unh
+	ideWhenUsed="true" Name="macro"/>\n<w:LsdException Locked="false" SemiHidd
+	en="true" UnhideWhenUsed="true" Name="toa heading"/>\n<w:LsdException Lock
+	ed="false" SemiHidden="true" UnhideWhenUsed="true" Name="List"/>\n<w:LsdEx
+	ception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 
+	Bullet"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed
+	="true" Name="List Number"/>\n<w:LsdException Locked="false" SemiHidden="t
+	rue" UnhideWhenUsed="true" Name="List 2"/>\n<w:LsdException Locked="false"
+	 SemiHidden="true" UnhideWhenUsed="true" Name="List 3"/>\n<w:LsdException 
+	Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List 4"/>\n<w
+	:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name=
+	"List 5"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUse
+	d="true" Name="List Bullet 2"/>\n<w:LsdException Locked="false" SemiHidden
+	="true" UnhideWhenUsed="true" Name="List Bullet 3"/>\n<w:LsdException Lock
+	ed="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Bullet 4"/>\
+	n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Na
+	me="List Bullet 5"/>\n<w:LsdException Locked="false" SemiHidden="true" Unh
+	ideWhenUsed="true" Name="List Number 2"/>\n<w:LsdException Locked="false" 
+	SemiHidden="true" UnhideWhenUsed="true" Name="List Number 3"/>\n<w:LsdExce
+	ption Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="List Nu
+	mber 4"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed
+	="true" Name="List Number 5"/>\n<w:LsdException Locked="false" Priority="1
+	0" QFormat="true" Name="Title"/>\n<w:LsdException Locked="false" SemiHidde
+	n="true" UnhideWhenUsed="true" Name="Closing"/>\n<w:LsdException Locked="f
+	alse" SemiHidden="true" UnhideWhenUsed="true" Name="Signature"/>\n<w:LsdEx
+	ception Locked="false" Priority="1" SemiHidden="true" UnhideWhenUsed="true
+	" Name="Default Paragraph Font"/>\n<w:LsdException Locked="false" SemiHidd
+	en="true" UnhideWhenUsed="true" Name="Body Text"/>\n<w:LsdException Locked
+	="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text Indent"/>
+	\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" N
+	ame="List Continue"/>\n<w:LsdException Locked="false" SemiHidden="true" Un
+	hideWhenUsed="true" Name="List Continue 2"/>\n<w:LsdException Locked="fals
+	e" SemiHidden="true" UnhideWhenUsed="true" Name="List Continue 3"/>\n<w:Ls
+	dException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Li
+	st Continue 4"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideW
+	henUsed="true" Name="List Continue 5"/>\n<w:LsdException Locked="false" Se
+	miHidden="true" UnhideWhenUsed="true" Name="Message Header"/>\n<w:LsdExcep
+	tion Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>\n<w:Lsd
+	Exception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Sal
+	utation"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUse
+	d="true" Name="Date"/>\n<w:LsdException Locked="false" SemiHidden="true" U
+	nhideWhenUsed="true" Name="Body Text First Indent"/>\n<w:LsdException Lock
+	ed="false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text First I
+	ndent 2"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUse
+	d="true" Name="Note Heading"/>\n<w:LsdException Locked="false" SemiHidden=
+	"true" UnhideWhenUsed="true" Name="Body Text 2"/>\n<w:LsdException Locked=
+	"false" SemiHidden="true" UnhideWhenUsed="true" Name="Body Text 3"/>\n<w:L
+	sdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="B
+	ody Text Indent 2"/>\n<w:LsdException Locked="false" SemiHidden="true" Unh
+	ideWhenUsed="true" Name="Body Text Indent 3"/>\n<w:LsdException Locked="fa
+	lse" SemiHidden="true" UnhideWhenUsed="true" Name="Block Text"/>\n<w:LsdEx
+	ception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Hyper
+	link"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="
+	true" Name="FollowedHyperlink"/>\n<w:LsdException Locked="false" Priority=
+	"22" QFormat="true" Name="Strong"/>\n<w:LsdException Locked="false" Priori
+	ty="20" QFormat="true" Name="Emphasis"/>\n<w:LsdException Locked="false" S
+	emiHidden="true" UnhideWhenUsed="true" Name="Document Map"/>\n<w:LsdExcept
+	ion Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Plain Tex
+	t"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tru
+	e" Name="E-mail Signature"/>\n<w:LsdException Locked="false" SemiHidden="t
+	rue" UnhideWhenUsed="true" Name="HTML Top of Form"/>\n<w:LsdException Lock
+	ed="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Bottom of Fo
+	rm"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tr
+	ue" Name="Normal (Web)"/>\n<w:LsdException Locked="false" SemiHidden="true
+	" UnhideWhenUsed="true" Name="HTML Acronym"/>\n<w:LsdException Locked="fal
+	se" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Address"/>\n<w:LsdE
+	xception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML
+	 Cite"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed=
+	"true" Name="HTML Code"/>\n<w:LsdException Locked="false" SemiHidden="true
+	" UnhideWhenUsed="true" Name="HTML Definition"/>\n<w:LsdException Locked="
+	false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Keyboard"/>\n<w:
+	LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="
+	HTML Preformatted"/>\n<w:LsdException Locked="false" SemiHidden="true" Unh
+	ideWhenUsed="true" Name="HTML Sample"/>\n<w:LsdException Locked="false" Se
+	miHidden="true" UnhideWhenUsed="true" Name="HTML Typewriter"/>\n<w:LsdExce
+	ption Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="HTML Va
+	riable"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed
+	="true" Name="annotation subject"/>\n<w:LsdException Locked="false" SemiHi
+	dden="true" UnhideWhenUsed="true" Name="No List"/>\n<w:LsdException Locked
+	="false" SemiHidden="true" UnhideWhenUsed="true" Name="Outline List 1"/>\n
+	<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Nam
+	e="Outline List 2"/>\n<w:LsdException Locked="false" SemiHidden="true" Unh
+	ideWhenUsed="true" Name="Outline List 3"/>\n<w:LsdException Locked="false"
+	 SemiHidden="true" UnhideWhenUsed="true" Name="Table Simple 1"/>\n<w:LsdEx
+	ception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table
+	 Simple 2"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenU
+	sed="true" Name="Table Simple 3"/>\n<w:LsdException Locked="false" SemiHid
+	den="true" UnhideWhenUsed="true" Name="Table Classic 1"/>\n<w:LsdException
+	 Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Classi
+	c 2"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="t
+	rue" Name="Table Classic 3"/>\n<w:LsdException Locked="false" SemiHidden="
+	true" UnhideWhenUsed="true" Name="Table Classic 4"/>\n<w:LsdException Lock
+	ed="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Colorful 1"
+	/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+	 Name="Table Colorful 2"/>\n<w:LsdException Locked="false" SemiHidden="tru
+	e" UnhideWhenUsed="true" Name="Table Colorful 3"/>\n<w:LsdException Locked
+	="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 1"/>\
+	n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Na
+	me="Table Columns 2"/>\n<w:LsdException Locked="false" SemiHidden="true" U
+	nhideWhenUsed="true" Name="Table Columns 3"/>\n<w:LsdException Locked="fal
+	se" SemiHidden="true" UnhideWhenUsed="true" Name="Table Columns 4"/>\n<w:L
+	sdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="T
+	able Columns 5"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhide
+	WhenUsed="true" Name="Table Grid 1"/>\n<w:LsdException Locked="false" Semi
+	Hidden="true" UnhideWhenUsed="true" Name="Table Grid 2"/>\n<w:LsdException
+	 Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 3
+	"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true
+	" Name="Table Grid 4"/>\n<w:LsdException Locked="false" SemiHidden="true" 
+	UnhideWhenUsed="true" Name="Table Grid 5"/>\n<w:LsdException Locked="false
+	" SemiHidden="true" UnhideWhenUsed="true" Name="Table Grid 6"/>\n<w:LsdExc
+	eption Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table 
+	Grid 7"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed
+	="true" Name="Table Grid 8"/>\n<w:LsdException Locked="false" SemiHidden="
+	true" UnhideWhenUsed="true" Name="Table List 1"/>\n<w:LsdException Locked=
+	"false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 2"/>\n<w:
+	LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="
+	Table List 3"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWh
+	enUsed="true" Name="Table List 4"/>\n<w:LsdException Locked="false" SemiHi
+	dden="true" UnhideWhenUsed="true" Name="Table List 5"/>\n<w:LsdException L
+	ocked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Table List 6"/
+	>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" 
+	Name="Table List 7"/>\n<w:LsdException Locked="false" SemiHidden="true" Un
+	hideWhenUsed="true" Name="Table List 8"/>\n<w:LsdException Locked="false" 
+	SemiHidden="true" UnhideWhenUsed="true" Name="Table 3D effects 1"/>\n<w:Ls
+	dException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Ta
+	ble 3D effects 2"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhi
+	deWhenUsed="true" Name="Table 3D effects 3"/>\n<w:LsdException Locked="fal
+	se" SemiHidden="true" UnhideWhenUsed="true" Name="Table Contemporary"/>\n<
+	w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name
+	="Table Elegant"/>\n<w:LsdException Locked="false" SemiHidden="true" Unhid
+	eWhenUsed="true" Name="Table Professional"/>\n<w:LsdException Locked="fals
+	e" SemiHidden="true" UnhideWhenUsed="true" Name="Table Subtle 1"/>\n<w:Lsd
+	Exception Locked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Tab
+	le Subtle 2"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhe
+	nUsed="true" Name="Table Web 1"/>\n<w:LsdException Locked="false" SemiHidd
+	en="true" UnhideWhenUsed="true" Name="Table Web 2"/>\n<w:LsdException Lock
+	ed="false" SemiHidden="true" UnhideWhenUsed="true" Name="Balloon Text"/>\n
+	<w:LsdException Locked="false" Priority="39" Name="Table Grid"/>\n<w:LsdEx
+	ception Locked="false" SemiHidden="true" Name="Placeholder Text"/>\n<w:Lsd
+	Exception Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>\n
+	<w:LsdException Locked="false" Priority="60" Name="Light Shading"/>\n<w:Ls
+	dException Locked="false" Priority="61" Name="Light List"/>\n<w:LsdExcepti
+	on Locked="false" Priority="62" Name="Light Grid"/>\n<w:LsdException Locke
+	d="false" Priority="63" Name="Medium Shading 1"/>\n<w:LsdException Locked=
+	"false" Priority="64" Name="Medium Shading 2"/>\n<w:LsdException Locked="f
+	alse" Priority="65" Name="Medium List 1"/>\n<w:LsdException Locked="false"
+	 Priority="66" Name="Medium List 2"/>\n<w:LsdException Locked="false" Prio
+	rity="67" Name="Medium Grid 1"/>\n<w:LsdException Locked="false" Priority=
+	"68" Name="Medium Grid 2"/>\n<w:LsdException Locked="false" Priority="69" 
+	Name="Medium Grid 3"/>\n<w:LsdException Locked="false" Priority="70" Name=
+	"Dark List"/>\n<w:LsdException Locked="false" Priority="71" Name="Colorful
+	 Shading"/>\n<w:LsdException Locked="false" Priority="72" Name="Colorful L
+	ist"/>\n<w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/
+	>\n<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent
+	 1"/>\n<w:LsdException Locked="false" Priority="61" Name="Light List Accen
+	t 1"/>\n<w:LsdException Locked="false" Priority="62" Name="Light Grid Acce
+	nt 1"/>\n<w:LsdException Locked="false" Priority="63" Name="Medium Shading
+	 1 Accent 1"/>\n<w:LsdException Locked="false" Priority="64" Name="Medium 
+	Shading 2 Accent 1"/>\n<w:LsdException Locked="false" Priority="65" Name="
+	Medium List 1 Accent 1"/>\n<w:LsdException Locked="false" SemiHidden="true
+	" Name="Revision"/>\n<w:LsdException Locked="false" Priority="34" QFormat=
+	"true" Name="List Paragraph"/>\n<w:LsdException Locked="false" Priority="2
+	9" QFormat="true" Name="Quote"/>\n<w:LsdException Locked="false" Priority=
+	"30" QFormat="true" Name="Intense Quote"/>\n<w:LsdException Locked="false"
+	 Priority="66" Name="Medium List 2 Accent 1"/>\n<w:LsdException Locked="fa
+	lse" Priority="67" Name="Medium Grid 1 Accent 1"/>\n<w:LsdException Locked
+	="false" Priority="68" Name="Medium Grid 2 Accent 1"/>\n<w:LsdException Lo
+	cked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>\n<w:LsdExceptio
+	n Locked="false" Priority="70" Name="Dark List Accent 1"/>\n<w:LsdExceptio
+	n Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>\n<w:LsdE
+	xception Locked="false" Priority="72" Name="Colorful List Accent 1"/>\n<w:
+	LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>\
+	n<w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2
+	"/>\n<w:LsdException Locked="false" Priority="61" Name="Light List Accent 
+	2"/>\n<w:LsdException Locked="false" Priority="62" Name="Light Grid Accent
+	 2"/>\n<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1
+	 Accent 2"/>\n<w:LsdException Locked="false" Priority="64" Name="Medium Sh
+	ading 2 Accent 2"/>\n<w:LsdException Locked="false" Priority="65" Name="Me
+	dium List 1 Accent 2"/>\n<w:LsdException Locked="false" Priority="66" Name
+	="Medium List 2 Accent 2"/>\n<w:LsdException Locked="false" Priority="67" 
+	Name="Medium Grid 1 Accent 2"/>\n<w:LsdException Locked="false" Priority="
+	68" Name="Medium Grid 2 Accent 2"/>\n<w:LsdException Locked="false" Priori
+	ty="69" Name="Medium Grid 3 Accent 2"/>\n<w:LsdException Locked="false" Pr
+	iority="70" Name="Dark List Accent 2"/>\n<w:LsdException Locked="false" Pr
+	iority="71" Name="Colorful Shading Accent 2"/>\n<w:LsdException Locked="fa
+	lse" Priority="72" Name="Colorful List Accent 2"/>\n<w:LsdException Locked
+	="false" Priority="73" Name="Colorful Grid Accent 2"/>\n<w:LsdException Lo
+	cked="false" Priority="60" Name="Light Shading Accent 3"/>\n<w:LsdExceptio
+	n Locked="false" Priority="61" Name="Light List Accent 3"/>\n<w:LsdExcepti
+	on Locked="false" Priority="62" Name="Light Grid Accent 3"/>\n<w:LsdExcept
+	ion Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>\n<w:Ls
+	dException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+	\n<w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 
+	3"/>\n<w:LsdException Locked="false" Priority="66" Name="Medium List 2 Acc
+	ent 3"/>\n<w:LsdException Locked="false" Priority="67" Name="Medium Grid 1
+	 Accent 3"/>\n<w:LsdException Locked="false" Priority="68" Name="Medium Gr
+	id 2 Accent 3"/>\n<w:LsdException Locked="false" Priority="69" Name="Mediu
+	m Grid 3 Accent 3"/>\n<w:LsdException Locked="false" Priority="70" Name="D
+	ark List Accent 3"/>\n<w:LsdException Locked="false" Priority="71" Name="C
+	olorful Shading Accent 3"/>\n<w:LsdException Locked="false" Priority="72" 
+	Name="Colorful List Accent 3"/>\n<w:LsdException Locked="false" Priority="
+	73" Name="Colorful Grid Accent 3"/>\n<w:LsdException Locked="false" Priori
+	ty="60" Name="Light Shading Accent 4"/>\n<w:LsdException Locked="false" Pr
+	iority="61" Name="Light List Accent 4"/>\n<w:LsdException Locked="false" P
+	riority="62" Name="Light Grid Accent 4"/>\n<w:LsdException Locked="false" 
+	Priority="63" Name="Medium Shading 1 Accent 4"/>\n<w:LsdException Locked="
+	false" Priority="64" Name="Medium Shading 2 Accent 4"/>\n<w:LsdException L
+	ocked="false" Priority="65" Name="Medium List 1 Accent 4"/>\n<w:LsdExcepti
+	on Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>\n<w:LsdExc
+	eption Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>\n<w:Ls
+	dException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>\n<
+	w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/
+	>\n<w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/
+	>\n<w:LsdException Locked="false" Priority="71" Name="Colorful Shading Acc
+	ent 4"/>\n<w:LsdException Locked="false" Priority="72" Name="Colorful List
+	 Accent 4"/>\n<w:LsdException Locked="false" Priority="73" Name="Colorful 
+	Grid Accent 4"/>\n<w:LsdException Locked="false" Priority="60" Name="Light
+	 Shading Accent 5"/>\n<w:LsdException Locked="false" Priority="61" Name="L
+	ight List Accent 5"/>\n<w:LsdException Locked="false" Priority="62" Name="
+	Light Grid Accent 5"/>\n<w:LsdException Locked="false" Priority="63" Name=
+	"Medium Shading 1 Accent 5"/>\n<w:LsdException Locked="false" Priority="64
+	" Name="Medium Shading 2 Accent 5"/>\n<w:LsdException Locked="false" Prior
+	ity="65" Name="Medium List 1 Accent 5"/>\n<w:LsdException Locked="false" P
+	riority="66" Name="Medium List 2 Accent 5"/>\n<w:LsdException Locked="fals
+	e" Priority="67" Name="Medium Grid 1 Accent 5"/>\n<w:LsdException Locked="
+	false" Priority="68" Name="Medium Grid 2 Accent 5"/>\n<w:LsdException Lock
+	ed="false" Priority="69" Name="Medium Grid 3 Accent 5"/>\n<w:LsdException 
+	Locked="false" Priority="70" Name="Dark List Accent 5"/>\n<w:LsdException 
+	Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>\n<w:LsdExc
+	eption Locked="false" Priority="72" Name="Colorful List Accent 5"/>\n<w:Ls
+	dException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>\n<
+	w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/
+	>\n<w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"
+	/>\n<w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6
+	"/>\n<w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 A
+	ccent 6"/>\n<w:LsdException Locked="false" Priority="64" Name="Medium Shad
+	ing 2 Accent 6"/>\n<w:LsdException Locked="false" Priority="65" Name="Medi
+	um List 1 Accent 6"/>\n<w:LsdException Locked="false" Priority="66" Name="
+	Medium List 2 Accent 6"/>\n<w:LsdException Locked="false" Priority="67" Na
+	me="Medium Grid 1 Accent 6"/>\n<w:LsdException Locked="false" Priority="68
+	" Name="Medium Grid 2 Accent 6"/>\n<w:LsdException Locked="false" Priority
+	="69" Name="Medium Grid 3 Accent 6"/>\n<w:LsdException Locked="false" Prio
+	rity="70" Name="Dark List Accent 6"/>\n<w:LsdException Locked="false" Prio
+	rity="71" Name="Colorful Shading Accent 6"/>\n<w:LsdException Locked="fals
+	e" Priority="72" Name="Colorful List Accent 6"/>\n<w:LsdException Locked="
+	false" Priority="73" Name="Colorful Grid Accent 6"/>\n<w:LsdException Lock
+	ed="false" Priority="19" QFormat="true" Name="Subtle Emphasis"/>\n<w:LsdEx
+	ception Locked="false" Priority="21" QFormat="true" Name="Intense Emphasis
+	"/>\n<w:LsdException Locked="false" Priority="31" QFormat="true" Name="Sub
+	tle Reference"/>\n<w:LsdException Locked="false" Priority="32" QFormat="tr
+	ue" Name="Intense Reference"/>\n<w:LsdException Locked="false" Priority="3
+	3" QFormat="true" Name="Book Title"/>\n<w:LsdException Locked="false" Prio
+	rity="37" SemiHidden="true" UnhideWhenUsed="true" Name="Bibliography"/>\n<
+	w:LsdException Locked="false" Priority="39" SemiHidden="true" UnhideWhenUs
+	ed="true" QFormat="true" Name="TOC Heading"/>\n<w:LsdException Locked="fal
+	se" Priority="41" Name="Plain Table 1"/>\n<w:LsdException Locked="false" P
+	riority="42" Name="Plain Table 2"/>\n<w:LsdException Locked="false" Priori
+	ty="43" Name="Plain Table 3"/>\n<w:LsdException Locked="false" Priority="4
+	4" Name="Plain Table 4"/>\n<w:LsdException Locked="false" Priority="45" Na
+	me="Plain Table 5"/>\n<w:LsdException Locked="false" Priority="40" Name="G
+	rid Table Light"/>\n<w:LsdException Locked="false" Priority="46" Name="Gri
+	d Table 1 Light"/>\n<w:LsdException Locked="false" Priority="47" Name="Gri
+	d Table 2"/>\n<w:LsdException Locked="false" Priority="48" Name="Grid Tabl
+	e 3"/>\n<w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+	\n<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>\
+	n<w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"
+	/>\n<w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorf
+	ul"/>\n<w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Lig
+	ht Accent 1"/>\n<w:LsdException Locked="false" Priority="47" Name="Grid Ta
+	ble 2 Accent 1"/>\n<w:LsdException Locked="false" Priority="48" Name="Grid
+	 Table 3 Accent 1"/>\n<w:LsdException Locked="false" Priority="49" Name="G
+	rid Table 4 Accent 1"/>\n<w:LsdException Locked="false" Priority="50" Name
+	="Grid Table 5 Dark Accent 1"/>\n<w:LsdException Locked="false" Priority="
+	51" Name="Grid Table 6 Colorful Accent 1"/>\n<w:LsdException Locked="false
+	" Priority="52" Name="Grid Table 7 Colorful Accent 1"/>\n<w:LsdException L
+	ocked="false" Priority="46" Name="Grid Table 1 Light Accent 2"/>\n<w:LsdEx
+	ception Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>\n<w:Ls
+	dException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>\n<w
+	:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>\
+	n<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Acce
+	nt 2"/>\n<w:LsdException Locked="false" Priority="51" Name="Grid Table 6 C
+	olorful Accent 2"/>\n<w:LsdException Locked="false" Priority="52" Name="Gr
+	id Table 7 Colorful Accent 2"/>\n<w:LsdException Locked="false" Priority="
+	46" Name="Grid Table 1 Light Accent 3"/>\n<w:LsdException Locked="false" P
+	riority="47" Name="Grid Table 2 Accent 3"/>\n<w:LsdException Locked="false
+	" Priority="48" Name="Grid Table 3 Accent 3"/>\n<w:LsdException Locked="fa
+	lse" Priority="49" Name="Grid Table 4 Accent 3"/>\n<w:LsdException Locked=
+	"false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>\n<w:LsdException
+	 Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 3"/>\n<w:
+	LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Acce
+	nt 3"/>\n<w:LsdException Locked="false" Priority="46" Name="Grid Table 1 L
+	ight Accent 4"/>\n<w:LsdException Locked="false" Priority="47" Name="Grid 
+	Table 2 Accent 4"/>\n<w:LsdException Locked="false" Priority="48" Name="Gr
+	id Table 3 Accent 4"/>\n<w:LsdException Locked="false" Priority="49" Name=
+	"Grid Table 4 Accent 4"/>\n<w:LsdException Locked="false" Priority="50" Na
+	me="Grid Table 5 Dark Accent 4"/>\n<w:LsdException Locked="false" Priority
+	="51" Name="Grid Table 6 Colorful Accent 4"/>\n<w:LsdException Locked="fal
+	se" Priority="52" Name="Grid Table 7 Colorful Accent 4"/>\n<w:LsdException
+	 Locked="false" Priority="46" Name="Grid Table 1 Light Accent 5"/>\n<w:Lsd
+	Exception Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>\n<w:
+	LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>\n
+	<w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/
+	>\n<w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Ac
+	cent 5"/>\n<w:LsdException Locked="false" Priority="51" Name="Grid Table 6
+	 Colorful Accent 5"/>\n<w:LsdException Locked="false" Priority="52" Name="
+	Grid Table 7 Colorful Accent 5"/>\n<w:LsdException Locked="false" Priority
+	="46" Name="Grid Table 1 Light Accent 6"/>\n<w:LsdException Locked="false"
+	 Priority="47" Name="Grid Table 2 Accent 6"/>\n<w:LsdException Locked="fal
+	se" Priority="48" Name="Grid Table 3 Accent 6"/>\n<w:LsdException Locked="
+	false" Priority="49" Name="Grid Table 4 Accent 6"/>\n<w:LsdException Locke
+	d="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>\n<w:LsdExcepti
+	on Locked="false" Priority="51" Name="Grid Table 6 Colorful Accent 6"/>\n<
+	w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful Ac
+	cent 6"/>\n<w:LsdException Locked="false" Priority="46" Name="List Table 1
+	 Light"/>\n<w:LsdException Locked="false" Priority="47" Name="List Table 2
+	"/>\n<w:LsdException Locked="false" Priority="48" Name="List Table 3"/>\n<
+	w:LsdException Locked="false" Priority="49" Name="List Table 4"/>\n<w:LsdE
+	xception Locked="false" Priority="50" Name="List Table 5 Dark"/>\n<w:LsdEx
+	ception Locked="false" Priority="51" Name="List Table 6 Colorful"/>\n<w:Ls
+	dException Locked="false" Priority="52" Name="List Table 7 Colorful"/>\n<w
+	:LsdException Locked="false" Priority="46" Name="List Table 1 Light Accent
+	 1"/>\n<w:LsdException Locked="false" Priority="47" Name="List Table 2 Acc
+	ent 1"/>\n<w:LsdException Locked="false" Priority="48" Name="List Table 3 
+	Accent 1"/>\n<w:LsdException Locked="false" Priority="49" Name="List Table
+	 4 Accent 1"/>\n<w:LsdException Locked="false" Priority="50" Name="List Ta
+	ble 5 Dark Accent 1"/>\n<w:LsdException Locked="false" Priority="51" Name=
+	"List Table 6 Colorful Accent 1"/>\n<w:LsdException Locked="false" Priorit
+	y="52" Name="List Table 7 Colorful Accent 1"/>\n<w:LsdException Locked="fa
+	lse" Priority="46" Name="List Table 1 Light Accent 2"/>\n<w:LsdException L
+	ocked="false" Priority="47" Name="List Table 2 Accent 2"/>\n<w:LsdExceptio
+	n Locked="false" Priority="48" Name="List Table 3 Accent 2"/>\n<w:LsdExcep
+	tion Locked="false" Priority="49" Name="List Table 4 Accent 2"/>\n<w:LsdEx
+	ception Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>\n
+	<w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful A
+	ccent 2"/>\n<w:LsdException Locked="false" Priority="52" Name="List Table 
+	7 Colorful Accent 2"/>\n<w:LsdException Locked="false" Priority="46" Name=
+	"List Table 1 Light Accent 3"/>\n<w:LsdException Locked="false" Priority="
+	47" Name="List Table 2 Accent 3"/>\n<w:LsdException Locked="false" Priorit
+	y="48" Name="List Table 3 Accent 3"/>\n<w:LsdException Locked="false" Prio
+	rity="49" Name="List Table 4 Accent 3"/>\n<w:LsdException Locked="false" P
+	riority="50" Name="List Table 5 Dark Accent 3"/>\n<w:LsdException Locked="
+	false" Priority="51" Name="List Table 6 Colorful Accent 3"/>\n<w:LsdExcept
+	ion Locked="false" Priority="52" Name="List Table 7 Colorful Accent 3"/>\n
+	<w:LsdException Locked="false" Priority="46" Name="List Table 1 Light Acce
+	nt 4"/>\n<w:LsdException Locked="false" Priority="47" Name="List Table 2 A
+	ccent 4"/>\n<w:LsdException Locked="false" Priority="48" Name="List Table 
+	3 Accent 4"/>\n<w:LsdException Locked="false" Priority="49" Name="List Tab
+	le 4 Accent 4"/>\n<w:LsdException Locked="false" Priority="50" Name="List 
+	Table 5 Dark Accent 4"/>\n<w:LsdException Locked="false" Priority="51" Nam
+	e="List Table 6 Colorful Accent 4"/>\n<w:LsdException Locked="false" Prior
+	ity="52" Name="List Table 7 Colorful Accent 4"/>\n<w:LsdException Locked="
+	false" Priority="46" Name="List Table 1 Light Accent 5"/>\n<w:LsdException
+	 Locked="false" Priority="47" Name="List Table 2 Accent 5"/>\n<w:LsdExcept
+	ion Locked="false" Priority="48" Name="List Table 3 Accent 5"/>\n<w:LsdExc
+	eption Locked="false" Priority="49" Name="List Table 4 Accent 5"/>\n<w:Lsd
+	Exception Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+	\n<w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful
+	 Accent 5"/>\n<w:LsdException Locked="false" Priority="52" Name="List Tabl
+	e 7 Colorful Accent 5"/>\n<w:LsdException Locked="false" Priority="46" Nam
+	e="List Table 1 Light Accent 6"/>\n<w:LsdException Locked="false" Priority
+	="47" Name="List Table 2 Accent 6"/>\n<w:LsdException Locked="false" Prior
+	ity="48" Name="List Table 3 Accent 6"/>\n<w:LsdException Locked="false" Pr
+	iority="49" Name="List Table 4 Accent 6"/>\n<w:LsdException Locked="false"
+	 Priority="50" Name="List Table 5 Dark Accent 6"/>\n<w:LsdException Locked
+	="false" Priority="51" Name="List Table 6 Colorful Accent 6"/>\n<w:LsdExce
+	ption Locked="false" Priority="52" Name="List Table 7 Colorful Accent 6"/>
+	\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true" N
+	ame="Mention"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWh
+	enUsed="true" Name="Smart Hyperlink"/>\n<w:LsdException Locked="false" Sem
+	iHidden="true" UnhideWhenUsed="true" Name="Hashtag"/>\n<w:LsdException Loc
+	ked="false" SemiHidden="true" UnhideWhenUsed="true" Name="Unresolved Menti
+	on"/>\n<w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="tr
+	ue" Name="Smart Link"/>\n</w:LatentStyles>\n</xml><![endif]--><style><!--\
+	n/* Font Definitions */\n@font-face\n	{font-family:"Cambria Math"\;\n	pano
+	se-1:2 4 5 3 5 4 6 3 2 4\;\n	mso-font-charset:0\;\n	mso-generic-font-famil
+	y:roman\;\n	mso-font-pitch:variable\;\n	mso-font-signature:-536869121 1107
+	305727 33554432 0 415 0\;}\n@font-face\n	{font-family:等线\;\n	panose-1:
+	2 1 6 0 3 1 1 1 1 1\;\n	mso-font-alt:DengXian\;\n	mso-font-charset:134\;\n
+		mso-generic-font-family:auto\;\n	mso-font-pitch:variable\;\n	mso-font-sig
+	nature:-1610612033 953122042 22 0 262159 0\;}\n@font-face\n	{font-family:"
+	\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1 1\;\n	mso-font-charset:134\;\n	m
+	so-generic-font-family:auto\;\n	mso-font-pitch:variable\;\n	mso-font-signa
+	ture:-1610612033 953122042 22 0 262159 0\;}\n/* Style Definitions */\np.Ms
+	oNormal\, li.MsoNormal\, div.MsoNormal\n	{mso-style-unhide:no\;\n	mso-styl
+	e-qformat:yes\;\n	mso-style-parent:""\;\n	margin:0cm\;\n	text-align:justif
+	y\;\n	text-justify:inter-ideograph\;\n	mso-pagination:none\;\n	font-size:1
+	0.5pt\;\n	mso-bidi-font-size:11.0pt\;\n	font-family:等线\;\n	mso-ascii-f
+	ont-family:等线\;\n	mso-fareast-font-family:等线\;\n	mso-hansi-font-fa
+	mily:等线\;\n	mso-bidi-font-family:"Times New Roman"\;\n	mso-font-kernin
+	g:1.0pt\;}\na:link\, span.MsoHyperlink\n	{mso-style-noshow:yes\;\n	mso-sty
+	le-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;\n	text-un
+	derline:single\;}\na:visited\, span.MsoHyperlinkFollowed\n	{mso-style-nosh
+	ow:yes\;\n	mso-style-priority:99\;\n	color:#954F72\;\n	text-decoration:und
+	erline\;\n	text-underline:single\;}\nspan.EmailStyle17\n	{mso-style-type:p
+	ersonal-compose\;\n	mso-style-noshow:yes\;\n	mso-style-unhide:no\;\n	mso-a
+	nsi-font-size:10.5pt\;\n	mso-bidi-font-size:11.0pt\;\n	font-family:等线\
+	;\n	mso-ascii-font-family:等线\;\n	mso-fareast-font-family:等线\;\n	ms
+	o-hansi-font-family:等线\;\n	mso-bidi-font-family:"Times New Roman"\;\n	
+	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	mso-
+	default-props:yes\;\n	font-family:等线\;\n	mso-bidi-font-family:"Times N
+	ew Roman"\;}\n/* Page Definitions */\n@page\n	{mso-page-border-surround-he
+	ader:no\;\n	mso-page-border-surround-footer:no\;}\n@page WordSection1\n	{s
+	ize:612.0pt 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;\n	mso-header-
+	margin:36.0pt\;\n	mso-footer-margin:36.0pt\;\n	mso-paper-source:0\;}\ndiv.
+	WordSection1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 10]><styl
+	e>/* Style Definitions */\ntable.MsoNormalTable\n	{mso-style-name:普通
+	表格\;\n	mso-tstyle-rowband-size:0\;\n	mso-tstyle-colband-size:0\;\n	mso
+	-style-noshow:yes\;\n	mso-style-priority:99\;\n	mso-style-parent:""\;\n	ms
+	o-padding-alt:0cm 5.4pt 0cm 5.4pt\;\n	mso-para-margin:0cm\;\n	mso-paginati
+	on:widow-orphan\;\n	font-size:10.5pt\;\n	mso-bidi-font-size:11.0pt\;\n	fon
+	t-family:等线\;\n	mso-ascii-font-family:等线\;\n	mso-fareast-font-fami
+	ly:等线\;\n	mso-hansi-font-family:等线\;\n	mso-font-kerning:1.0pt\;}\n
+	</style><![endif]--><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit
+	" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapel
+	ayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></
+	xml><![endif]--></head><body lang=ZH-CN link="#0563C1" vlink="#954F72" sty
+	le='tab-interval:21.0pt\;word-wrap:break-word\;text-justify-trim:punctuati
+	on'><div class=WordSection1><p class=MsoNormal><span lang=EN-US><o:p>&nbsp
+	\;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-ISDRAFT:TRUE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 ATTENDEE;CN="Chen, Tingting02";RSVP=TRUE:mailto:tingting.2.chen@benecke-cha
 	ngshun.com.cn
 ATTENDEE;CN=TE_ZG_MR_CBC401_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-PARTICIPA
@@ -3025,89 +4242,6 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN="Zhang, Qiang (uia26407)";RSVP=TRUE:mailto:qiang.zhang@benecke-
-	changshun.com.cn
-ATTENDEE;CN="Huang, Yinan";RSVP=TRUE:mailto:yinan.huang@benecke-changshun.c
-	om.cn
-ATTENDEE;CN="Xu, Jinkai (uie99823)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:jink
-	ai.xu@benecke-changshun.com.cn
-ATTENDEE;CN="Qian, Quick (qianz1)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:zheng
-	kai.qian@benecke-changshun.com.cn
-ATTENDEE;CN="Liu, Jiawen02";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:jiawen.2.liu
-	@benecke-changshun.com.cn
-ATTENDEE;CN="Huang, Yuyang";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yuyang.huang
-	@benecke-changshun.com.cn
-ATTENDEE;CN="Miao, Yingmin";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Yingmin.Miao
-	@benecke-changshun.com.cn
-ATTENDEE;CN="Zhang, Gavin (zhangy38)";RSVP=TRUE:mailto:yanxu.zhang@benecke-
-	changshun.com.cn
-ATTENDEE;CN="Pan, Sheng";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:sheng.pan@benec
-	ke-changshun.com.cn
-ATTENDEE;CN=TE_ZG_MR_PlantOffice301_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
-	ARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_PlantOffice301_Zhan
-	gjiagang@continental.com
-ATTENDEE;CN="Sun, Xiaoyong (uie17681)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:x
-	iaoyong.sun@benecke-changshun.com.cn
-ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
-	xiaodong.3.li@benecke-changshun.com.cn
-CLASS:PUBLIC
-CREATED:20220719T024243Z
-DESCRIPTION:Dear All\,\n\n \n\n基于目前常州新泉对我们产品质
-	量抱怨非常大， 这个会议上面我会展示近期在客户端的
-	所有质量问题\n\n需要大家一起看一下如何全面解决这些
-	问题。\n\n \n\n这个项目的质量问题我会在下周二的QFM上
-	面给管理层做汇报.\n\n \n\n
-DTEND;TZID="China Standard Time":20220719T120000
-DTSTAMP:20220718T013223Z
-DTSTART;TZID="China Standard Time":20220719T110000
-LAST-MODIFIED:20220719T030307Z
-LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
-ORGANIZER;CN="Zhang, Qiang (uia26407)":mailto:qiang.zhang@benecke-changshun
-	.com.cn
-PRIORITY:5
-SEQUENCE:0
-SUMMARY:常州新泉SC2E客户抱怨
-TRANSP:OPAQUE
-UID:040000008200E00074C5B7101A82E0080000000080C5865F879AD801000000000000000
-	01000000084CF25E39C85A8438495E9AAEF3EF564
-X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
-	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
-	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
-	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
-	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
-	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
-	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
-	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
-	 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1
-	 1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 
-	1 1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1
-	 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorm
-	al\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-fami
-	ly:DengXian\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	f
-	ont-family:DengXian\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-t
-	ype:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0p
-	t 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{p
-	age:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults
-	 v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml
-	>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:sh
-	apelayout></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink
-	="#954F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><di
-	v class="WordSection1"><p class="MsoNormal"><span lang="EN-US">Dear All\,<
-	o:p></o:p></span></p><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;<
-	/o:p></span></p><p class="MsoNormal">基于目前常州新泉对我们产
-	品质量抱怨非常大， 这个会议上面我会展示近期在客户
-	端的所有质量问题<span lang="EN-US"><o:p></o:p></span></p><p class=
-	"MsoNormal">需要大家一起看一下如何全面解决这些问题。<s
-	pan lang="EN-US"><o:p></o:p></span></p><p class="MsoNormal"><span lang="EN
-	-US"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal">这个项目的质
-	量问题我会在下周二的<span lang="EN-US">QFM</span>上面给管理
-	层做汇报<span lang="EN-US">.<o:p></o:p></span></p><p class="MsoNormal"
-	><span lang="EN-US"><o:p>&nbsp\;</o:p></span></p></div></body></html>
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-END:VEVENT
-BEGIN:VEVENT
 ATTENDEE;CN="Wang, Fen";RSVP=TRUE:mailto:fen.wang@benecke-changshun.com.cn
 ATTENDEE;CN=TE_ZG_MR_PlantOffice303_Zhangjiagang@continental.com;CUTYPE=RES
 	OURCE;ROLE=NON-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_Pla
@@ -3155,6 +4289,67 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	s="WordSection1"><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p
 	></span></p></div></body></html>
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Yuan, Zhao (uic97991)";RSVP=TRUE:mailto:zhao.yuan@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=TENTATIVE;X-MS-O
+	LK-RESPTIME=20220720T010700Z:mailto:xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Xu, Jinkai (uie99823)";RSVP=TRUE:mailto:jinkai.xu@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Zhang, Haiyan03 (uia67176)";RSVP=TRUE:mailto:haiyan.3.zhang@be
+	necke-changshun.com.cn
+CLASS:PUBLIC
+CREATED:20220720T010332Z
+DESCRIPTION:Hello All：\n\n \n\n大家根据自己时间，抽空去现场
+	给点建议，谢谢！\n\n
+DTEND;TZID="China Standard Time":20220720T170000
+DTSTAMP:20220720T010323Z
+DTSTART;TZID="China Standard Time":20220720T140000
+LAST-MODIFIED:20220720T010533Z
+LOCATION:EX1投料
+ORGANIZER;CN="Hou, Xuewen":mailto:xuewen.hou@benecke-changshun.com.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:挤出投料现场调试
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000F0F4695F179CD801000000000000000
+	010000000A2714164F51E544CA28EDF690B98B095
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 
+	1 1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1
+	 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorm
+	al\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-fami
+	ly:DengXian\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	f
+	ont-family:DengXian\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-t
+	ype:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0p
+	t 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{p
+	age:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults
+	 v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml
+	>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:sh
+	apelayout></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink
+	="#954F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><di
+	v class="WordSection1"><p class="MsoNormal"><span lang="EN-US">Hello All</
+	span>：<span lang="EN-US"><o:p></o:p></span></p><p class="MsoNormal"><spa
+	n lang="EN-US"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal">大家根
+	据自己时间，抽空去现场给点建议，谢谢！<span lang="EN-US
+	"><o:p></o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
 BEGIN:VALARM
