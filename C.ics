@@ -982,7 +982,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220412T232022Z
 DTEND:20220720T150000Z
-DTSTAMP:20220720T010817Z
+DTSTAMP:20220720T045453Z
 DTSTART:20220720T140000Z
 LAST-MODIFIED:20220718T191049Z
 PRIORITY:5
@@ -1952,7 +1952,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220118T193700Z
 DTEND:20220720T080000Z
-DTSTAMP:20220720T010834Z
+DTSTAMP:20220720T045512Z
 DTSTART:20220720T070000Z
 LAST-MODIFIED:20220719T221837Z
 PRIORITY:5
@@ -2123,7 +2123,7 @@ DESCRIPTION: \n\n
 DTEND;TZID="China Standard Time":20220720T140000
 DTSTAMP:20220217T011849Z
 DTSTART;TZID="China Standard Time":20220720T130000
-LAST-MODIFIED:20220713T040649Z
+LAST-MODIFIED:20220720T042253Z
 LOCATION:TE_ZG_MR_PlantOffice302_Zhangjiagang
 ORGANIZER;CN="Chen, Chenglong (uie33255)":mailto:chenglong.chen@benecke-cha
 	ngshun.com.cn
@@ -2161,6 +2161,49 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220720T042252Z
+DESCRIPTION: \n\n
+DTEND:20220720T060000Z
+DTSTAMP:20220720T042240Z
+DTSTART:20220720T050000Z
+LAST-MODIFIED:20220720T042252Z
+PRIORITY:1
+RECURRENCE-ID:20220720T050000Z
+SEQUENCE:26
+SUMMARY:已取消: TPO颜色梳理会
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E0080000000060FF1E6D3023D801000000000000000
+	010000000AC26618F5BBFE140ABC8FAD6F1DF0F27
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:DengXian\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 
+	1 1\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1
+	 1 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorm
+	al\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-fami
+	ly:DengXian\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	f
+	ont-family:DengXian\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-t
+	ype:export-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0p
+	t 792.0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{p
+	age:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults
+	 v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml
+	>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:sh
+	apelayout></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink
+	="#954F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><di
+	v class="WordSection1"><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\
+	;</o:p></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:2
+X-MS-OLK-APPTSEQTIME:20220217T011849Z
 END:VEVENT
 BEGIN:VEVENT
 ATTENDEE;CN="Liu, Kai05 (uia69439)";RSVP=TRUE:mailto:kai.5.liu@benecke-chan
@@ -2240,7 +2283,7 @@ CATEGORIES:假日
 CLASS:PUBLIC
 CREATED:20220324T040549Z
 DTEND;VALUE=DATE:20220724
-DTSTAMP:20220720T010850Z
+DTSTAMP:20220720T045527Z
 DTSTART;VALUE=DATE:20220723
 LAST-MODIFIED:20220711T123253Z
 LOCATION:中国
@@ -2262,7 +2305,7 @@ CATEGORIES:假日
 CLASS:PUBLIC
 CREATED:20220328T055228Z
 DTEND;VALUE=DATE:20220724
-DTSTAMP:20220720T010850Z
+DTSTAMP:20220720T045527Z
 DTSTART;VALUE=DATE:20220723
 LAST-MODIFIED:20220711T123253Z
 LOCATION:中国
@@ -3373,7 +3416,7 @@ DESCRIPTION:Dear all\,\n\n \n\nI’d like to gather related functions to su
 DTEND;TZID="China Standard Time":20220720T110000
 DTSTAMP:20220714T042444Z
 DTSTART;TZID="China Standard Time":20220720T103000
-LAST-MODIFIED:20220715T005931Z
+LAST-MODIFIED:20220720T023122Z
 LOCATION:TE_ZG_MR_PlantOffice301_Zhangjiagang
 ORGANIZER;CN="Shi, Gino (uie26475)":mailto:gaofeng.shi@benecke-changshun.co
 	m.cn
@@ -3440,18 +3483,13 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220714T123428Z
 DESCRIPTION: \n
 DTEND;TZID="China Standard Time":20220726T170000
-DTSTAMP:20220720T010851Z
+DTSTAMP:20220720T045528Z
 DTSTART;TZID="China Standard Time":20220726T083000
 LAST-MODIFIED:20220714T152500Z
 ORGANIZER;CN="Li, Xiaodong03 (uib07707)":mailto:xiaodong.3.li@benecke-chang
@@ -4298,22 +4336,24 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+ATTENDEE;CN="Hou, Xuewen";RSVP=TRUE:mailto:xuewen.hou@benecke-changshun.com
+	.cn
 ATTENDEE;CN="Yuan, Zhao (uic97991)";RSVP=TRUE:mailto:zhao.yuan@benecke-chan
 	gshun.com.cn
-ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=TENTATIVE;X-MS-O
-	LK-RESPTIME=20220720T010700Z:mailto:xiaodong.3.li@benecke-changshun.com.cn
-ATTENDEE;CN="Xu, Jinkai (uie99823)";RSVP=TRUE:mailto:jinkai.xu@benecke-chan
-	gshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=TENTATIVE:mailto
+	:xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Xu, Jinkai (uie99823)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:jink
+	ai.xu@benecke-changshun.com.cn
 ATTENDEE;CN="Zhang, Haiyan03 (uia67176)";RSVP=TRUE:mailto:haiyan.3.zhang@be
 	necke-changshun.com.cn
 CLASS:PUBLIC
-CREATED:20220720T010332Z
+CREATED:20220720T010757Z
 DESCRIPTION:Hello All：\n\n \n\n大家根据自己时间，抽空去现场
 	给点建议，谢谢！\n\n
 DTEND;TZID="China Standard Time":20220720T170000
 DTSTAMP:20220720T010323Z
 DTSTART;TZID="China Standard Time":20220720T140000
-LAST-MODIFIED:20220720T010533Z
+LAST-MODIFIED:20220720T012630Z
 LOCATION:EX1投料
 ORGANIZER;CN="Hou, Xuewen":mailto:xuewen.hou@benecke-changshun.com.cn
 PRIORITY:5
