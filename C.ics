@@ -982,7 +982,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220412T232022Z
 DTEND:20220720T150000Z
-DTSTAMP:20220720T045453Z
+DTSTAMP:20220720T085453Z
 DTSTART:20220720T140000Z
 LAST-MODIFIED:20220718T191049Z
 PRIORITY:5
@@ -1840,7 +1840,7 @@ DESCRIPTION:Dear All\,\nHere are the events for our CBS@Operations Communit
 DTEND;TZID="Romance Standard Time":20220720T100000
 DTSTAMP:20211020T095008Z
 DTSTART;TZID="Romance Standard Time":20220720T090000
-LAST-MODIFIED:20220719T221852Z
+LAST-MODIFIED:20220720T070539Z
 ORGANIZER;CN="CBS Coaches Worldwide Platform":mailto:team_10005256@continen
 	tal.onmicrosoft.com
 PRIORITY:5
@@ -1952,7 +1952,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220118T193700Z
 DTEND:20220720T080000Z
-DTSTAMP:20220720T045512Z
+DTSTAMP:20220720T085512Z
 DTSTART:20220720T070000Z
 LAST-MODIFIED:20220719T221837Z
 PRIORITY:5
@@ -2283,7 +2283,7 @@ CATEGORIES:假日
 CLASS:PUBLIC
 CREATED:20220324T040549Z
 DTEND;VALUE=DATE:20220724
-DTSTAMP:20220720T045527Z
+DTSTAMP:20220720T085529Z
 DTSTART;VALUE=DATE:20220723
 LAST-MODIFIED:20220711T123253Z
 LOCATION:中国
@@ -2305,7 +2305,7 @@ CATEGORIES:假日
 CLASS:PUBLIC
 CREATED:20220328T055228Z
 DTEND;VALUE=DATE:20220724
-DTSTAMP:20220720T045527Z
+DTSTAMP:20220720T085529Z
 DTSTART;VALUE=DATE:20220723
 LAST-MODIFIED:20220711T123253Z
 LOCATION:中国
@@ -3489,7 +3489,7 @@ CLASS:PUBLIC
 CREATED:20220714T123428Z
 DESCRIPTION: \n
 DTEND;TZID="China Standard Time":20220726T170000
-DTSTAMP:20220720T045528Z
+DTSTAMP:20220720T085530Z
 DTSTART;TZID="China Standard Time":20220726T083000
 LAST-MODIFIED:20220714T152500Z
 ORGANIZER;CN="Li, Xiaodong03 (uib07707)":mailto:xiaodong.3.li@benecke-chang
@@ -4353,7 +4353,7 @@ DESCRIPTION:Hello All：\n\n \n\n大家根据自己时间，抽空去现场
 DTEND;TZID="China Standard Time":20220720T170000
 DTSTAMP:20220720T010323Z
 DTSTART;TZID="China Standard Time":20220720T140000
-LAST-MODIFIED:20220720T012630Z
+LAST-MODIFIED:20220720T070530Z
 LOCATION:EX1投料
 ORGANIZER;CN="Hou, Xuewen":mailto:xuewen.hou@benecke-changshun.com.cn
 PRIORITY:5
@@ -4390,6 +4390,69 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	据自己时间，抽空去现场给点建议，谢谢！<span lang="EN-US
 	"><o:p></o:p></span></p></div></body></html>
 X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Qiuhua Lu";RSVP=TRUE:mailto:qiuhua.lu@benecke-changshun.com.cn
+ATTENDEE;CN="jiang, song03 (uic15874)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:Song.3.Jiang@benecke-changshun.com.cn
+ATTENDEE;CN="Cheng, Dong01";RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:dong01.chen
+	g@benecke-changshun.com.cn
+ATTENDEE;CN="Hou, Xuewen";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:xuewen.hou@ben
+	ecke-changshun.com.cn
+ATTENDEE;CN="Hu, Harrison (uib98406)";RSVP=TRUE:mailto:huisheng.hu@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Cao, Haibing (uib97156)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:ha
+	ibing.cao@benecke-changshun.com.cn
+ATTENDEE;CN=TE_ZG_MR_PlantOffice303_Zhangjiagang@continental.com;CUTYPE=RES
+	OURCE;ROLE=NON-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_Pla
+	ntOffice303_Zhangjiagang@continental.com
+ATTENDEE;CN=TE_ZG_MR_PlantOffice302_Zhangjiagang;ROLE=OPT-PARTICIPANT;RSVP=
+	TRUE;PARTSTAT=TENTATIVE:mailto:TE_ZG_MR_PlantOffice302_Zhangjiagang@contin
+	ental.com
+CLASS:PUBLIC
+CREATED:20220720T055924Z
+DESCRIPTION: \n\n
+DTEND;TZID="China Standard Time":20220721T103000
+DTSTAMP:20220720T053224Z
+DTSTART;TZID="China Standard Time":20220721T100000
+LAST-MODIFIED:20220720T062221Z
+LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang@continental.com
+ORGANIZER;CN="Qiuhua Lu":mailto:qiuhua.lu@benecke-changshun.com.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:颜色实验室自动录入改善
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000906A6A103C9CD801000000000000000
+	0100000003E8058E7B3455749A08D21450164F332
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
+	 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
+	\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1 
+	1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 1
+	 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal
+	\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-family
+	:等线\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
+	family:等线\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:ex
+	port-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.
+	0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:Wo
+	rdSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext
+	="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:
+	shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelay
+	out></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink="#954
+	F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><div clas
+	s="WordSection1"><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p
+	></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
 BEGIN:VALARM
