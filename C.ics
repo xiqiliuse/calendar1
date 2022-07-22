@@ -2,10 +2,11 @@ BEGIN:VCALENDAR
 PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
 VERSION:2.0
 METHOD:PUBLISH
-X-CALSTART:20220721T003500Z
-X-CALEND:20220727T140000Z
-X-CLIPSTART:20220720T160000Z
-X-CLIPEND:20220727T160000Z
+X-CALSTART:20220722T003500Z
+X-CALSTART:20220723T000000
+X-CALEND:20220728T144500Z
+X-CLIPSTART:20220721T160000Z
+X-CLIPEND:20220728T160000Z
 X-WR-RELCALID:{0000002E-4624-F197-70FA-88B3997B8C1A}
 X-WR-CALNAME:Li\, Xiaodong03 (uib07707)
 X-PRIMARY-CALENDAR:TRUE
@@ -78,10 +79,10 @@ DESCRIPTION: \n\n__________________________________________________________
 	nguage=zh-CN>  | 法律 <https://filehub.admiralcloud.com/dl/5/6501531f-d1
 	ca-436b-832a-1d684ab9ad7e>  \n\n__________________________________________
 	______________________________________ \n\n \n\n
-DTEND;TZID="China Standard Time":20220721T092500
+DTEND;TZID="China Standard Time":20220722T092500
 DTSTAMP:20220411T004325Z
-DTSTART;TZID="China Standard Time":20220721T083500
-LAST-MODIFIED:20220721T015551Z
+DTSTART;TZID="China Standard Time":20220722T083500
+LAST-MODIFIED:20220722T002957Z
 LOCATION:Microsoft Teams 会议
 ORGANIZER;CN="Huang, Yuyang":mailto:yuyang.huang@benecke-changshun.com.cn
 PRIORITY:5
@@ -1076,7 +1077,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220114T193943Z
 DTEND:20220727T140000Z
-DTSTAMP:20220721T085456Z
+DTSTAMP:20220722T005457Z
 DTSTART:20220727T130000Z
 LAST-MODIFIED:20220721T053232Z
 PRIORITY:5
@@ -2000,7 +2001,7 @@ BEGIN:VEVENT
 CLASS:PUBLIC
 CREATED:20220111T171422Z
 DTEND:20220727T080000Z
-DTSTAMP:20220721T085517Z
+DTSTAMP:20220722T005526Z
 DTSTART:20220727T070000Z
 LAST-MODIFIED:20220721T053231Z
 PRIORITY:5
@@ -2008,6 +2009,2190 @@ RECURRENCE-ID:20220727T070000Z
 SEQUENCE:0
 UID:040000008200E00074C5B7101A82E00800000000057D1FE64DE0D701000000000000000
 	01000000013BC725D61A05A4D9512D02283EDFDAF
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Thalmair, Joachim";RSVP=TRUE:mailto:Joachim.Thalmair@continent
+	al-corporation.com
+ATTENDEE;CN="Karauec, Mehmet";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Mehmet.Kar
+	auec@continental-corporation.com
+ATTENDEE;CN="CBS Coaches Worldwide Platform";RSVP=TRUE:mailto:team_10005256
+	@continental.onmicrosoft.com
+ATTENDEE;CN="Paggel, Jens";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jens.pagge
+	l@continental-corporation.com
+ATTENDEE;CN="Nanjaiyan, Vijayakumar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=TENTATIVE:mailto:Vijayakumar.Nanjaiyan@continental-corporation.com
+ATTENDEE;CN="SIVARAMAN, Ramnath (uidt8726)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=DECLINED:mailto:ramnath.sivaraman@continental-corporation.com
+ATTENDEE;CN="Perez, Humberto";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:humberto.perez@fluid.contitech.com.mx
+ATTENDEE;CN="DAVILA, KARINA (uids7099)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:karina.davila@continental-corporation.com
+ATTENDEE;CN="Ponce Aymerich, Michelle (uia33418)";ROLE=OPT-PARTICIPANT;RSVP
+	=TRUE:mailto:michelle.ponce.aymerich@continental-corporation.com
+ATTENDEE;CN="Sanchez, Oliver";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:oliver.sanchez@continental-corporation.com
+ATTENDEE;CN="Xu, Yanchun";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:yanchun.xu@
+	continental-corporation.com
+ATTENDEE;CN="Aureus, Bibiana Castillo (uie62077)";ROLE=OPT-PARTICIPANT;RSVP
+	=TRUE:mailto:bibiana.aureus@continental-corporation.com
+ATTENDEE;CN="Vaitkus, Ignas (uie72230)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:inva
+	lid:nomail
+ATTENDEE;CN="Koh, Charles";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Cenuse, Andreea (CenuseA)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:andreea.cenuse@continental-corporation.com
+ATTENDEE;CN="Fragner, Elisabeth (uidt3687)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=TENTATIVE:mailto:elisabeth.fragner@continental-corporation.com
+ATTENDEE;CN="Goncalves, Carlos";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:carlos.goncalves@conti.de
+ATTENDEE;CN="Trabelsi, Ahmed";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:ahmed.trabelsi@continental-corporation.com
+ATTENDEE;CN="Becker, Ingemar (beckeri)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:ingemar.becker@continental.com
+ATTENDEE;CN="DURICIC, NATASA (djuricicn)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:natasa.djuricic@fluid.contitech.rs
+ATTENDEE;CN="Martinez Melendez, Carlos";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:Carlos.Martinez@continental.com
+ATTENDEE;CN="Balz, Monika";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:monika.balz@conti.de
+ATTENDEE;CN="Abreu Gonzalez, Alejandro (uia37323)";ROLE=OPT-PARTICIPANT;RSV
+	P=TRUE;PARTSTAT=TENTATIVE:mailto:alejandro.abreu@continental-corporation.c
+	om
+ATTENDEE;CN="Cucco Fiore, Antonio";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:antonio.cucco.fiore@continental-corporation.com
+ATTENDEE;CN="Forgone Keresztes-Nagy, Kinga (uib49308)";ROLE=OPT-PARTICIPANT
+	;RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:kinga.forgone.keresztes-nagy@continen
+	tal-corporation.com
+ATTENDEE;CN="Narozny, Vojtech";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:Vojtech.Narozny@continental-corporation.com
+ATTENDEE;CN="Olenici, Carina-Oana (uie70326)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=TENTATIVE:mailto:carina-oana.olenici@continental-corporation.co
+	m
+ATTENDEE;CN="Burton, James";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:James.Burton@conti-na.com
+ATTENDEE;CN="Blankenship, John (uia28634)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=ACCEPTED:invalid:nomail
+ATTENDEE;CN="Bartunek, Jan (bartunekj)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:Jan.Bartunek@conti.de
+ATTENDEE;CN="Reinsch, Steffen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:Steffen.Reinsch@continental.com
+ATTENDEE;CN="Schmeck, Sebastian (uia09306)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=DECLINED:mailto:Sebastian.Schmeck@continental-corporation.com
+ATTENDEE;CN="Faist, Marc";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:marc.faist@continental-corporation.com
+ATTENDEE;CN="Bailes, Murray";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:Murray.Bailes@continental.com
+ATTENDEE;CN="Dohmen, Christian (dohmenc)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=DECLINED:mailto:christian.dohmen@continental.com
+ATTENDEE;CN="Foulet, Raine01 (uia20768)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=TENTATIVE:mailto:raine01.foulet@continental.com
+ATTENDEE;CN="Othmer, Julia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:julia.othmer@continental.com
+ATTENDEE;CN="Bayersdoerfer, Sybille";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:Sybille.Bayersdoerfer@continental.com
+ATTENDEE;CN="Butler, Suzann";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:Suzann.Butler@continental.com
+ATTENDEE;CN="Martinez, Jose";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:jose.martinez@continental.com
+ATTENDEE;CN="Williams, Stephanie";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:stephanie.williams@continental-corporation.com
+ATTENDEE;CN="Guentner, Gerhard";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:Gerhard.Guentner@continental-corporation.com
+ATTENDEE;CN="Herrmann, Linda";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:linda.herrmann@continental.com
+ATTENDEE;CN="Zseli, Mate";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:Mate.Zseli@continental-corporation.com
+ATTENDEE;CN="Andrino, Frederick (uia29449)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=ACCEPTED:mailto:frederick.andrino@continental-corporation.com
+ATTENDEE;CN="Luches, Diana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:diana.luches@continental-corporation.com
+ATTENDEE;CN="Popescu, Puiu";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:puiu.popescu@continental-corporation.com
+ATTENDEE;CN="Wail, AFENDI";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:afendi.wail@continental.com
+ATTENDEE;CN="Fehlau, Lena";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:lena.fehlau@continental.com
+ATTENDEE;CN="Reyes, Rafael (uia21443)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:rafael.reyes@contitech.de
+ATTENDEE;CN="Beckhaus, Arne (UIDG2314)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:Arne.Beckhaus@conti-engineering.com
+ATTENDEE;CN="Reineke, Jennifer (uia12735)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=DECLINED:mailto:jennifer.reineke@fluid.contitech.de
+ATTENDEE;CN="Cording, Lara (uia41629)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:lara.cording@conti.de
+ATTENDEE;CN="Zhou, Jin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
+	ilto:jin.zhou@continental-corporation.com
+ATTENDEE;CN="Kawaishi, Shintarou";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:shintarou.kawaishi@continental-corporation.com
+ATTENDEE;CN="Chai, Kian Hin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:kian.hin.chai@continental-corporation.com
+ATTENDEE;CN="Kanazawa, Taka";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Taka.Kanazawa@continental-corporation.com
+ATTENDEE;CN="Mimura, Kumi (uidt6422)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:mailto:kumi.mimura@continental-corporation.com
+ATTENDEE;CN="Qi, Yuliang02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:Yuliang.2.Qi@continental-corporation.com
+ATTENDEE;CN="Tang, Li-Hong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:li-hong.tang@conti.my
+ATTENDEE;CN="Kempkes, Ansgar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:ansgar.kempkes@continental-corporation.com
+ATTENDEE;CN="Wu, Adam (uie27276)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:adam.wu@contitech.cn
+ATTENDEE;CN="Wang, Na03";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:na.3.wang@continental-corporation.com
+ATTENDEE;CN="RODRIGUEZ, Leonardo (uid39839)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:mailto:leonardo.daniel.rodriguez@continental-corporatio
+	n.com
+ATTENDEE;CN="Zhao, Dexiu";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:dexiu.zhao@continental-corporation.com
+ATTENDEE;CN="Dang, Van-Tuong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:van-tuong.dang@conti.co.th
+ATTENDEE;CN="Gao, Jian01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:jian01.gao@continental.com
+ATTENDEE;CN="Lei, Liaokai";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:liaokai.lei@ptg.contitech.cn
+ATTENDEE;CN="Ge, David";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:ma
+	ilto:david.ge@fluid.contitech.cn
+ATTENDEE;CN="Tian, Yong (uidc4162)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:Yong.Tian@fluid.contitech.cn
+ATTENDEE;CN="Koh, Watson";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:Watson.Koh@continental-corporation.com
+ATTENDEE;CN="Ruvalcaba, Francisco";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:francisco.ramon.ruvalcaba.herrera@continental-corporation.
+	com
+ATTENDEE;CN="Lee, Geok-Kim";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Geok-Kim.Lee@conti.my
+ATTENDEE;CN="Wang, Violin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:invalid:nomail
+ATTENDEE;CN="Ma, Siyuan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:m
+	ailto:Siyuan.Ma@benecke-changshun.com.cn
+ATTENDEE;CN="Joo, Eunlae";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:eunlae.joo@continental-corporation.com
+ATTENDEE;CN="Zhang, Xiaomin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:Xiaomin.Zhang@continental-corporation.com
+ATTENDEE;CN="Chen, Li";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:ma
+	ilto:li.chen@continental-corporation.com
+ATTENDEE;CN="Sanchez, Christopher";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:christopher.sanchez@fluid.contitech.com.mx
+ATTENDEE;CN="Chakravarthy, VR";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:Vr.Chakravarthy@continental-corporation.com
+ATTENDEE;CN="Topalian, Marianne";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:Marianne.Topalian@contitech-usa.com
+ATTENDEE;CN="Nune, Ravisankar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:ravisankar.nune@continental-corporation.com
+ATTENDEE;CN="Reddy, Ashwin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:ashwin.reddy@continental-corporation.com
+ATTENDEE;CN="Li, Peng09";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:m
+	ailto:peng.9.li@continental-corporation.com
+ATTENDEE;CN="Jaitly, Sanjay";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:sanjay.jaitly@ptg.contitech.in
+ATTENDEE;CN="Qian, Cui Ping";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:cui.ping.qian@continental-corporation.com
+ATTENDEE;CN="SHARMA, UNNIKRISHNA (uia57519)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=TENTATIVE:mailto:unnikrishna.sharma@continental-corporation.com
+ATTENDEE;CN="Smitha, Madhura";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:madhura.smitha.vemulati@continental-corporation.com
+ATTENDEE;CN="Alagh, Manish";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Manish.Alagh@ptg.contitech.in
+ATTENDEE;CN="Langhof, Anke";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:anke.langhof@continental-corporation.com
+ATTENDEE;CN="Baltar, Leah";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:leah.baltar@continental-corporation.com
+ATTENDEE;CN="Wagner, Sven";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:Sven.Wagner@continental-corporation.com
+ATTENDEE;CN="Pan, Patrick";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:patrick.pan@continental.com
+ATTENDEE;CN="Klyscz, Thomas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:thomas.klyscz@fluid.contitech.de
+ATTENDEE;CN="Krassnitzer, Jonas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:jonas.krassnitzer@continental.com
+ATTENDEE;CN="Wang, Chuanfeng01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:chuanfeng01.wang@benecke-changzhou.com.cn
+ATTENDEE;CN="Gruber, Thomas02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:Thomas.2.Gruber@continental-corporation.com
+ATTENDEE;CN="Deckenbach, Herbert";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:herbert.deckenbach@continental-corporation.com
+ATTENDEE;CN="Strauss-Fischbach, Karen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:karen.strauss-fischbach@fluid.contitech.de
+ATTENDEE;CN="Sterki, Reto";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:Reto.Sterki@contitrade.ch
+ATTENDEE;CN="Brettschneider, Anja";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:Anja.Brettschneider@continental-corporation.com
+ATTENDEE;CN="Niebisch, Klaus";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:klaus.niebisch@conti.de
+ATTENDEE;CN="May, Daniel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:daniel.may@continental-corporation.com
+ATTENDEE;CN="Terekhova, Yulia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:yulia.terekhova@conti.de
+ATTENDEE;CN="Corres, Simone";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:invalid:nomail
+ATTENDEE;CN="Zambak, Mehmet";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:mehmet.zambak@continental-corporation.com
+ATTENDEE;CN="Ghergut, Lucian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:lucian.ghergut@continental-corporation.com
+ATTENDEE;CN="Poputa, Catalin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:catalin.poputa@continental-corporation.com
+ATTENDEE;CN="Grill, Eva";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:
+	mailto:eva.grill@continental-corporation.com
+ATTENDEE;CN="Guenscht, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:Michael.Guenscht@continental-corporation.com
+ATTENDEE;CN="Schrader, Wolfgang";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:wolfgang.schrader@continental.com
+ATTENDEE;CN="Bot, Nicoleta";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Nicoleta.Bot@continental-corporation.com
+ATTENDEE;CN="Schroedter, Katrin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:katrin.schroedter@continental.com
+ATTENDEE;CN="Falcan, Laura-Ionelia (uidq0615)";ROLE=OPT-PARTICIPANT;RSVP=TR
+	UE;PARTSTAT=DECLINED:mailto:laura.falcan@continental-corporation.com
+ATTENDEE;CN="Duprat, Jean-Yves";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:jean-yves.duprat@continental-corporation.com
+ATTENDEE;CN="Miettinen, Markku (uidw0354)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:markku.miettinen@continental-corporation.com
+ATTENDEE;CN="Henze, Isabel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:isabel.henze@conti.de
+ATTENDEE;CN="Elstner, Carolin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:carolin.elstner@continental.com
+ATTENDEE;CN="Ceglarek, Christopher";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:christopher.ceglarek@conti.de
+ATTENDEE;CN="Karsaine Fazekas, Katalin (uia48555)";ROLE=OPT-PARTICIPANT;RSV
+	P=TRUE;PARTSTAT=ACCEPTED:invalid:nomail
+ATTENDEE;CN="Mucha, Anette";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Anette.Mucha@continental-corporation.com
+ATTENDEE;CN="Juedt, Kai Uwe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:kai.uwe.juedt@continental-corporation.com
+ATTENDEE;CN="Frambach, Dennis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:dennis.frambach@continental-corporation.com
+ATTENDEE;CN="Gaurav, Nishant";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:nishant.gaurav@continental.com
+ATTENDEE;CN="Guter, Philipp";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:philipp.guter@continental.com
+ATTENDEE;CN="Lueders, Stephan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:stephan.lueders@fluid.contitech.de
+ATTENDEE;CN="Drodtloff, Carla-Elena (uib64886)";ROLE=OPT-PARTICIPANT;RSVP=T
+	RUE;PARTSTAT=TENTATIVE:mailto:carla-elena.drodtloff@continental-corporatio
+	n.com
+ATTENDEE;CN="Kienbaum, Stephan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:Stephan.Kienbaum@continental.com
+ATTENDEE;CN="Kiesbye, Diana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:Diana.Kiesbye@conti.de
+ATTENDEE;CN="Kuehn, Katrin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:Katrin.Kuehn@continental-corporation.com
+ATTENDEE;CN="Bockhorst, Eileen (uidk4704)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:eileen.bockhorst@continental-corporation.com
+ATTENDEE;CN="Crisan, Andreea (uia46599)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:andreea.2.crisan@continental.com
+ATTENDEE;CN="Wipff, Thierry (wipfft)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:mailto:thierry.wipff@conti.de
+ATTENDEE;CN="G, Jayanth (uib12220)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=DECLINED:mailto:jayanth.g@continental-corporation.com
+ATTENDEE;CN="Jovovic, Dejan (uidu0107)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:invalid:nomail
+ATTENDEE;CN="Kethely, Zsolt";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:Zsolt.Kethely@continental-corporation.com
+ATTENDEE;CN="St Pierre, Mara (uidq3250)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:mara.st.pierre@continental-corporation.com
+ATTENDEE;CN="Berg, Thilo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:thilo.berg@continental-corporation.com
+ATTENDEE;CN="Kottmayr, Florian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:florian.kottmayr@continental-corporation.com
+ATTENDEE;CN="Beyer, Sandy";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:sandy.beyer@conti.de
+ATTENDEE;CN="Imre, Lajos";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:lajos.imre@continental-corporation.com
+ATTENDEE;CN="Paul, Thomas01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:thomas01.paul@continental.com
+ATTENDEE;CN="Schneeweiss, Andre (uidu9491)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=TENTATIVE:mailto:andre.schneeweiss@continental-corporation.com
+ATTENDEE;CN="Wien, Joerg-Maria";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:joerg-maria.wien@continental-corporation.com
+ATTENDEE;CN="Weissflog, Enrico";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:enrico.weissflog@continental-corporation.com
+ATTENDEE;CN="Gysser, Corina (uid20642)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:corina.gysser@continental-corporation.com
+ATTENDEE;CN="Buchecker, Anna";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:anna.buchecker@continental-corporation.com
+ATTENDEE;CN="Bencsics, Hunor";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Hunor.Bencsics@continental-corporation.com
+ATTENDEE;CN="Giurgiu, Raluca-Ioana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:Raluca-Ioana.Giurgiu@continental-corporation.com
+ATTENDEE;CN="Voss, Ursula";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:ursula.voss@continental.com
+ATTENDEE;CN="Szczepanska, Karolina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:karolina.szczepanska@continental-corporation.com
+ATTENDEE;CN="Culcea, Mihai";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:mihai.culcea@continental-corporation.com
+ATTENDEE;CN="Auhuber, Andreas (auhuber_a)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:andreas.auhuber@contitech.de
+ATTENDEE;CN="Wesols, Heike (uia09720)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:heike.wesols@contitech.de
+ATTENDEE;CN="Mushla, Medijana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:medijana.mushla@continental.com
+ATTENDEE;CN="Halt, Uwe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:m
+	ailto:uwe.halt@continental-corporation.com
+ATTENDEE;CN="Rei, Adriana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:adriana.rei@continental-corporation.com
+ATTENDEE;CN="Nebelung, Volkher";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:Volkher.Nebelung@continental-corporation.com
+ATTENDEE;CN="Roeher, Alexander";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:alexander.roeher@continental-corporation.com
+ATTENDEE;CN="Kalarickal, Avinash";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:avinash.kalarickal@continental-corporation.com
+ATTENDEE;CN="Herres-Gzyl, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:Michael.Herres-Gzyl@conti.de
+ATTENDEE;CN="Karbstein, Ronald";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:ronald.karbstein@continental-corporation.com
+ATTENDEE;CN="Brix, Alexander";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:alexander.brix@continental-corporation.com
+ATTENDEE;CN="Nordenholz Sven (uia61352)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:sven.nordenholz@continental.com
+ATTENDEE;CN="Schwarzer, Christian02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=TENTATIVE:mailto:christian.2.schwarzer@continental-corporation.com
+ATTENDEE;CN="Gudelis, Darius (uic07545)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:darius.gudelis@continental-corporation.com
+ATTENDEE;CN="Bodenstein, Alexander (uia14928)";ROLE=OPT-PARTICIPANT;RSVP=TR
+	UE;PARTSTAT=TENTATIVE:mailto:alexander.bodenstein@continental-corporation.
+	com
+ATTENDEE;CN="Koehler, Christoph";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:Christoph.Koehler@continental-corporation.com
+ATTENDEE;CN="Hopf, Steffen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:Steffen.Hopf@continental-corporation.com
+ATTENDEE;CN="Scheider, Christoph (uia91873)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=TENTATIVE:mailto:christoph.scheider@continental.com
+ATTENDEE;CN="Myshrall, Chris";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:Chris.Myshrall@fluid.contitech.co.uk
+ATTENDEE;CN="Schionatti, Roberto";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:roberto.schionatti@continental-corporation.com
+ATTENDEE;CN="Ennaji, Younes (uib53730)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:younes.ennaji@continental-corporation.com
+ATTENDEE;CN="Robledo, Enrique";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:Enrique.Robledo@continental-corporation.com
+ATTENDEE;CN="Geib, Anna";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:
+	mailto:anna.geib@continental-corporation.com
+ATTENDEE;CN="Roth, Steffen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Steffen.Roth@continental-corporation.com
+ATTENDEE;CN="Polistyak, Szabolcs";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:szabolcs.polistyak@continental.com
+ATTENDEE;CN="Guilhot, Laurence";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:Laurence.Guilhot@continental.com
+ATTENDEE;CN="Gentemann, Sascha";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:Sascha.Gentemann@conti.de
+ATTENDEE;CN="Kubinec, Libor";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:libor.kubinec@conti.sk
+ATTENDEE;CN="Mclean, Robert (uie63162)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:robert.mclean@continental.com
+ATTENDEE;CN="Meinicke, Jens";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:Jens.Meinicke@continental-corporation.com
+ATTENDEE;CN="Camargo, Victor";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Victor.Camargo@continental-corporation.com
+ATTENDEE;CN="Uebel, Franziska";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:franziska.uebel@continental-corporation.com
+ATTENDEE;CN="Minke, Juergen01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:juergen01.minke@continental.com
+ATTENDEE;CN="Vesa, Diana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:Diana.Vesa@continental-corporation.com
+ATTENDEE;CN="Moesker-Weishaeupl, Baerbel (uidf0140)";ROLE=OPT-PARTICIPANT;R
+	SVP=TRUE;PARTSTAT=DECLINED:mailto:Baerbel.Moesker-Weishaeupl@continental-c
+	orporation.com
+ATTENDEE;CN="Wehrmaker, Matthias";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:Matthias.Wehrmaker@continental.com
+ATTENDEE;CN="Boic, Sandra (uia24050)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:mailto:sandra.boic@fluid.contitech.de
+ATTENDEE;CN="Wetzel, Andreas03 (uie37746)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:andreas.3.wetzel@conti.de
+ATTENDEE;CN="Tecklenburg, Claudia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:claudia.tecklenburg@continental.com
+ATTENDEE;CN="Ferreira, Isabel (uia61706)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=DECLINED:mailto:isabel.2.ferreira@continental.com
+ATTENDEE;CN="Gilbert, Thibault";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:Thibault.Gilbert@continental-corporation.com
+ATTENDEE;CN="Friz, Fabian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:fabian.friz@continental-corporation.com
+ATTENDEE;CN="Benseler, Martin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:martin.benseler@continental.com
+ATTENDEE;CN="Zempel, Ralf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:ralf.zempel@continental.com
+ATTENDEE;CN="Hansen, Lothar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:lothar.hansen@continental-corporation.com
+ATTENDEE;CN="Walter, Maik02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:maik02.walter@continental-corporation.com
+ATTENDEE;CN="Sundermeier, Andrea";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:Andrea.Sundermeier@continental-corporation.com
+ATTENDEE;CN="Goncalves, Ana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:ana.goncalves@conti.de
+ATTENDEE;CN="Ouhab, Zahia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:zahia.ouhab@conti.de
+ATTENDEE;CN="Altman, Aleksandra (uia56588)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=TENTATIVE:mailto:aleksandra.altman@continental-corporation.com
+ATTENDEE;CN="Hopitzan, Pia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:pia.hopitzan@conti.de
+ATTENDEE;CN="Prester, Franz";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:franz.prester@continental-corporation.com
+ATTENDEE;CN="Kreidner, Harald";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:harald.kreidner@continental.com
+ATTENDEE;CN="Beckroth, Sven";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:sven.beckroth@continental-corporation.com
+ATTENDEE;CN="Liu, Dennis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:dennis.liu@continental-corporation.com
+ATTENDEE;CN="Bretin, Geraldine";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:geraldine.bretin@continental-corporation.com
+ATTENDEE;CN="Popple, Shaun";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:shaun.popple@continental-corporation.com
+ATTENDEE;CN="Avalos, Patricia (avalosp)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=TENTATIVE:mailto:patricia.1.avalos@conti.de
+ATTENDEE;CN="Philipp, Olaf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:olaf.philipp@continental.com
+ATTENDEE;CN="Bourhis, Philippe (uid60222)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:philippe.bourhis@continental-corporation.com
+ATTENDEE;CN="Lichtenstein-Kaspareth, Evelyn";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:mailto:evelyn.lichtenstein-kaspareth@continental-corpor
+	ation.com
+ATTENDEE;CN="Hollaender, Thea";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:thea.hollaender@continental.com
+ATTENDEE;CN="Szwedowicz, Barbara";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:Barbara.Szwedowicz@continental-corporation.com
+ATTENDEE;CN="Kosel, Markus";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:markus.kosel@continental-corporation.com
+ATTENDEE;CN="Eppler, Tobias";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:tobias.eppler@conti.de
+ATTENDEE;CN="Heyer, Kevin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:kevin.heyer@continental-corporation.com
+ATTENDEE;CN="Maus, Anika";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:anika.maus@conti.de
+ATTENDEE;CN="Booth, Andrea-Bianca (uia00949)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=TENTATIVE:mailto:andrea-bianca.booth@conti.de
+ATTENDEE;CN="Flug, Julia02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:Julia.2.Flug@continental-corporation.com
+ATTENDEE;CN="Brattinger, Stefan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:Stefan.Brattinger@continental-corporation.com
+ATTENDEE;CN="Krauss, Melanie";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:melanie.krauss@continental-corporation.com
+ATTENDEE;CN="Bunk, Joachim";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:Joachim.Bunk@continental.com
+ATTENDEE;CN="Koehler, Marcel (uia61109)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=TENTATIVE:mailto:marcel.koehler@continental-corporation.com
+ATTENDEE;CN="Barbosa, Rui02 (uic54095)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:rui.jorge.fernandes.barbosa@conti.de
+ATTENDEE;CN="Cesana, Giuseppe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:Giuseppe.Cesana@conti.de
+ATTENDEE;CN="Reisch, Winfried";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:winfried.reisch@continental.com
+ATTENDEE;CN="Althaus, Jan (uid02225)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=TENTATIVE:mailto:jan.althaus@continental-corporation.com
+ATTENDEE;CN="Feldmann, Martin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:martin.feldmann@continental-corporation.com
+ATTENDEE;CN="Nagy, Eszter (uidg7905)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:mailto:eszter.nagy@fluid.contitech.hu
+ATTENDEE;CN="Lewerenz, Alexander (uidr9509)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=TENTATIVE:mailto:alexander.lewerenz@continental-corporation.com
+ATTENDEE;CN="Matti, Marcel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:marcel.matti@continental.com
+ATTENDEE;CN="GALLINA, RAFAEL (uidr4661)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=TENTATIVE:mailto:Rafael.Gallina@continental.com
+ATTENDEE;CN="Hornyak, Laszlo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:laszlo.hornyak@continental.com
+ATTENDEE;CN="Lund, Leonardo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:invalid:nomail
+ATTENDEE;CN="Klein, Jochen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Jochen.Klein@continental-corporation.com
+ATTENDEE;CN="Porrmann, Nina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:nina.porrmann@contitrade.com
+ATTENDEE;CN="Diehl, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:michael.diehl@continental-corporation.com
+ATTENDEE;CN="Bergmann, Uwe (uia13197)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:uwe.bergmann@fluid.contitech.de
+ATTENDEE;CN="Stein, Joachim";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:joachim.stein@fluid.contitech.de
+ATTENDEE;CN="Li, Jingqi (uic51164)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:jingqi.li@continental-corporation.com
+ATTENDEE;CN="Dowling, Jurgen (uia17516)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:jurgen.dowling@conti-na.com
+ATTENDEE;CN="Kaluza, Steven (uib42022)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:steven.kaluza@continental-corporation.com
+ATTENDEE;CN="Mulero, Isabel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:isabel.mulero@conti.de
+ATTENDEE;CN="Schneider, Jennifer";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:jennifer.schneider@continental-corporation.com
+ATTENDEE;CN="Medina Pina, Mariana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	DECLINED:mailto:mariana.medina.pina@continental-corporation.com
+ATTENDEE;CN="Longley, Cindy";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:cindy.longley@continental-corporation.com
+ATTENDEE;CN="Kanzow, Henning";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:henning.kanzow@continental.com
+ATTENDEE;CN="Wilson, Ian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	invalid:nomail
+ATTENDEE;CN="White, Melissa";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:melissa.white@continental.com
+ATTENDEE;CN="Hoeing, Patrick";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:patrick.hoeing@fluid.contitech.us
+ATTENDEE;CN="PAN, RAPHAEL (Panra)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	DECLINED:mailto:raphael01.pan@fluid.contitech.us
+ATTENDEE;CN="Krueger, Britta";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:britta.krueger@conti.de
+ATTENDEE;CN="Urbanek, Matthias (uia04241)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:matthias.urbanek@conti.de
+ATTENDEE;CN="Mehrkens, Stefanie (uia08500)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=TENTATIVE:mailto:stefanie.mehrkens@contitech.de
+ATTENDEE;CN="Rauda, Jaime";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:jaime.rauda@continental-corporation.com
+ATTENDEE;CN="Wolter, Hartmut";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Hartmut.Wolter@continental.com
+ATTENDEE;CN="Contreras-Hernandez, Marisol";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=ACCEPTED:mailto:marisol.contreras-hernandez@continental-corporatio
+	n.com
+ATTENDEE;CN="Brown, Wayne";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:Wayne.Brown@conti-na.com
+ATTENDEE;CN="Vazquez-Limon, Manuel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:manuel.vazquez-limon@continental-corporation.com
+ATTENDEE;CN="Brandl, Anton";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:anton.brandl@continental-corporation.com
+ATTENDEE;CN="Knecht, Mathias (uidj9854)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:mathias.knecht@continental-corporation.com
+ATTENDEE;CN="Fuchs, Thomas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:thomas.fuchs@fluid.contitech.de
+ATTENDEE;CN="Cazarim, Gilberto";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:gilberto.cazarim@continental-corporation.com
+ATTENDEE;CN="Oliveira, Maria";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:Maria.Oliveira@continental.com
+ATTENDEE;CN="Okuyama, Marisa";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:marisa.okuyama@continental-corporation.com
+ATTENDEE;CN="Masters, Joshua";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Joshua.Masters@continental.com
+ATTENDEE;CN="Martinez, Norma (A309972)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:normaalicia.martinez@continental.com
+ATTENDEE;CN="Garcia, Ismael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:ismael.garcia@continental-corporation.com
+ATTENDEE;CN="Reynaga-Corona, Alejandra";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:ofelia.alejandra.reynaga.corona@continental-corporati
+	on.com
+ATTENDEE;CN="VAZQUEZ NEGRETE, MARISOL (VazquezM1)";ROLE=OPT-PARTICIPANT;RSV
+	P=TRUE;PARTSTAT=ACCEPTED:mailto:marisol.vazquez@fluid.contitech.com.mx
+ATTENDEE;CN="Stangner, Peter";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:peter.stangner@continental-corporation.com
+ATTENDEE;CN="Schuller, Eva (SchullerE)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:Eva.Schuller@continental-corporation.com
+ATTENDEE;CN="Aranda, Juan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:Juan.Aranda@continental.com
+ATTENDEE;CN="Ramirez-Herrera, Juan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:invalid:nomail
+ATTENDEE;CN="Gallegos-Parra, Aida";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:aida.gallegos-parra@continental-corporation.com
+ATTENDEE;CN="MARQUEZ MIRANDA, YOANA FRANCISCA (J900047)";ROLE=OPT-PARTICIPA
+	NT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:YOANA.MARQUEZ@continental.com
+ATTENDEE;CN="Teniente Motilla, Carlos Antonio (tenientec)";ROLE=OPT-PARTICI
+	PANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:carlos.teniente@continental.com
+ATTENDEE;CN="Torres, Gabriela";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:gabriela.torres@contitech.com.mx
+ATTENDEE;CN="Macias, Martin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:martin.macias@continental.com
+ATTENDEE;CN="Thomsen, Pamela";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:pamela.thomsen@conti.de
+ATTENDEE;CN="Rauber, Oliver";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:oliver.rauber@continental-corporation.com
+ATTENDEE;CN="Torres-Barboza, Guadalupe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:guadalupe.torres-barboza@continental-corporation.com
+ATTENDEE;CN="Kohlhauer, Thomas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:Thomas.Kohlhauer@continental-corporation.com
+ATTENDEE;CN="Korduan, Friederike (uia02733)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=TENTATIVE:mailto:Friederike.Korduan@fluid.contitech.de
+ATTENDEE;CN="Wilhelm, Marc";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:Marc.Wilhelm@continental-corporation.com
+ATTENDEE;CN="Mergold, Maria Teresa";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:Maria.Teresa.Mergold@conti.com.mx
+ATTENDEE;CN="Maximiuc, Fabio Niza";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:fabio.maximiuc@continental-corporation.com
+ATTENDEE;CN="Ismayilov, Dovlat (uie51005)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=ACCEPTED:mailto:dovlat.ismayilov@continental-corporation.com
+ATTENDEE;CN="Grobe, Dirk";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:dirk.grobe@continental-corporation.com
+ATTENDEE;CN="Gomez Fernandez, Lourdes";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:lourdes.gomez.fernandez@continental.com
+ATTENDEE;CN="Patzina, Sven";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Sven.Patzina@continental-corporation.com
+ATTENDEE;CN="Heuchert, Jens (uia09092)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:jens.heuchert@continental.com
+ATTENDEE;CN="Garcia, Ma. Victoria";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:Ma.Victoria.Garcia@contitech.ph
+ATTENDEE;CN="Dandana, Imen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:imen.dandana@conti.de
+ATTENDEE;CN="Vogt, Armin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:armin.vogt@continental-corporation.com
+ATTENDEE;CN="Selem Paredes, Leon (uidg4745)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:mailto:leon.selem@continental-corporation.com
+ATTENDEE;CN="Escourrou, Christophe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:christophe.escourrou@continental-corporation.com
+ATTENDEE;CN="Schwimmbeck, Cornelia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:cornelia.schwimmbeck@continental-corporation.com
+ATTENDEE;CN="Garcia, Luis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:Luis.Garcia@continental-corporation.com
+ATTENDEE;CN="Lawera, Ryan (uib08127)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:invalid:nomail
+ATTENDEE;CN="Gantner, Rolf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:rolf.gantner@continental-corporation.com
+ATTENDEE;CN="Gallardo, Noe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:noe.gallardo@continental.com
+ATTENDEE;CN="Finkenzeller, Helmut";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:Helmut.Finkenzeller@continental-corporation.com
+ATTENDEE;CN="Navarro, Amelia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:amelia.navarro@continental-corporation.com
+ATTENDEE;CN="Paitch, Flavia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Flavia.Paitch@continental-corporation.com
+ATTENDEE;CN="Freitag, Birgit";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:birgit.freitag@conti.de
+ATTENDEE;CN="Schoeller, Ekkehard";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:ekkehard.schoeller@continental-corporation.com
+ATTENDEE;CN="Zernetsch, Holger";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:holger.zernetsch@continental-corporation.com
+ATTENDEE;CN="Gu, Xian Ling (uib66461)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:xianling.gu@continental-corporation.com
+ATTENDEE;CN="Tan, Kim";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mai
+	lto:kim.tan@continental-corporation.com
+ATTENDEE;CN="Makoeva, Mariia (uia56568)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:mariia.makoeva@continental-corporation.com
+ATTENDEE;CN="Schnupp, Ralf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:ralf.schnupp@continental-corporation.com
+ATTENDEE;CN="Maciuga, Norbert";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:norbert.maciuga@continental-corporation.com
+ATTENDEE;CN="Yadav, Sumit02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Sumit.2.Yadav@continental-corporation.com
+ATTENDEE;CN="Rudnjanin, Bianca";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:bianca.rudnjanin@conti.de
+ATTENDEE;CN="Helbig, Anja";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:anja.helbig@fluid.contitech.de
+ATTENDEE;CN="Sala, Christian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:invalid:nomail
+ATTENDEE;CN="Linkenbach, Steffen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:steffen.linkenbach@continental-corporation.com
+ATTENDEE;CN="Liebermann, Denis (uie84256)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=ACCEPTED:mailto:denis.liebermann@continental-corporation.com
+ATTENDEE;CN="Ludwig, Silvia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:silvia.ludwig@continental-corporation.com
+ATTENDEE;CN="Bitea, Larisa-Andra (uic40645)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:invalid:nomail
+ATTENDEE;CN="TE_SW_FA, ADS ProductionSupport (uie37612)";ROLE=OPT-PARTICIPA
+	NT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:ads.productionsupport.te_sw_fa@conti
+	nental.com
+ATTENDEE;CN="Roeder, Teresa";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Teresa.Roeder@continental-corporation.com
+ATTENDEE;CN="Schellhase, Gundolf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:gundolf.schellhase@continental-corporation.com
+ATTENDEE;CN="GAWDUNOVA, PETRA (uib43593)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:petra.gawdunova@continental-corporation.com
+ATTENDEE;CN="Eichhorn, Bernhard";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:bernhard.eichhorn@continental-corporation.com
+ATTENDEE;CN="Barho, Erhard";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:erhard.barho@continental.com
+ATTENDEE;CN="FREITAS, BRUNA (uidn5972)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:bruna.freitas@continental.com
+ATTENDEE;CN="Grigaraviciene, Milda (uic59092)";ROLE=OPT-PARTICIPANT;RSVP=TR
+	UE;PARTSTAT=TENTATIVE:mailto:milda.grigaraviciene@continental-corporation.
+	com
+ATTENDEE;CN="Kovacs, Matthew";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:matthew.kovacs@continental-corporation.com
+ATTENDEE;CN="Redman, James";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:james.redman@continental-corporation.com
+ATTENDEE;CN="Cotuna, Marius";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:marius.cotuna@continental-corporation.com
+ATTENDEE;CN="Bishop, Angela";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:angela.bishop@continental-corporation.com
+ATTENDEE;CN="Hoeth, Birgit";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:birgit.hoeth@continental-corporation.com
+ATTENDEE;CN="Morales, Simon";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:simon.morales@continental-corporation.com
+ATTENDEE;CN="Taylor, Jennifer";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:Jennifer.Taylor@conti-na.com
+ATTENDEE;CN="Wang, Kai09";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:Kai.9.Wang@continental-corporation.com
+ATTENDEE;CN="Lohmueller, Silke";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:silke.lohmueller@continental-corporation.com
+ATTENDEE;CN="Hyrava, Lucia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:lucia.hyrava@continental-corporation.com
+ATTENDEE;CN="Raoul, Corine";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:corine.raoul@continental-corporation.com
+ATTENDEE;CN="Uribe-Rocha, Jose";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:jose.uribe-rocha@continental-corporation.com
+ATTENDEE;CN="Sosa, Alfredo02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:alfredo.2.sosa@continental-corporation.com
+ATTENDEE;CN="Jaiswal, Manish (uib49061)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=TENTATIVE:mailto:manish.jaiswal@continental-corporation.com
+ATTENDEE;CN="Wesebaum, Soeren";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:soeren.wesebaum@conti.de
+ATTENDEE;CN="Flores, Juan (V900327)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=TENTATIVE:mailto:Juan.Carlos.2.Flores@continental.com
+ATTENDEE;CN="Walde, Nina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:nina.walde@continental-corporation.com
+ATTENDEE;CN="Alves, Nuno";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:nuno.alves@conti.de
+ATTENDEE;CN="Suarez, Miguel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:miguel.suarez@continental-corporation.com
+ATTENDEE;CN="Goh, Swee Yee";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Swee.Yee.Goh@continental-corporation.com
+ATTENDEE;CN="Pereda, Francisco";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:Francisco.Pereda@continental.com
+ATTENDEE;CN="Kondo, Motoshi";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:motoshi.kondo@continental-corporation.com
+ATTENDEE;CN="Steiner, Daniel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:daniel.steiner@continental.com
+ATTENDEE;CN="Kwee, Renate";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:renate.kwee@conti.de
+ATTENDEE;CN="Kistenmacher, Axel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TE
+	NTATIVE:mailto:axel.kistenmacher@continental.com
+ATTENDEE;CN="Franco, Edgar02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:edgar.2.franco@continental-corporation.com
+ATTENDEE;CN="Romero, Omar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:omar.romero@continental-corporation.com
+ATTENDEE;CN="Alzer, Petra";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:petra.alzer@continental-corporation.com
+ATTENDEE;CN="Liu, Tao";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mai
+	lto:Tao.Liu@continental-corporation.com
+ATTENDEE;CN="Gubar, Irina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:irina.gubar@conti.de
+ATTENDEE;CN="Mitunikova, Lenka";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:lenka.mitunikova@conti.sk
+ATTENDEE;CN="Aleman, Sergio";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:sergio.aleman@continental.com
+ATTENDEE;CN="SYNEK, TOMAS (uib18088)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=TENTATIVE:mailto:tomas.synek@continental-corporation.com
+ATTENDEE;CN="Skulec, Miroslav";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:miroslav.skulec@conti.sk
+ATTENDEE;CN="Filiz, Murat";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:Murat.Filiz@continental.com
+ATTENDEE;CN="Chityala, Pavan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:pavan.chityala@continental-corporation.com
+ATTENDEE;CN="HERNANDEZ BECERRA, GIOVANA GABRIELA (uic86906)";ROLE=OPT-PARTI
+	CIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:giovana.gabriela.hernandez.becer
+	ra@conti.com.mx
+ATTENDEE;CN="Schnell, Veit-Moritz";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:Veit-Moritz.Schnell@continental-corporation.com
+ATTENDEE;CN="Herbinger, Andrea";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:andrea.herbinger@continental-corporation.com
+ATTENDEE;CN="Schaefers, Jens";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:jens.schaefers@conti.de
+ATTENDEE;CN="Carrillo, Yadira";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:Yadira.Carrillo@continental.com
+ATTENDEE;CN="CAROFF, GAEL (uic09056)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:gael.caroff@continental.com
+ATTENDEE;CN="Balz, Torsten";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:Torsten.Balz@conti.de
+ATTENDEE;CN="Mosich, Manuel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:manuel.mosich@continental.com
+ATTENDEE;CN="Jiang, Yifeng02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Yifeng02.Jiang@continental.com
+ATTENDEE;CN="Largeanu, OANA (LargeanuO1)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:oana.maria.largeanu@continental.com
+ATTENDEE;CN="Heinold, Laszlo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:laszlo.heinold@continental-corporation.com
+ATTENDEE;CN="Oezeren, Oezkan (uie02867)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:oezkan.oezeren@conti.de
+ATTENDEE;CN="Bueno, Leandro";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:leandro.bueno@fluid.contitech.us
+ATTENDEE;CN="Qiu, Ximei";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:ximei.qiu@fluid.contitech.cn
+ATTENDEE;CN="Gebhart, Bernd (uia16212)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:bernd.gebhart@continental-corporation.com
+ATTENDEE;CN="Echeagaray, Gerardo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:gerardo.echeagaray@continental-corporation.com
+ATTENDEE;CN="Milutin, Cristina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:cristina.milutin@continental-corporation.com
+ATTENDEE;CN="Niehsen, Martha";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:Martha.Niehsen@continental.com
+ATTENDEE;CN="Fares, Walid (uh05233)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=TENTATIVE:mailto:walid.fares@conti.de
+ATTENDEE;CN="Spence, Mark";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:Mark.Spence@hoosiertire.com
+ATTENDEE;CN="OLIVEIRA, Cristiano (uidn5555)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=ACCEPTED:mailto:cristiano.oliveira@continental-corporation.com
+ATTENDEE;CN="Joubert, Johann";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Johann.Joubert@conti.co.za
+ATTENDEE;CN="Acharya, Dayanand";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:dayanand.acharya@continental-corporation.com
+ATTENDEE;CN="Cao, Yong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:m
+	ailto:Yong.Cao@continental-corporation.com
+ATTENDEE;CN="Butler, Daniel (uie20382)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:Daniel.Butler@hoosiertire.com
+ATTENDEE;CN="MORIN CAMPOS, GERARDO (uib02900)";ROLE=OPT-PARTICIPANT;RSVP=TR
+	UE;PARTSTAT=ACCEPTED:mailto:gerardo.morin.campos@continental.com
+ATTENDEE;CN="Schoening, Hannah";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:hannah.schoening@conti.de
+ATTENDEE;CN="Reble, Mathias";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:mathias.reble@continental-corporation.com
+ATTENDEE;CN="Lickroth, Jan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Jan.Lickroth@continental-corporation.com
+ATTENDEE;CN="Ivaldi, Luca";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:luca.ivaldi@continental-corporation.com
+ATTENDEE;CN="Florea, Sorin-Daniel (uidm9684)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=TENTATIVE:mailto:Sorin.Florea@continental-corporation.com
+ATTENDEE;CN="Guo, Joyce";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:Joyce.Guo@continental-corporation.com
+ATTENDEE;CN="Ciganda, Leticia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:leticia.ciganda@continental.com
+ATTENDEE;CN="Xu, Fuling";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:Fuling.Xu@conti.cn
+ATTENDEE;CN="Roman, Nicoleta";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:nicoleta.roman@continental-corporation.com
+ATTENDEE;CN="Seipel, Gunther";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:gunther.seipel@continental-corporation.com
+ATTENDEE;CN="Alexander, Aubert";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:Aubert.Alexander@continental-corporation.com
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Macias, Maria (uid85874)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:maria.macias@continental-corporation.com
+ATTENDEE;CN="Reyes-Machain, Felipe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:felipe.reyes-machain@continental-corporation.com
+ATTENDEE;CN="Loredo, Jessica";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:jessica.loredo@continental.com
+ATTENDEE;CN="LANUZA PEREZ, PASTOR FERNANDO (uia71862)";ROLE=OPT-PARTICIPANT
+	;RSVP=TRUE:mailto:pastor.lanuza@continental.com
+ATTENDEE;CN="Macias, Daniel01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:daniel01.macias@continental.com
+ATTENDEE;CN="Vazquez, Ricardo";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ricard
+	o.vazquez@continental.com
+ATTENDEE;CN="Menclova, Dana (uic44367)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:dana.menclova@continental-corporation.com
+CLASS:PUBLIC
+CREATED:20220116T180655Z
+DESCRIPTION:Dear CBS Coach Community\,\n\n \n\nas the team of CBS Domain Ca
+	ll organizer (Ch. Escorrou\, J. Flug and J. Thalmair) decided in 2021 to u
+	se a simplified invitation format we will continue \n\n \n\n*  with the co
+	mmunity calls organized by Teams (platform for the calls is the MSTeams Ch
+	annel „CBS Coaches WW Platform“)\n\n \n\n*  We opened the CBS R&D call
+	s to the entire CBS coach community because R&D principles are also applic
+	able in other domains\n\n*  For this we added you to the WW CBS Coach team
+	. No action from your side needed.\n\n \n\n*  Just accept this series of i
+	nvitations in Outlook to have all the events available in your Outlook cal
+	ender \n\n*  For each event (call) we will send 1 week before the updated 
+	agenda and related topics for your information\n\n*  If you are interested
+	 please accept the update\, if not just ignore this specific event.\n\n \n
+	\nLooking forward to see you in the Teams call for the next Community Call
+	 and beyond\n\nMany regards\n\nJoachim\n\n________________________________
+	________________________________________________ \n\nMicrosoft Teams-Bespr
+	echung \n\nNehmen Sie von Ihrem Computer oder der mobilen App aus teil \n\
+	nKlicken Sie hier\, um an der Besprechung teilzunehmen <https://teams.micr
+	osoft.com/l/meetup-join/19%3ameeting_N2NmYzMyZWMtMTk2NS00NmM3LWIxYzAtYmUyO
+	GQ2YzEzYzI4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1
+	f-e04d79e6265a%22%2c%22Oid%22%3a%2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d%22
+	%7d>  \n\nWeitere Infos <https://aka.ms/JoinTeamsMeeting>  | Besprechungso
+	ptionen <https://teams.microsoft.com/meetingOptions/?organizerId=55c4b7f4-
+	5b99-4af5-94d6-03c0cf2a0e2d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&
+	threadId=19_meeting_N2NmYzMyZWMtMTk2NS00NmM3LWIxYzAtYmUyOGQ2YzEzYzI4@threa
+	d.v2&messageId=0&language=de-DE>  | Rechtliche Hinweise <https://filehub.a
+	dmiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________
+	______________________________________________________________________ \n\
+	n \n\n
+DTEND;TZID="W. Europe Standard Time":20220728T164500
+DTSTAMP:20220116T180645Z
+DTSTART;TZID="W. Europe Standard Time":20220728T160000
+LAST-MODIFIED:20220721T162010Z
+LOCATION:Microsoft Teams-Besprechung
+ORGANIZER;CN="Thalmair, Joachim":mailto:Joachim.Thalmair@continental-corpor
+	ation.com
+PRIORITY:5
+RRULE:FREQ=MONTHLY;COUNT=1;BYDAY=TH;BYSETPOS=-1
+SEQUENCE:0
+SUMMARY:Regular CBS R&D Community Call (Americas & Europe (optional)) - Saf
+	e the date
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000020902E8B0B0BD801000000000000000
+	010000000BD6FADB21623794EB868A498A65FC968
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:Wingdings\;\n	panose-1:5 0 0 0 0 0 0 0 
+	0 0\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 
+	6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 
+	3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4
+	 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2 11
+	 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\,
+	 div.MsoNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"Calibri
+	"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\na:link\, span.MsoHyperlin
+	k\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline
+	\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;}\
+	n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:70.85pt 70.85pt 2.0
+	cm 70.85pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n/* List Definitio
+	ns */\n@list l0\n	{mso-list-id:1067801903\;\n	mso-list-type:hybrid\;\n	mso
+	-list-template-ids:1355856704 425233906 -434438990 -880621754 1091054980 -
+	1963172914 1701748178 580263182 221124706 -1302835116\;}\n@list l0:level1\
+	n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab
+	-stop:36.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\
+	n	font-family:Wingdings\;}\n@list l0:level2\n	{mso-level-number-format:bul
+	let\;\n	mso-level-text:\;\n	mso-level-tab-stop:72.0pt\;\n	mso-level-num
+	ber-position:left\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@l
+	ist l0:level3\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n
+		mso-level-tab-stop:108.0pt\;\n	mso-level-number-position:left\;\n	text-in
+	dent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l0:level4\n	{mso-level-nu
+	mber-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:144.0pt\;
+	\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	font-family:
+	Wingdings\;}\n@list l0:level5\n	{mso-level-number-format:bullet\;\n	mso-le
+	vel-text:\;\n	mso-level-tab-stop:180.0pt\;\n	mso-level-number-position:
+	left\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l0:level6
+	\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-ta
+	b-stop:216.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\
+	;\n	font-family:Wingdings\;}\n@list l0:level7\n	{mso-level-number-format:b
+	ullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:252.0pt\;\n	mso-level-
+	number-position:left\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\
+	n@list l0:level8\n	{mso-level-number-format:bullet\;\n	mso-level-text:\
+	;\n	mso-level-tab-stop:288.0pt\;\n	mso-level-number-position:left\;\n	text
+	-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l0:level9\n	{mso-level
+	-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:324.0p
+	t\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	font-fami
+	ly:Wingdings\;}\n@list l1\n	{mso-list-id:2104838079\;\n	mso-list-type:hybr
+	id\;\n	mso-list-template-ids:919605838 -1513048236 -1036336292 1406583800 
+	-1460246802 314316152 -12968416 1023056190 2067928698 -1372678048\;}\n@lis
+	t l1:level1\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	m
+	so-level-tab-stop:36.0pt\;\n	mso-level-number-position:left\;\n	text-inden
+	t:-18.0pt\;\n	font-family:Wingdings\;}\n@list l1:level2\n	{mso-level-numbe
+	r-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:72.0pt\;\n	m
+	so-level-number-position:left\;\n	text-indent:-18.0pt\;\n	font-family:Wing
+	dings\;}\n@list l1:level3\n	{mso-level-number-format:bullet\;\n	mso-level-
+	text:\;\n	mso-level-tab-stop:108.0pt\;\n	mso-level-number-position:left
+	\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l1:level4\n	{
+	mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-st
+	op:144.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	
+	font-family:Wingdings\;}\n@list l1:level5\n	{mso-level-number-format:bulle
+	t\;\n	mso-level-text:\;\n	mso-level-tab-stop:180.0pt\;\n	mso-level-numb
+	er-position:left\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@li
+	st l1:level6\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	
+	mso-level-tab-stop:216.0pt\;\n	mso-level-number-position:left\;\n	text-ind
+	ent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l1:level7\n	{mso-level-num
+	ber-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:252.0pt\;\
+	n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	font-family:W
+	ingdings\;}\n@list l1:level8\n	{mso-level-number-format:bullet\;\n	mso-lev
+	el-text:\;\n	mso-level-tab-stop:288.0pt\;\n	mso-level-number-position:l
+	eft\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l1:level9\
+	n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab
+	-stop:324.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;
+	\n	font-family:Wingdings\;}\nol\n	{margin-bottom:0cm\;}\nul\n	{margin-bott
+	om:0cm\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="ed
+	it" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shap
+	elayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout>
+	</xml><![endif]--></head><body lang="DE" link="#0563C1" vlink="#954F72" st
+	yle="word-wrap:break-word"><div class="WordSection1"><p class="MsoNormal">
+	<span lang="EN-US" style="font-size:12.0pt\;color:black\;mso-fareast-langu
+	age:DE">Dear CBS Coach Community\,<o:p></o:p></span></p><p class="MsoNorma
+	l"><span lang="EN-US" style="font-size:10.0pt\;mso-fareast-language:DE"><o
+	:p>&nbsp\;</o:p></span></p><p class="MsoNormal"><span lang="EN-US" style="
+	font-size:12.0pt\;color:black\;mso-fareast-language:DE">as the team of CBS
+	 Domain Call organizer (Ch. Escorrou\, J. Flug and J. Thalmair) decided in
+	 2021 to use a simplified invitation format we will continue <o:p></o:p></
+	span></p><p class="MsoNormal"><span lang="EN-US" style="font-size:10.0pt\;
+	mso-fareast-language:DE"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal"
+	 style="margin-left:58.3pt\;text-indent:-18.0pt\;mso-list:l0 level1 lfo2">
+	<![if !supportLists]><span lang="EN-US" style="font-size:12.0pt\;font-fami
+	ly:Wingdings\;color:black\;mso-fareast-language:DE"><span style="mso-list:
+	Ignore">Ø<span style="font:7.0pt &quot\;Times New Roman&quot\;">&nbsp\; <
+	/span></span></span><![endif]><span lang="EN-US" style="font-size:12.0pt\;
+	color:black\;background:yellow\;mso-highlight:yellow\;mso-fareast-language
+	:DE">with the community calls organized by Teams</span><span lang="EN-US" 
+	style="font-size:12.0pt\;color:black\;mso-fareast-language:DE"> (platform 
+	for the calls is the MSTeams Channel <span style="background:yellow\;mso-h
+	ighlight:yellow">„CBS Coaches WW Platform“)</span><o:p></o:p></span></
+	p><p class="MsoNormal"><span lang="EN-US" style="font-size:10.0pt\;mso-far
+	east-language:DE"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal" style=
+	"margin-left:58.3pt\;text-indent:-18.0pt\;mso-list:l1 level1 lfo4"><![if !
+	supportLists]><span lang="EN-US" style="font-size:12.0pt\;font-family:Wing
+	dings\;mso-fareast-language:DE"><span style="mso-list:Ignore">Ø<span styl
+	e="font:7.0pt &quot\;Times New Roman&quot\;">&nbsp\; </span></span></span>
+	<![endif]><span lang="EN-US" style="font-size:12.0pt\;color:black\;mso-far
+	east-language:DE">We opened the CBS R&amp\;D calls to the entire CBS coach
+	 community because R&amp\;D principles are also applicable in other domain
+	s</span><span lang="EN-US" style="font-size:12.0pt\;mso-fareast-language:D
+	E"><o:p></o:p></span></p><p class="MsoNormal" style="margin-left:58.3pt\;t
+	ext-indent:-18.0pt\;mso-list:l1 level1 lfo4"><![if !supportLists]><span la
+	ng="EN-US" style="font-size:12.0pt\;font-family:Wingdings\;mso-fareast-lan
+	guage:DE"><span style="mso-list:Ignore">Ø<span style="font:7.0pt &quot\;T
+	imes New Roman&quot\;">&nbsp\; </span></span></span><![endif]><span lang="
+	EN-US" style="font-size:12.0pt\;color:black\;mso-fareast-language:DE">For 
+	this we added you to the WW CBS Coach team. No action from your side neede
+	d.</span><span lang="EN-US" style="font-size:12.0pt\;mso-fareast-language:
+	DE"><o:p></o:p></span></p><p class="MsoNormal" style="margin-left:58.3pt">
+	<span lang="EN-US" style="font-size:12.0pt\;mso-fareast-language:DE"><o:p>
+	&nbsp\;</o:p></span></p><p class="MsoNormal" style="margin-left:58.3pt\;te
+	xt-indent:-18.0pt\;mso-list:l1 level1 lfo4"><![if !supportLists]><span lan
+	g="EN-US" style="font-size:12.0pt\;font-family:Wingdings\;mso-fareast-lang
+	uage:DE"><span style="mso-list:Ignore">Ø<span style="font:7.0pt &quot\;Ti
+	mes New Roman&quot\;">&nbsp\; </span></span></span><![endif]><span lang="E
+	N-US" style="font-size:12.0pt\;color:black\;background:yellow\;mso-highlig
+	ht:yellow\;mso-fareast-language:DE">Just accept this series of invitations
+	 in Outlook to have all the events available in your Outlook calender </sp
+	an><span lang="EN-US" style="font-size:12.0pt\;mso-fareast-language:DE"><o
+	:p></o:p></span></p><p class="MsoNormal" style="margin-left:58.3pt\;text-i
+	ndent:-18.0pt\;mso-list:l1 level1 lfo4"><![if !supportLists]><span lang="E
+	N-US" style="font-size:12.0pt\;font-family:Wingdings\;mso-fareast-language
+	:DE"><span style="mso-list:Ignore">Ø<span style="font:7.0pt &quot\;Times 
+	New Roman&quot\;">&nbsp\; </span></span></span><![endif]><span lang="EN-US
+	" style="font-size:12.0pt\;color:black\;mso-fareast-language:DE">For each 
+	event (call) we will send 1 week before the updated agenda and related top
+	ics for your information</span><span lang="EN-US" style="font-size:12.0pt\
+	;mso-fareast-language:DE"><o:p></o:p></span></p><p class="MsoNormal" style
+	="margin-left:58.3pt\;text-indent:-18.0pt\;mso-list:l1 level1 lfo4"><![if 
+	!supportLists]><span lang="EN-US" style="font-size:12.0pt\;font-family:Win
+	gdings\;mso-fareast-language:DE"><span style="mso-list:Ignore">Ø<span sty
+	le="font:7.0pt &quot\;Times New Roman&quot\;">&nbsp\; </span></span></span
+	><![endif]><span lang="EN-US" style="font-size:12.0pt\;color:black\;mso-fa
+	reast-language:DE">If you are interested please accept the update\, if not
+	 just ignore this specific event.</span><span lang="EN-US" style="font-siz
+	e:12.0pt\;mso-fareast-language:DE"><o:p></o:p></span></p><p class="MsoNorm
+	al" style="margin-left:58.3pt"><span lang="EN-US" style="font-size:12.0pt\
+	;mso-fareast-language:DE"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal
+	"><span lang="EN-US" style="font-size:12.0pt\;color:black\;mso-fareast-lan
+	guage:DE">Looking forward to see you in the Teams call for the next Commun
+	ity Call and beyond</span><span lang="EN-US" style="font-size:10.0pt\;mso-
+	fareast-language:DE"><o:p></o:p></span></p><p class="MsoNormal"><span lang
+	="EN-US" style="font-size:12.0pt\;color:black\;mso-fareast-language:DE">Ma
+	ny regards</span><span lang="EN-US" style="font-size:10.0pt\;mso-fareast-l
+	anguage:DE"><o:p></o:p></span></p><p class="MsoNormal"><span lang="EN-US" 
+	style="font-size:12.0pt\;color:black\;mso-fareast-language:DE">Joachim<o:p
+	></o:p></span></p><div><p class="MsoNormal"><span style="color:#5F5F5F">__
+	__________________________________________________________________________
+	____</span> <o:p></o:p></p></div><div><div style="margin-top:18.0pt\;margi
+	n-bottom:15.0pt"><p class="MsoNormal"><span style="font-size:18.0pt\;font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Microsoft Teams-
+	Besprechung</span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-se
+	rif\;color:#252424"> <o:p></o:p></span></p></div><div style="margin-bottom
+	:15.0pt"><div><p class="MsoNormal"><b><span style="font-size:10.5pt\;font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Nehmen Sie von I
+	hrem Computer oder der mobilen App aus teil</span></b><b><span style="font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"> <o:p></o:p></s
+	pan></b></p></div><p class="MsoNormal"><span style="font-family:&quot\;Seg
+	oe UI&quot\;\,sans-serif\;color:#252424"><a href="https://teams.microsoft.
+	com/l/meetup-join/19%3ameeting_N2NmYzMyZWMtMTk2NS00NmM3LWIxYzAtYmUyOGQ2YzE
+	zYzI4%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d
+	79e6265a%22%2c%22Oid%22%3a%2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d%22%7d" t
+	arget="_blank"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI 
+	Semibold&quot\;\,sans-serif\;color:#6264A7">Klicken Sie hier\, um an der B
+	esprechung teilzunehmen</span></a> <o:p></o:p></span></p></div><div style=
+	"margin-top:15.0pt\;margin-bottom:18.0pt"><p class="MsoNormal"><span style
+	="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="
+	https://aka.ms/JoinTeamsMeeting" target="_blank"><span style="font-size:10
+	.5pt\;color:#6264A7">Weitere Infos</span></a> | <a href="https://teams.mic
+	rosoft.com/meetingOptions/?organizerId=55c4b7f4-5b99-4af5-94d6-03c0cf2a0e2
+	d&amp\;tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&amp\;threadId=19_meet
+	ing_N2NmYzMyZWMtMTk2NS00NmM3LWIxYzAtYmUyOGQ2YzEzYzI4@thread.v2&amp\;messag
+	eId=0&amp\;language=de-DE" target="_blank"><span style="font-size:10.5pt\;
+	color:#6264A7">Besprechungsoptionen</span></a> | <a href="https://filehub.
+	admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e" target="_blank
+	"><span style="font-size:10.5pt\;color:#6264A7">Rechtliche Hinweise</span>
+	</a> <o:p></o:p></span></p></div></div><div><p class="MsoNormal"><span sty
+	le="color:#5F5F5F">_______________________________________________________
+	_________________________</span> <o:p></o:p></p></div><p class="MsoNormal"
+	><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220117T105247Z
+DTEND:20220728T144500Z
+DTSTAMP:20220722T005548Z
+DTSTART:20220728T140000Z
+LAST-MODIFIED:20220720T142357Z
+PRIORITY:5
+RECURRENCE-ID:20220728T140000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E0080000000020902E8B0B0BD801000000000000000
+	010000000BD6FADB21623794EB868A498A65FC968
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Thalmair, Joachim";RSVP=TRUE:mailto:Joachim.Thalmair@continent
+	al-corporation.com
+ATTENDEE;CN="Karauec, Mehmet";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Mehmet.Kar
+	auec@continental-corporation.com
+ATTENDEE;CN="CBS Coaches Worldwide Platform";RSVP=TRUE:mailto:team_10005256
+	@continental.onmicrosoft.com
+ATTENDEE;CN="Paggel, Jens";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:jens.pagge
+	l@continental-corporation.com
+ATTENDEE;CN="Nanjaiyan, Vijayakumar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=TENTATIVE:mailto:Vijayakumar.Nanjaiyan@continental-corporation.com
+ATTENDEE;CN="SIVARAMAN, Ramnath (uidt8726)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=DECLINED:mailto:ramnath.sivaraman@continental-corporation.com
+ATTENDEE;CN="Perez, Humberto";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:humbert
+	o.perez@fluid.contitech.com.mx
+ATTENDEE;CN="DAVILA, KARINA (uids7099)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:karina.davila@continental-corporation.com
+ATTENDEE;CN="Ponce Aymerich, Michelle (uia33418)";ROLE=OPT-PARTICIPANT;RSVP
+	=TRUE:mailto:michelle.ponce.aymerich@continental-corporation.com
+ATTENDEE;CN="Sanchez, Oliver";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:oliver.sanchez@continental-corporation.com
+ATTENDEE;CN="Xu, Yanchun";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:yanchun.xu@continental-corporation.com
+ATTENDEE;CN="Aureus, Bibiana Castillo (uie62077)";ROLE=OPT-PARTICIPANT;RSVP
+	=TRUE:mailto:bibiana.aureus@continental-corporation.com
+ATTENDEE;CN="Vaitkus, Ignas (uie72230)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:inva
+	lid:nomail
+ATTENDEE;CN="Koh, Charles";ROLE=OPT-PARTICIPANT;RSVP=TRUE:invalid:nomail
+ATTENDEE;CN="Cenuse, Andreea (CenuseA)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:andreea.cenuse@continental-corporation.com
+ATTENDEE;CN="Fragner, Elisabeth (uidt3687)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=ACCEPTED:mailto:elisabeth.fragner@continental-corporation.com
+ATTENDEE;CN="Goncalves, Carlos";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:carlos.goncalves@conti.de
+ATTENDEE;CN="Trabelsi, Ahmed";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:ahmed.trabelsi@continental-corporation.com
+ATTENDEE;CN="Becker, Ingemar (beckeri)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mail
+	to:ingemar.becker@continental.com
+ATTENDEE;CN="DURICIC, NATASA (djuricicn)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:natasa.djuricic@fluid.contitech.rs
+ATTENDEE;CN="Martinez Melendez, Carlos";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:Carlos.Martinez@continental.com
+ATTENDEE;CN="Balz, Monika";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:monika.balz@conti.de
+ATTENDEE;CN="Abreu Gonzalez, Alejandro (uia37323)";ROLE=OPT-PARTICIPANT;RSV
+	P=TRUE;PARTSTAT=DECLINED:mailto:alejandro.abreu@continental-corporation.co
+	m
+ATTENDEE;CN="Cucco Fiore, Antonio";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:antonio.cucco.fiore@continental-corporation.com
+ATTENDEE;CN="Forgone Keresztes-Nagy, Kinga (uib49308)";ROLE=OPT-PARTICIPANT
+	;RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:kinga.forgone.keresztes-nagy@continen
+	tal-corporation.com
+ATTENDEE;CN="Narozny, Vojtech";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:Vojtech.Narozny@continental-corporation.com
+ATTENDEE;CN="Olenici, Carina-Oana (uie70326)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=TENTATIVE:mailto:carina-oana.olenici@continental-corporation.co
+	m
+ATTENDEE;CN="Burton, James";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:James.Burton@conti-na.com
+ATTENDEE;CN="Blankenship, John (uia28634)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=DECLINED:invalid:nomail
+ATTENDEE;CN="Bartunek, Jan (bartunekj)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:Jan.Bartunek@conti.de
+ATTENDEE;CN="Reinsch, Steffen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:Steffen.Reinsch@continental.com
+ATTENDEE;CN="Schmeck, Sebastian (uia09306)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=DECLINED:mailto:Sebastian.Schmeck@continental-corporation.com
+ATTENDEE;CN="Faist, Marc";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:marc.faist@continental-corporation.com
+ATTENDEE;CN="Bailes, Murray";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:Murray.Bailes@continental.com
+ATTENDEE;CN="Dohmen, Christian (dohmenc)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=DECLINED:mailto:christian.dohmen@continental.com
+ATTENDEE;CN="Foulet, Raine01 (uia20768)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:raine01.foulet@continental.com
+ATTENDEE;CN="Othmer, Julia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:julia.othmer@continental.com
+ATTENDEE;CN="Bayersdoerfer, Sybille";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=DECLINED:mailto:Sybille.Bayersdoerfer@continental.com
+ATTENDEE;CN="Butler, Suzann";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:Suzann.Butler@continental.com
+ATTENDEE;CN="Martinez, Jose";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:jose.martinez@continental.com
+ATTENDEE;CN="Williams, Stephanie";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:stephanie.williams@continental-corporation.com
+ATTENDEE;CN="Guentner, Gerhard";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:Gerhard.Guentner@continental-corporation.com
+ATTENDEE;CN="Herrmann, Linda";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:linda.herrmann@continental.com
+ATTENDEE;CN="Zseli, Mate";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:Mate.Zseli@continental-corporation.com
+ATTENDEE;CN="Andrino, Frederick (uia29449)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=ACCEPTED:mailto:frederick.andrino@continental-corporation.com
+ATTENDEE;CN="Luches, Diana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:diana.luches@continental-corporation.com
+ATTENDEE;CN="Popescu, Puiu";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:puiu.popescu@continental-corporation.com
+ATTENDEE;CN="Wail, AFENDI";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:afendi.wail@continental.com
+ATTENDEE;CN="Fehlau, Lena";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:lena.fehlau@continental.com
+ATTENDEE;CN="Reyes, Rafael (uia21443)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:rafael.reyes@contitech.de
+ATTENDEE;CN="Beckhaus, Arne (UIDG2314)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:Arne.Beckhaus@conti-engineering.com
+ATTENDEE;CN="Reineke, Jennifer (uia12735)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=DECLINED:mailto:jennifer.reineke@fluid.contitech.de
+ATTENDEE;CN="Mihutoiu, Cristian (MihutoiuC)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=ACCEPTED:mailto:Cristian.Mihutoiu@continental-corporation.com
+ATTENDEE;CN="Cording, Lara (uia41629)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=TENTATIVE:mailto:lara.cording@conti.de
+ATTENDEE;CN="Kondo, Motoshi";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:motoshi.kondo@continental-corporation.com
+ATTENDEE;CN="Zhou, Jin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
+	ilto:jin.zhou@continental-corporation.com
+ATTENDEE;CN="Mimura, Kumi (uidt6422)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:kumi.mimura@continental-corporation.com
+ATTENDEE;CN="Chai, Kian Hin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:kian.hin.chai@continental-corporation.com
+ATTENDEE;CN="Kanazawa, Taka";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Taka.Kanazawa@continental-corporation.com
+ATTENDEE;CN="Qi, Yuliang02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:Yuliang.2.Qi@continental-corporation.com
+ATTENDEE;CN="Tang, Li-Hong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:li-hong.tang@conti.my
+ATTENDEE;CN="Wang, Farui";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:farui.wang@continental-corporation.com
+ATTENDEE;CN="Yang, Lili";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:lili.yang@continental-corporation.com
+ATTENDEE;CN="Zhu, Jiahui02 (uib09900)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:jiahui.2.zhu@continental-corporation.com
+ATTENDEE;CN="Xiao, Jason (uie25435)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=ACCEPTED:mailto:jason.xiao@fluid.contitech.cn
+ATTENDEE;CN="Wu, Adam (uie27276)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:adam.wu@contitech.cn
+ATTENDEE;CN="Kempkes, Ansgar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:ansgar.kempkes@continental-corporation.com
+ATTENDEE;CN="Lei, Yuting";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:Yuting.Lei@continental-corporation.com
+ATTENDEE;CN="Wang, Na03";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:na.3.wang@continental-corporation.com
+ATTENDEE;CN="RODRIGUEZ, Leonardo (uid39839)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:mailto:leonardo.daniel.rodriguez@continental-corporatio
+	n.com
+ATTENDEE;CN="Roranes, Bryant";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:bryant.roranes@continental-corporation.com
+ATTENDEE;CN="Zhang, Fu";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
+	ilto:fu.zhang@continental-corporation.com
+ATTENDEE;CN="Dang, Van-Tuong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:van-tuong.dang@conti.co.th
+ATTENDEE;CN="Gao, Jian01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:jian01.gao@continental.com
+ATTENDEE;CN="Lei, Liaokai";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:liaokai.lei@ptg.contitech.cn
+ATTENDEE;CN="De Vera, Heidi (uidc1413)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:Heidi.Brigid@continental-corporation.com
+ATTENDEE;CN="Tian, Yong (uidc4162)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:Yong.Tian@fluid.contitech.cn
+ATTENDEE;CN="Ge, David";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:ma
+	ilto:david.ge@fluid.contitech.cn
+ATTENDEE;CN="Jiang, Shutao (uia91022)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:shutao.jiang@continental-corporation.com
+ATTENDEE;CN="Tuntrakool, Bundit (TuntrakoolB)";ROLE=OPT-PARTICIPANT;RSVP=TR
+	UE;PARTSTAT=ACCEPTED:mailto:bundit.tuntrakool@conti.co.th
+ATTENDEE;CN="Koh, Watson";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:Watson.Koh@continental-corporation.com
+ATTENDEE;CN="Ravindran Pillai, Rajkrishna";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:rajkrishna.ravindran.pillai@continental-corporati
+	on.com
+ATTENDEE;CN="Wang, Violin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:invalid:nomail
+ATTENDEE;CN="Lee, Geok-Kim";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Geok-Kim.Lee@conti.my
+ATTENDEE;CN="Ma, Siyuan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:Siyuan.Ma@benecke-changshun.com.cn
+ATTENDEE;CN="Joo, Eunlae";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:eunlae.joo@continental-corporation.com
+ATTENDEE;CN="Chen, Li";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mai
+	lto:li.chen@continental-corporation.com
+ATTENDEE;CN="Chakravarthy, VR";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:Vr.Chakravarthy@continental-corporation.com
+ATTENDEE;CN="Topalian, Marianne";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:Marianne.Topalian@contitech-usa.com
+ATTENDEE;CN="Nune, Ravisankar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:ravisankar.nune@continental-corporation.com
+ATTENDEE;CN="Reddy, Ashwin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:ashwin.reddy@continental-corporation.com
+ATTENDEE;CN="Jaiswal, Manish (uib49061)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:manish.jaiswal@continental-corporation.com
+ATTENDEE;CN="Li, Peng09";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:peng.9.li@continental-corporation.com
+ATTENDEE;CN="Rao, TVR-Subramaneshwar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:TVR-Subramaneshwar.Rao@conti.in
+ATTENDEE;CN="Jaitly, Sanjay";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:sanjay.jaitly@ptg.contitech.in
+ATTENDEE;CN="Yu, Fei";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mail
+	to:fei.yu@continental-corporation.com
+ATTENDEE;CN="Shukla, Mukesh Kumar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:mukesh.kumar.shukla@continental.com
+ATTENDEE;CN="SHARMA, UNNIKRISHNA (uia57519)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=ACCEPTED:mailto:unnikrishna.sharma@continental-corporation.com
+ATTENDEE;CN="Alagh, Manish";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Manish.Alagh@ptg.contitech.in
+ATTENDEE;CN="Smitha, Madhura";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:madhura.smitha.vemulati@continental-corporation.com
+ATTENDEE;CN="Kandpal, Rajesh";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:rajesh.kandpal@ptg.contitech.in
+ATTENDEE;CN="Langhof, Anke";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:anke.langhof@continental-corporation.com
+ATTENDEE;CN="George, Joseph";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:joseph.george@continental-corporation.com
+ATTENDEE;CN="Baltar, Leah";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:leah.baltar@continental-corporation.com
+ATTENDEE;CN="Wagner, Sven";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:Sven.Wagner@continental-corporation.com
+ATTENDEE;CN="Pan, Patrick";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:patrick.pan@continental.com
+ATTENDEE;CN="Klyscz, Thomas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:thomas.klyscz@fluid.contitech.de
+ATTENDEE;CN="Krassnitzer, Jonas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:jonas.krassnitzer@continental.com
+ATTENDEE;CN="Wang, Chuanfeng01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:chuanfeng01.wang@benecke-changzhou.com.cn
+ATTENDEE;CN="Moll, Sylvia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:sylvia.moll@conti.de
+ATTENDEE;CN="Ahrens, Celine02 (uia02390)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:celine.ahrens@continental.com
+ATTENDEE;CN="Lamotte, Alexander";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:Alexander.Lamotte@continental-corporation.com
+ATTENDEE;CN="Gruber, Thomas02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:Thomas.2.Gruber@continental-corporation.com
+ATTENDEE;CN="Deckenbach, Herbert";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:herbert.deckenbach@continental-corporation.com
+ATTENDEE;CN="Strauss-Fischbach, Karen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=TENTATIVE:mailto:karen.strauss-fischbach@fluid.contitech.de
+ATTENDEE;CN="Sterki, Reto";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:Reto.Sterki@contitrade.ch
+ATTENDEE;CN="Brettschneider, Anja";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:Anja.Brettschneider@continental-corporation.com
+ATTENDEE;CN="Niebisch, Klaus";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:klaus.niebisch@conti.de
+ATTENDEE;CN="May, Daniel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:daniel.may@continental-corporation.com
+ATTENDEE;CN="Corres, Simone";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:invalid:nomail
+ATTENDEE;CN="Zambak, Mehmet";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:mehmet.zambak@continental-corporation.com
+ATTENDEE;CN="Grill, Eva";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:
+	mailto:eva.grill@continental-corporation.com
+ATTENDEE;CN="Poputa, Catalin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:catalin.poputa@continental-corporation.com
+ATTENDEE;CN="Guenscht, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:Michael.Guenscht@continental-corporation.com
+ATTENDEE;CN="Schrader, Wolfgang";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:wolfgang.schrader@continental.com
+ATTENDEE;CN="Balos, Melania (uia36389)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:melania.balos@continental.com
+ATTENDEE;CN="Bot, Nicoleta";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:Nicoleta.Bot@continental-corporation.com
+ATTENDEE;CN="Schroedter, Katrin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DE
+	CLINED:mailto:katrin.schroedter@continental.com
+ATTENDEE;CN="Falcan, Laura-Ionelia (uidq0615)";ROLE=OPT-PARTICIPANT;RSVP=TR
+	UE;PARTSTAT=DECLINED:mailto:laura.falcan@continental-corporation.com
+ATTENDEE;CN="Duprat, Jean-Yves";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:jean-yves.duprat@continental-corporation.com
+ATTENDEE;CN="Miettinen, Markku (uidw0354)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:markku.miettinen@continental-corporation.com
+ATTENDEE;CN="Henze, Isabel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:isabel.henze@conti.de
+ATTENDEE;CN="Elstner, Carolin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:carolin.elstner@continental.com
+ATTENDEE;CN="Ceglarek, Christopher";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:christopher.ceglarek@conti.de
+ATTENDEE;CN="Mucha, Anette";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Anette.Mucha@continental-corporation.com
+ATTENDEE;CN="Karsaine Fazekas, Katalin (uia48555)";ROLE=OPT-PARTICIPANT;RSV
+	P=TRUE;PARTSTAT=TENTATIVE:invalid:nomail
+ATTENDEE;CN="Juedt, Kai Uwe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:kai.uwe.juedt@continental-corporation.com
+ATTENDEE;CN="Frambach, Dennis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:dennis.frambach@continental-corporation.com
+ATTENDEE;CN="Guter, Philipp";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:philipp.guter@continental.com
+ATTENDEE;CN="Lueders, Stephan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:stephan.lueders@fluid.contitech.de
+ATTENDEE;CN="Drodtloff, Carla-Elena (uib64886)";ROLE=OPT-PARTICIPANT;RSVP=T
+	RUE;PARTSTAT=TENTATIVE:mailto:carla-elena.drodtloff@continental-corporatio
+	n.com
+ATTENDEE;CN="Kienbaum, Stephan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:Stephan.Kienbaum@continental.com
+ATTENDEE;CN="Kiesbye, Diana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:Diana.Kiesbye@conti.de
+ATTENDEE;CN="Kuehn, Katrin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:Katrin.Kuehn@continental-corporation.com
+ATTENDEE;CN="Bockhorst, Eileen (uidk4704)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:eileen.bockhorst@continental-corporation.com
+ATTENDEE;CN="Crisan, Andreea (uia46599)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:andreea.2.crisan@continental.com
+ATTENDEE;CN="Wipff, Thierry (wipfft)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:mailto:thierry.wipff@conti.de
+ATTENDEE;CN="G, Jayanth (uib12220)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=DECLINED:mailto:jayanth.g@continental-corporation.com
+ATTENDEE;CN="Jovovic, Dejan (uidu0107)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:invalid:nomail
+ATTENDEE;CN="Kethely, Zsolt";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:Zsolt.Kethely@continental-corporation.com
+ATTENDEE;CN="Sere-Schneider, Aurora";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=DECLINED:mailto:aurora.sere-schneider@continental-corporation.com
+ATTENDEE;CN="St Pierre, Mara (uidq3250)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:mara.st.pierre@continental-corporation.com
+ATTENDEE;CN="Berg, Thilo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:thilo.berg@continental-corporation.com
+ATTENDEE;CN="Kottmayr, Florian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:florian.kottmayr@continental-corporation.com
+ATTENDEE;CN="Beyer, Sandy";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:sandy.beyer@conti.de
+ATTENDEE;CN="Imre, Lajos";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:lajos.imre@continental-corporation.com
+ATTENDEE;CN="Paul, Thomas01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:thomas01.paul@continental.com
+ATTENDEE;CN="Franceova, Katerina (uie32118)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=ACCEPTED:mailto:katerina.franceova@continental-corporation.com
+ATTENDEE;CN="Schneeweiss, Andre (uidu9491)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=TENTATIVE:mailto:andre.schneeweiss@continental-corporation.com
+ATTENDEE;CN="Pintilei, Danut-Cristian (PintileiD)";ROLE=OPT-PARTICIPANT;RSV
+	P=TRUE;PARTSTAT=ACCEPTED:mailto:Cristian-Danut.Pintilei@continental-corpor
+	ation.com
+ATTENDEE;CN="Wien, Joerg-Maria";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:joerg-maria.wien@continental-corporation.com
+ATTENDEE;CN="Mushla, Medijana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:medijana.mushla@continental.com
+ATTENDEE;CN="Weissflog, Enrico";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:enrico.weissflog@continental-corporation.com
+ATTENDEE;CN="Buchecker, Anna";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:anna.buchecker@continental-corporation.com
+ATTENDEE;CN="Bencsics, Hunor";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Hunor.Bencsics@continental-corporation.com
+ATTENDEE;CN="Giurgiu, Raluca-Ioana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:Raluca-Ioana.Giurgiu@continental-corporation.com
+ATTENDEE;CN="Voss, Ursula";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:ursula.voss@continental.com
+ATTENDEE;CN="Szczepanska, Karolina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:karolina.szczepanska@continental-corporation.com
+ATTENDEE;CN="Culcea, Mihai";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:mihai.culcea@continental-corporation.com
+ATTENDEE;CN="Wesols, Heike (uia09720)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:heike.wesols@contitech.de
+ATTENDEE;CN="Auhuber, Andreas (auhuber_a)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:andreas.auhuber@contitech.de
+ATTENDEE;CN="Maurer, Kristina (uia41692)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:kristina01.maurer@continental.com
+ATTENDEE;CN="Halt, Uwe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:m
+	ailto:uwe.halt@continental-corporation.com
+ATTENDEE;CN="Rei, Adriana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:adriana.rei@continental-corporation.com
+ATTENDEE;CN="Nebelung, Volkher";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:Volkher.Nebelung@continental-corporation.com
+ATTENDEE;CN="Roeher, Alexander";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:alexander.roeher@continental-corporation.com
+ATTENDEE;CN="Kalarickal, Avinash";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:avinash.kalarickal@continental-corporation.com
+ATTENDEE;CN="Herres-Gzyl, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:Michael.Herres-Gzyl@conti.de
+ATTENDEE;CN="Karbstein, Ronald";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:ronald.karbstein@continental-corporation.com
+ATTENDEE;CN="Brix, Alexander";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:alexander.brix@continental-corporation.com
+ATTENDEE;CN="Nordenholz Sven (uia61352)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:sven.nordenholz@continental.com
+ATTENDEE;CN="Schwarzer, Christian02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=TENTATIVE:mailto:christian.2.schwarzer@continental-corporation.com
+ATTENDEE;CN="Gudelis, Darius (uic07545)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:darius.gudelis@continental-corporation.com
+ATTENDEE;CN="Ivaldi, Luca";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:luca.ivaldi@continental-corporation.com
+ATTENDEE;CN="Bodenstein, Alexander (uia14928)";ROLE=OPT-PARTICIPANT;RSVP=TR
+	UE;PARTSTAT=TENTATIVE:mailto:alexander.bodenstein@continental-corporation.
+	com
+ATTENDEE;CN="Koehler, Christoph";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:Christoph.Koehler@continental-corporation.com
+ATTENDEE;CN="Hopf, Steffen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:Steffen.Hopf@continental-corporation.com
+ATTENDEE;CN="Scheider, Christoph (uia91873)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:mailto:christoph.scheider@continental.com
+ATTENDEE;CN="Myshrall, Chris";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:Chris.Myshrall@fluid.contitech.co.uk
+ATTENDEE;CN="Schionatti, Roberto";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:roberto.schionatti@continental-corporation.com
+ATTENDEE;CN="Ennaji, Younes (uib53730)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:younes.ennaji@continental-corporation.com
+ATTENDEE;CN="Foldesi, Patrik";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Patrik.Foldesi@continental-corporation.com
+ATTENDEE;CN="Robledo, Enrique";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:Enrique.Robledo@continental-corporation.com
+ATTENDEE;CN="Geib, Anna";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:
+	mailto:anna.geib@continental-corporation.com
+ATTENDEE;CN="Roth, Steffen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Steffen.Roth@continental-corporation.com
+ATTENDEE;CN="Polistyak, Szabolcs";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:szabolcs.polistyak@continental.com
+ATTENDEE;CN="Guilhot, Laurence";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:Laurence.Guilhot@continental.com
+ATTENDEE;CN="Gentemann, Sascha";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:Sascha.Gentemann@conti.de
+ATTENDEE;CN="Mclean, Robert (uie63162)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:robert.mclean@continental.com
+ATTENDEE;CN="Meinicke, Jens";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:Jens.Meinicke@continental-corporation.com
+ATTENDEE;CN="Camargo, Victor";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Victor.Camargo@continental-corporation.com
+ATTENDEE;CN="Uebel, Franziska";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:franziska.uebel@continental-corporation.com
+ATTENDEE;CN="Minke, Juergen01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:juergen01.minke@continental.com
+ATTENDEE;CN="Vesa, Diana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:Diana.Vesa@continental-corporation.com
+ATTENDEE;CN="Moesker-Weishaeupl, Baerbel (uidf0140)";ROLE=OPT-PARTICIPANT;R
+	SVP=TRUE;PARTSTAT=DECLINED:mailto:Baerbel.Moesker-Weishaeupl@continental-c
+	orporation.com
+ATTENDEE;CN="Wehrmaker, Matthias";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:Matthias.Wehrmaker@continental.com
+ATTENDEE;CN="Boic, Sandra (uia24050)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:mailto:sandra.boic@fluid.contitech.de
+ATTENDEE;CN="Wetzel, Andreas03 (uie37746)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:andreas.3.wetzel@conti.de
+ATTENDEE;CN="Klose, Lothar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Lothar.Klose@continental-corporation.com
+ATTENDEE;CN="Tecklenburg, Claudia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:claudia.tecklenburg@continental.com
+ATTENDEE;CN="Ferreira, Isabel (uia61706)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:isabel.2.ferreira@continental.com
+ATTENDEE;CN="Gilbert, Thibault";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:Thibault.Gilbert@continental-corporation.com
+ATTENDEE;CN="Friz, Fabian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:fabian.friz@continental-corporation.com
+ATTENDEE;CN="Benseler, Martin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:martin.benseler@continental.com
+ATTENDEE;CN="Walter, Maik02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:maik02.walter@continental-corporation.com
+ATTENDEE;CN="Zempel, Ralf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:ralf.zempel@continental.com
+ATTENDEE;CN="Hansen, Lothar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:lothar.hansen@continental-corporation.com
+ATTENDEE;CN="Sundermeier, Andrea";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
+	CCEPTED:mailto:Andrea.Sundermeier@continental-corporation.com
+ATTENDEE;CN="Goncalves, Ana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:ana.goncalves@conti.de
+ATTENDEE;CN="Ouhab, Zahia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:zahia.ouhab@conti.de
+ATTENDEE;CN="Altman, Aleksandra (uia56588)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=ACCEPTED:mailto:aleksandra.altman@continental-corporation.com
+ATTENDEE;CN="Hopitzan, Pia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:pia.hopitzan@conti.de
+ATTENDEE;CN="Prester, Franz";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:franz.prester@continental-corporation.com
+ATTENDEE;CN="Kreidner, Harald";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:harald.kreidner@continental.com
+ATTENDEE;CN="Beckroth, Sven";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:sven.beckroth@continental-corporation.com
+ATTENDEE;CN="Liu, Dennis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:dennis.liu@continental-corporation.com
+ATTENDEE;CN="Bretin, Geraldine";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:geraldine.bretin@continental-corporation.com
+ATTENDEE;CN="Popple, Shaun";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:shaun.popple@continental-corporation.com
+ATTENDEE;CN="Avalos, Patricia (avalosp)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=TENTATIVE:mailto:patricia.1.avalos@conti.de
+ATTENDEE;CN="Philipp, Olaf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:olaf.philipp@continental.com
+ATTENDEE;CN="Bourhis, Philippe (uid60222)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=TENTATIVE:mailto:philippe.bourhis@continental-corporation.com
+ATTENDEE;CN="Lichtenstein-Kaspareth, Evelyn";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:mailto:evelyn.lichtenstein-kaspareth@continental-corpor
+	ation.com
+ATTENDEE;CN="Bopp, Rita";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:Rita.Bopp@continental-corporation.com
+ATTENDEE;CN="Szwedowicz, Barbara";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:Barbara.Szwedowicz@continental-corporation.com
+ATTENDEE;CN="Hollaender, Thea";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:thea.hollaender@continental.com
+ATTENDEE;CN="Kosel, Markus";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:markus.kosel@continental-corporation.com
+ATTENDEE;CN="Eppler, Tobias";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:tobias.eppler@conti.de
+ATTENDEE;CN="Heyer, Kevin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:kevin.heyer@continental-corporation.com
+ATTENDEE;CN="Maus, Anika";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:anika.maus@conti.de
+ATTENDEE;CN="Booth, Andrea-Bianca (uia00949)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E;PARTSTAT=TENTATIVE:mailto:andrea-bianca.booth@conti.de
+ATTENDEE;CN="Kubinec, Libor";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:libor.kubinec@conti.sk
+ATTENDEE;CN="Flug, Julia02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:Julia.2.Flug@continental-corporation.com
+ATTENDEE;CN="Brattinger, Stefan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:Stefan.Brattinger@continental-corporation.com
+ATTENDEE;CN="Krauss, Melanie";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:melanie.krauss@continental-corporation.com
+ATTENDEE;CN="Bunk, Joachim";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:Joachim.Bunk@continental.com
+ATTENDEE;CN="Koehler, Marcel (uia61109)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=TENTATIVE:mailto:marcel.koehler@continental-corporation.com
+ATTENDEE;CN="Cesana, Giuseppe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:Giuseppe.Cesana@conti.de
+ATTENDEE;CN="Barbosa, Rui02 (uic54095)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:rui.jorge.fernandes.barbosa@conti.de
+ATTENDEE;CN="Reisch, Winfried";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCE
+	PTED:mailto:winfried.reisch@continental.com
+ATTENDEE;CN="Althaus, Jan (uid02225)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=TENTATIVE:mailto:jan.althaus@continental-corporation.com
+ATTENDEE;CN="Feldmann, Martin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:martin.feldmann@continental-corporation.com
+ATTENDEE;CN="Nagy, Eszter (uidg7905)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:mailto:eszter.nagy@fluid.contitech.hu
+ATTENDEE;CN="Lewerenz, Alexander (uidr9509)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=TENTATIVE:mailto:alexander.lewerenz@continental-corporation.com
+ATTENDEE;CN="Matti, Marcel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:marcel.matti@continental.com
+ATTENDEE;CN="GALLINA, RAFAEL (uidr4661)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:Rafael.Gallina@continental.com
+ATTENDEE;CN="Hornyak, Laszlo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:laszlo.hornyak@continental.com
+ATTENDEE;CN="Lund, Leonardo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:invalid:nomail
+ATTENDEE;CN="Klein, Jochen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Jochen.Klein@continental-corporation.com
+ATTENDEE;CN="Porrmann, Nina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:nina.porrmann@contitrade.com
+ATTENDEE;CN="Diehl, Michael";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:michael.diehl@continental-corporation.com
+ATTENDEE;CN="Bergmann, Uwe (uia13197)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:uwe.bergmann@fluid.contitech.de
+ATTENDEE;CN="Stein, Joachim";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:joachim.stein@fluid.contitech.de
+ATTENDEE;CN="Li, Jingqi (uic51164)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:jingqi.li@continental-corporation.com
+ATTENDEE;CN="Dowling, Jurgen (uia17516)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:jurgen.dowling@conti-na.com
+ATTENDEE;CN="Butac, Elena-Alis (uie05145)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=ACCEPTED:mailto:elena-alis.butac@conti.de
+ATTENDEE;CN="Kaluza, Steven (uib42022)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:steven.kaluza@continental-corporation.com
+ATTENDEE;CN="Mulero, Isabel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:isabel.mulero@conti.de
+ATTENDEE;CN="Schneider, Jennifer";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:jennifer.schneider@continental-corporation.com
+ATTENDEE;CN="Medina Pina, Mariana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	DECLINED:mailto:mariana.medina.pina@continental-corporation.com
+ATTENDEE;CN="Longley, Cindy";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:cindy.longley@continental-corporation.com
+ATTENDEE;CN="Kanzow, Henning";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:henning.kanzow@continental.com
+ATTENDEE;CN="Wilson, Ian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	invalid:nomail
+ATTENDEE;CN="PAN, RAPHAEL (Panra)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:raphael01.pan@fluid.contitech.us
+ATTENDEE;CN="Krueger, Britta";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:britta.krueger@conti.de
+ATTENDEE;CN="Urbanek, Matthias (uia04241)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=DECLINED:mailto:matthias.urbanek@conti.de
+ATTENDEE;CN="Mehrkens, Stefanie (uia08500)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=DECLINED:mailto:stefanie.mehrkens@contitech.de
+ATTENDEE;CN="Rauda, Jaime";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:jaime.rauda@continental-corporation.com
+ATTENDEE;CN="Wolter, Hartmut";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Hartmut.Wolter@continental.com
+ATTENDEE;CN="Contreras-Hernandez, Marisol";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=DECLINED:mailto:marisol.contreras-hernandez@continental-corporatio
+	n.com
+ATTENDEE;CN="Brown, Wayne";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:Wayne.Brown@conti-na.com
+ATTENDEE;CN="Vazquez-Limon, Manuel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:manuel.vazquez-limon@continental-corporation.com
+ATTENDEE;CN="Brandl, Anton";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:anton.brandl@continental-corporation.com
+ATTENDEE;CN="Knecht, Mathias (uidj9854)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=DECLINED:mailto:mathias.knecht@continental-corporation.com
+ATTENDEE;CN="Fuchs, Thomas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:thomas.fuchs@fluid.contitech.de
+ATTENDEE;CN="Cazarim, Gilberto";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:gilberto.cazarim@continental-corporation.com
+ATTENDEE;CN="Oliveira, Maria";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:Maria.Oliveira@continental.com
+ATTENDEE;CN="Okuyama, Marisa";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:marisa.okuyama@continental-corporation.com
+ATTENDEE;CN="Reynaga-Corona, Alejandra";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:ofelia.alejandra.reynaga.corona@continental-corporati
+	on.com
+ATTENDEE;CN="VAZQUEZ NEGRETE, MARISOL (VazquezM1)";ROLE=OPT-PARTICIPANT;RSV
+	P=TRUE;PARTSTAT=DECLINED:mailto:marisol.vazquez@fluid.contitech.com.mx
+ATTENDEE;CN="Stangner, Peter";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:peter.stangner@continental-corporation.com
+ATTENDEE;CN="Schuller, Eva (SchullerE)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:Eva.Schuller@continental-corporation.com
+ATTENDEE;CN="Aranda, Juan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:Juan.Aranda@continental.com
+ATTENDEE;CN="Ramirez-Herrera, Juan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:invalid:nomail
+ATTENDEE;CN="Gallegos-Parra, Aida";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	TENTATIVE:mailto:aida.gallegos-parra@continental-corporation.com
+ATTENDEE;CN="Teniente Motilla, Carlos Antonio (tenientec)";ROLE=OPT-PARTICI
+	PANT;RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:carlos.teniente@continental.com
+ATTENDEE;CN="Torres, Gabriela";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECL
+	INED:mailto:gabriela.torres@contitech.com.mx
+ATTENDEE;CN="Thomsen, Pamela";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:pamela.thomsen@conti.de
+ATTENDEE;CN="Rauber, Oliver";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:oliver.rauber@continental-corporation.com
+ATTENDEE;CN="Kohlhauer, Thomas";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:Thomas.Kohlhauer@continental-corporation.com
+ATTENDEE;CN="Korduan, Friederike (uia02733)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=TENTATIVE:mailto:Friederike.Korduan@fluid.contitech.de
+ATTENDEE;CN="Wilhelm, Marc";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:Marc.Wilhelm@continental-corporation.com
+ATTENDEE;CN="Mergold, Maria Teresa";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:Maria.Teresa.Mergold@conti.com.mx
+ATTENDEE;CN="JIMENEZ RODRIGUEZ, EDGAR (uid85010)";ROLE=OPT-PARTICIPANT;RSVP
+	=TRUE;PARTSTAT=DECLINED:mailto:edgar.jimenez.rodriguez@continental-corpora
+	tion.com
+ATTENDEE;CN="Maximiuc, Fabio Niza";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	DECLINED:mailto:fabio.maximiuc@continental-corporation.com
+ATTENDEE;CN="Ismayilov, Dovlat (uie51005)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=ACCEPTED:mailto:dovlat.ismayilov@continental-corporation.com
+ATTENDEE;CN="Grobe, Dirk";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:dirk.grobe@continental-corporation.com
+ATTENDEE;CN="Shen, Ting";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:Ting.Shen@continental-corporation.com
+ATTENDEE;CN="Gomez Fernandez, Lourdes";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:lourdes.gomez.fernandez@continental.com
+ATTENDEE;CN="Patzina, Sven";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Sven.Patzina@continental-corporation.com
+ATTENDEE;CN="Heuchert, Jens (uia09092)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:jens.heuchert@continental.com
+ATTENDEE;CN="Garcia, Ma. Victoria";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:Ma.Victoria.Garcia@contitech.ph
+ATTENDEE;CN="Dandana, Imen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:imen.dandana@conti.de
+ATTENDEE;CN="Vogt, Armin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:
+	mailto:armin.vogt@continental-corporation.com
+ATTENDEE;CN="Selem Paredes, Leon (uidg4745)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:mailto:leon.selem@continental-corporation.com
+ATTENDEE;CN="Escourrou, Christophe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:christophe.escourrou@continental-corporation.com
+ATTENDEE;CN="Schwimmbeck, Cornelia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=DECLINED:mailto:cornelia.schwimmbeck@continental-corporation.com
+ATTENDEE;CN="Garcia, Luis";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:Luis.Garcia@continental-corporation.com
+ATTENDEE;CN="Gantner, Rolf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:rolf.gantner@continental-corporation.com
+ATTENDEE;CN="Gallardo, Noe";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:noe.gallardo@continental.com
+ATTENDEE;CN="Finkenzeller, Helmut";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
+	ACCEPTED:mailto:Helmut.Finkenzeller@continental-corporation.com
+ATTENDEE;CN="Navarro, Amelia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:amelia.navarro@continental-corporation.com
+ATTENDEE;CN="Paitch, Flavia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:Flavia.Paitch@continental-corporation.com
+ATTENDEE;CN="Freitag, Birgit";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:birgit.freitag@conti.de
+ATTENDEE;CN="Schoeller, Ekkehard";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:ekkehard.schoeller@continental-corporation.com
+ATTENDEE;CN="Zernetsch, Holger";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TEN
+	TATIVE:mailto:holger.zernetsch@continental-corporation.com
+ATTENDEE;CN="Gu, Xian Ling (uib66461)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=DECLINED:mailto:xianling.gu@continental-corporation.com
+ATTENDEE;CN="Simon, Otmar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:Otmar.Simon@continental-corporation.com
+ATTENDEE;CN="Tan, Kim";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mai
+	lto:kim.tan@continental-corporation.com
+ATTENDEE;CN="Makoeva, Mariia (uia56568)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
+	TSTAT=ACCEPTED:mailto:mariia.makoeva@continental-corporation.com
+ATTENDEE;CN="Schnupp, Ralf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINE
+	D:mailto:ralf.schnupp@continental-corporation.com
+ATTENDEE;CN="Yadav, Sumit02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Sumit.2.Yadav@continental-corporation.com
+ATTENDEE;CN="Rudnjanin, Bianca";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
+	LINED:mailto:bianca.rudnjanin@conti.de
+ATTENDEE;CN="Helbig, Anja";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:anja.helbig@fluid.contitech.de
+ATTENDEE;CN="Sala, Christian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:invalid:nomail
+ATTENDEE;CN="Linkenbach, Steffen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=D
+	ECLINED:mailto:steffen.linkenbach@continental-corporation.com
+ATTENDEE;CN="Liebermann, Denis (uie84256)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
+	ARTSTAT=ACCEPTED:mailto:denis.liebermann@continental-corporation.com
+ATTENDEE;CN="Ludwig, Silvia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:silvia.ludwig@continental-corporation.com
+ATTENDEE;CN="Bitea, Larisa-Andra (uic40645)";ROLE=OPT-PARTICIPANT;RSVP=TRUE
+	;PARTSTAT=DECLINED:invalid:nomail
+ATTENDEE;CN="TE_SW_FA, ADS ProductionSupport (uie37612)";ROLE=OPT-PARTICIPA
+	NT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:ads.productionsupport.te_sw_fa@conti
+	nental.com
+ATTENDEE;CN="Roeder, Teresa";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Teresa.Roeder@continental-corporation.com
+ATTENDEE;CN="Schellhase, Gundolf";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
+	ENTATIVE:mailto:gundolf.schellhase@continental-corporation.com
+ATTENDEE;CN="GAWDUNOVA, PETRA (uib43593)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
+	RTSTAT=ACCEPTED:mailto:petra.gawdunova@continental-corporation.com
+ATTENDEE;CN="Eichhorn, Bernhard";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=AC
+	CEPTED:mailto:bernhard.eichhorn@continental-corporation.com
+ATTENDEE;CN="Gysser, Corina (uid20642)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:corina.gysser@continental-corporation.com
+ATTENDEE;CN="Rolfs, Meik";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:meik.rolfs@continental.com
+ATTENDEE;CN="Luckner, Roberto";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:roberto.luckner@continental.com
+ATTENDEE;CN="Burgess, Mark";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Mark.Burgess@continental.com
+ATTENDEE;CN="Middelberg, Leonie";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TE
+	NTATIVE:mailto:leonie.middelberg@conti.de
+ATTENDEE;CN="Hymon, Verena";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:Verena.Hymon@continental-corporation.com
+ATTENDEE;CN="Ko, LeeUk";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
+	ilto:leeuk.ko@continental-corporation.com
+ATTENDEE;CN="Yan, Fengyun";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:fengyun.yan@continental-corporation.com
+ATTENDEE;CN="Fang, Jason";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:Jason.Fang@fluid.contitech.cn
+ATTENDEE;CN="Reithmeier, Katrin (uid09317)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;
+	PARTSTAT=TENTATIVE:mailto:katrin.reithmeier@continental-corporation.com
+ATTENDEE;CN="Simeth, Roland (uia08350)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:Roland.Simeth@continental-corporation.com
+ATTENDEE;CN="Fu, Guangjuan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:guangjuan.fu@continental-corporation.com
+ATTENDEE;CN="Liu, Wenwei";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
+	:mailto:Wenwei.Liu@continental-corporation.com
+ATTENDEE;CN="Yang, Rita";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:rita.yang@continental.com
+ATTENDEE;CN="Sachan, Naveen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:naveen.sachan@continental.com
+ATTENDEE;CN="Schrader, Ana (uia63943)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:ana.schrader@fluid.contitech.us
+ATTENDEE;CN="Kaefer-Hoffmann, Michaela";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:michaela.kaefer-hoffmann@conti.de
+ATTENDEE;CN="Lotric, Karmen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:Karmen.Lotric@continental.com
+ATTENDEE;CN="Kroell, Britta";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
+	ED:mailto:britta.kroell@fluid.contitech.de
+ATTENDEE;CN="Martinez, Paulo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:paulo.martinez@continental.com
+ATTENDEE;CN="Terekhova, Yulia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:yulia.terekhova@conti.de
+ATTENDEE;CN="Feng, Kemei02 (uie83522)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:kemei.2.feng@fluid.contitech.cn
+ATTENDEE;CN="Lee, Wonjoon";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:Wonjoon.Lee@continental-corporation.com
+ATTENDEE;CN="Banovic, Regina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:Regina.Banovic@continental-corporation.com
+ATTENDEE;CN="Metzer, Diana";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:diana.metzer@continental-corporation.com
+ATTENDEE;CN="Singh, Parigeet Singh Harbhajan (uic52325)";ROLE=OPT-PARTICIPA
+	NT;RSVP=TRUE;PARTSTAT=TENTATIVE:invalid:nomail
+ATTENDEE;CN="Gaintatzis, Dimitrios";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=ACCEPTED:mailto:dimitrios.gaintatzis@continental.com
+ATTENDEE;CN="Knobbe, Eric";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:eric.knobbe@continental.com
+ATTENDEE;CN="Grigaraviciene, Milda (uic59092)";ROLE=OPT-PARTICIPANT;RSVP=TR
+	UE;PARTSTAT=TENTATIVE:mailto:milda.grigaraviciene@continental-corporation.
+	com
+ATTENDEE;CN="Aschenbrenner, Corinna02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:corinna.2.aschenbrenner@continental-corporation.com
+ATTENDEE;CN="Graf, Saskia02 (uia67211)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=TENTATIVE:mailto:saskia.2.graf@continental.com
+ATTENDEE;CN="Redman, James";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:james.redman@continental-corporation.com
+ATTENDEE;CN="Wang, Jiahong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:jiahong.wang@continental-corporation.com
+ATTENDEE;CN="Cotuna, Marius";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTAT
+	IVE:mailto:marius.cotuna@continental-corporation.com
+ATTENDEE;CN="Hoeth, Birgit";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:birgit.hoeth@continental-corporation.com
+ATTENDEE;CN="Wang, Kai09";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:Kai.9.Wang@continental-corporation.com
+ATTENDEE;CN="Zhang, Chen07 (uie40795)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:invalid:nomail
+ATTENDEE;CN="Lohmueller, Silke";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:silke.lohmueller@continental-corporation.com
+ATTENDEE;CN="Hyrava, Lucia";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:lucia.hyrava@continental-corporation.com
+ATTENDEE;CN="Raoul, Corine";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:corine.raoul@continental-corporation.com
+ATTENDEE;CN="Sosa, Alfredo02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:alfredo.2.sosa@continental-corporation.com
+ATTENDEE;CN="Wesebaum, Soeren";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:soeren.wesebaum@conti.de
+ATTENDEE;CN="Flores, Juan (V900327)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
+	T=TENTATIVE:mailto:Juan.Carlos.2.Flores@continental.com
+ATTENDEE;CN="Walde, Nina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
+	mailto:nina.walde@continental-corporation.com
+ATTENDEE;CN="Goh, Swee Yee";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:Swee.Yee.Goh@continental-corporation.com
+ATTENDEE;CN="Igel, Christoph";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTA
+	TIVE:mailto:christoph.igel@continental-corporation.com
+ATTENDEE;CN="Steiner, Daniel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEP
+	TED:mailto:daniel.steiner@continental.com
+ATTENDEE;CN="Kwee, Renate";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:renate.kwee@conti.de
+ATTENDEE;CN="Kistenmacher, Axel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TE
+	NTATIVE:mailto:axel.kistenmacher@continental.com
+ATTENDEE;CN="Fernando-Piee, Marcel (uidk2330)";ROLE=OPT-PARTICIPANT;RSVP=TR
+	UE;PARTSTAT=ACCEPTED:mailto:Marcel.Piee@continental-corporation.com
+ATTENDEE;CN="Romero, Omar";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:omar.romero@continental-corporation.com
+ATTENDEE;CN="Alzer, Petra";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:petra.alzer@continental-corporation.com
+ATTENDEE;CN="Liu, Tao";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mai
+	lto:Tao.Liu@continental-corporation.com
+ATTENDEE;CN="Gubar, Irina";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:irina.gubar@conti.de
+ATTENDEE;CN="Mitunikova, Lenka";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACC
+	EPTED:mailto:lenka.mitunikova@conti.sk
+ATTENDEE;CN="Drews, Verena";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATI
+	VE:mailto:verena.drews@continental.com
+ATTENDEE;CN="SYNEK, TOMAS (uib18088)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=TENTATIVE:mailto:tomas.synek@continental-corporation.com
+ATTENDEE;CN="Skulec, Miroslav";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
+	ATIVE:mailto:miroslav.skulec@conti.sk
+ATTENDEE;CN="Filiz, Murat";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
+	:mailto:Murat.Filiz@continental.com
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=DECLINED:mailto:xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Tuggle, Jeremy";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:jeremy.tuggle@continental-corporation.com
+ATTENDEE;CN="Heins, Jan (uia76797)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
+	=TENTATIVE:mailto:jan.heins@ptg.contitech.de
+ATTENDEE;CN="Serckoviene, Erika02 (uie78748)";ROLE=OPT-PARTICIPANT;RSVP=TRU
+	E:mailto:erika.2.serckoviene@continental-corporation.com
+ATTENDEE;CN="Quayum, Mohaiminul (uie62073)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:
+	mailto:mohaiminul.quayum@continental-corporation.com
+ATTENDEE;CN="Menclova, Dana (uic44367)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
+	STAT=ACCEPTED:mailto:dana.menclova@continental-corporation.com
+CLASS:PUBLIC
+CREATED:20220116T180058Z
+DESCRIPTION:Dear CBS Coach Community\,\n\n \n\nas the team of CBS Domain Ca
+	ll organizer (Ch. Escorrou\, J. Flug and J. Thalmair) decided in 2021 to u
+	se a simplified invitation format we will continue \n\n \n\n*  with the co
+	mmunity calls organized by Teams (platform for the calls is the MSTeams Ch
+	annel „CBS Coaches WW Platform“)\n\n \n\n*  We opened the CBS R&D call
+	s to the entire CBS coach community because R&D principles are also applic
+	able in other domains\n\n*  For this we added you to the WW CBS Coach team
+	. No action from your side needed.\n\n \n\n*  Just accept this series of i
+	nvitations in Outlook to have all the events available in your Outlook cal
+	ender \n\n*  For each event (call) we will send 1 week before the updated 
+	agenda and related topics for your information\n\n*  If you are interested
+	 please accept the update\, if not just ignore this specific event.\n\n \n
+	\nLooking forward to see you in the Teams call for the next Community Call
+	 and beyond\n\nMany regards\n\nJoachim\n\n________________________________
+	________________________________________________ \n\nMicrosoft Teams-Bespr
+	echung \n\nNehmen Sie von Ihrem Computer oder der mobilen App aus teil \n\
+	nKlicken Sie hier\, um an der Besprechung teilzunehmen <https://teams.micr
+	osoft.com/l/meetup-join/19%3ameeting_ZTkzMGY4YTYtOWRmNS00ZjM2LTg0NWItN2FlZ
+	TRjY2M2Yjc3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1
+	f-e04d79e6265a%22%2c%22Oid%22%3a%2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d%22
+	%7d>  \n\nWeitere Infos <https://aka.ms/JoinTeamsMeeting>  | Besprechungso
+	ptionen <https://teams.microsoft.com/meetingOptions/?organizerId=55c4b7f4-
+	5b99-4af5-94d6-03c0cf2a0e2d&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&
+	threadId=19_meeting_ZTkzMGY4YTYtOWRmNS00ZjM2LTg0NWItN2FlZTRjY2M2Yjc3@threa
+	d.v2&messageId=0&language=de-DE>  | Rechtliche Hinweise <https://filehub.a
+	dmiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e>  \n\n__________
+	______________________________________________________________________ \n\
+	n \n\n
+DTEND;TZID="W. Europe Standard Time":20220728T094500
+DTSTAMP:20220116T180047Z
+DTSTART;TZID="W. Europe Standard Time":20220728T090000
+LAST-MODIFIED:20220721T162014Z
+LOCATION:Microsoft Teams-Besprechung
+ORGANIZER;CN="Thalmair, Joachim":mailto:Joachim.Thalmair@continental-corpor
+	ation.com
+PRIORITY:5
+RRULE:FREQ=MONTHLY;COUNT=1;BYDAY=TH;BYSETPOS=-1
+SEQUENCE:0
+SUMMARY:Regular CBS R&D Community Call (Asia & Europe) - Safe the date
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000B066E5F6090BD801000000000000000
+	010000000BC02A80A2BED9C4AAF7120013D1BA5F7
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:Wingdings\;\n	panose-1:5 0 0 0 0 0 0 0 
+	0 0\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 
+	6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 
+	3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4
+	 2 2 3\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2 11
+	 7 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\,
+	 div.MsoNormal\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"Calibri
+	"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\na:link\, span.MsoHyperlin
+	k\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decoration:underline
+	\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;}\
+	n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:70.85pt 70.85pt 2.0
+	cm 70.85pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n/* List Definitio
+	ns */\n@list l0\n	{mso-list-id:1067801903\;\n	mso-list-type:hybrid\;\n	mso
+	-list-template-ids:1355856704 425233906 -434438990 -880621754 1091054980 -
+	1963172914 1701748178 580263182 221124706 -1302835116\;}\n@list l0:level1\
+	n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab
+	-stop:36.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\
+	n	font-family:Wingdings\;}\n@list l0:level2\n	{mso-level-number-format:bul
+	let\;\n	mso-level-text:\;\n	mso-level-tab-stop:72.0pt\;\n	mso-level-num
+	ber-position:left\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@l
+	ist l0:level3\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n
+		mso-level-tab-stop:108.0pt\;\n	mso-level-number-position:left\;\n	text-in
+	dent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l0:level4\n	{mso-level-nu
+	mber-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:144.0pt\;
+	\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	font-family:
+	Wingdings\;}\n@list l0:level5\n	{mso-level-number-format:bullet\;\n	mso-le
+	vel-text:\;\n	mso-level-tab-stop:180.0pt\;\n	mso-level-number-position:
+	left\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l0:level6
+	\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-ta
+	b-stop:216.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\
+	;\n	font-family:Wingdings\;}\n@list l0:level7\n	{mso-level-number-format:b
+	ullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:252.0pt\;\n	mso-level-
+	number-position:left\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\
+	n@list l0:level8\n	{mso-level-number-format:bullet\;\n	mso-level-text:\
+	;\n	mso-level-tab-stop:288.0pt\;\n	mso-level-number-position:left\;\n	text
+	-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l0:level9\n	{mso-level
+	-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:324.0p
+	t\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	font-fami
+	ly:Wingdings\;}\n@list l1\n	{mso-list-id:2104838079\;\n	mso-list-type:hybr
+	id\;\n	mso-list-template-ids:919605838 -1513048236 -1036336292 1406583800 
+	-1460246802 314316152 -12968416 1023056190 2067928698 -1372678048\;}\n@lis
+	t l1:level1\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	m
+	so-level-tab-stop:36.0pt\;\n	mso-level-number-position:left\;\n	text-inden
+	t:-18.0pt\;\n	font-family:Wingdings\;}\n@list l1:level2\n	{mso-level-numbe
+	r-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:72.0pt\;\n	m
+	so-level-number-position:left\;\n	text-indent:-18.0pt\;\n	font-family:Wing
+	dings\;}\n@list l1:level3\n	{mso-level-number-format:bullet\;\n	mso-level-
+	text:\;\n	mso-level-tab-stop:108.0pt\;\n	mso-level-number-position:left
+	\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l1:level4\n	{
+	mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-st
+	op:144.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	
+	font-family:Wingdings\;}\n@list l1:level5\n	{mso-level-number-format:bulle
+	t\;\n	mso-level-text:\;\n	mso-level-tab-stop:180.0pt\;\n	mso-level-numb
+	er-position:left\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@li
+	st l1:level6\n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	
+	mso-level-tab-stop:216.0pt\;\n	mso-level-number-position:left\;\n	text-ind
+	ent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l1:level7\n	{mso-level-num
+	ber-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-stop:252.0pt\;\
+	n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;\n	font-family:W
+	ingdings\;}\n@list l1:level8\n	{mso-level-number-format:bullet\;\n	mso-lev
+	el-text:\;\n	mso-level-tab-stop:288.0pt\;\n	mso-level-number-position:l
+	eft\;\n	text-indent:-18.0pt\;\n	font-family:Wingdings\;}\n@list l1:level9\
+	n	{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab
+	-stop:324.0pt\;\n	mso-level-number-position:left\;\n	text-indent:-18.0pt\;
+	\n	font-family:Wingdings\;}\nol\n	{margin-bottom:0cm\;}\nul\n	{margin-bott
+	om:0cm\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="ed
+	it" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shap
+	elayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout>
+	</xml><![endif]--></head><body lang="DE" link="#0563C1" vlink="#954F72" st
+	yle="word-wrap:break-word"><div class="WordSection1"><p class="MsoNormal">
+	<span lang="EN-US" style="font-size:12.0pt\;color:black\;mso-fareast-langu
+	age:DE">Dear CBS Coach Community\,<o:p></o:p></span></p><p class="MsoNorma
+	l"><span lang="EN-US" style="font-size:10.0pt\;mso-fareast-language:DE"><o
+	:p>&nbsp\;</o:p></span></p><p class="MsoNormal"><span lang="EN-US" style="
+	font-size:12.0pt\;color:black\;mso-fareast-language:DE">as the team of CBS
+	 Domain Call organizer (Ch. Escorrou\, J. Flug and J. Thalmair) decided in
+	 2021 to use a simplified invitation format we will continue <o:p></o:p></
+	span></p><p class="MsoNormal"><span lang="EN-US" style="font-size:10.0pt\;
+	mso-fareast-language:DE"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal"
+	 style="margin-left:58.3pt\;text-indent:-18.0pt\;mso-list:l0 level1 lfo2">
+	<![if !supportLists]><span lang="EN-US" style="font-size:12.0pt\;font-fami
+	ly:Wingdings\;color:black\;mso-fareast-language:DE"><span style="mso-list:
+	Ignore">Ø<span style="font:7.0pt &quot\;Times New Roman&quot\;">&nbsp\; <
+	/span></span></span><![endif]><span lang="EN-US" style="font-size:12.0pt\;
+	color:black\;background:yellow\;mso-highlight:yellow\;mso-fareast-language
+	:DE">with the community calls organized by Teams</span><span lang="EN-US" 
+	style="font-size:12.0pt\;color:black\;mso-fareast-language:DE"> (platform 
+	for the calls is the MSTeams Channel <span style="background:yellow\;mso-h
+	ighlight:yellow">„CBS Coaches WW Platform“)</span><o:p></o:p></span></
+	p><p class="MsoNormal"><span lang="EN-US" style="font-size:10.0pt\;mso-far
+	east-language:DE"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal" style=
+	"margin-left:58.3pt\;text-indent:-18.0pt\;mso-list:l1 level1 lfo4"><![if !
+	supportLists]><span lang="EN-US" style="font-size:12.0pt\;font-family:Wing
+	dings\;mso-fareast-language:DE"><span style="mso-list:Ignore">Ø<span styl
+	e="font:7.0pt &quot\;Times New Roman&quot\;">&nbsp\; </span></span></span>
+	<![endif]><span lang="EN-US" style="font-size:12.0pt\;color:black\;mso-far
+	east-language:DE">We opened the CBS R&amp\;D calls to the entire CBS coach
+	 community because R&amp\;D principles are also applicable in other domain
+	s</span><span lang="EN-US" style="font-size:12.0pt\;mso-fareast-language:D
+	E"><o:p></o:p></span></p><p class="MsoNormal" style="margin-left:58.3pt\;t
+	ext-indent:-18.0pt\;mso-list:l1 level1 lfo4"><![if !supportLists]><span la
+	ng="EN-US" style="font-size:12.0pt\;font-family:Wingdings\;mso-fareast-lan
+	guage:DE"><span style="mso-list:Ignore">Ø<span style="font:7.0pt &quot\;T
+	imes New Roman&quot\;">&nbsp\; </span></span></span><![endif]><span lang="
+	EN-US" style="font-size:12.0pt\;color:black\;mso-fareast-language:DE">For 
+	this we added you to the WW CBS Coach team. No action from your side neede
+	d.</span><span lang="EN-US" style="font-size:12.0pt\;mso-fareast-language:
+	DE"><o:p></o:p></span></p><p class="MsoNormal" style="margin-left:58.3pt">
+	<span lang="EN-US" style="font-size:12.0pt\;mso-fareast-language:DE"><o:p>
+	&nbsp\;</o:p></span></p><p class="MsoNormal" style="margin-left:58.3pt\;te
+	xt-indent:-18.0pt\;mso-list:l1 level1 lfo4"><![if !supportLists]><span lan
+	g="EN-US" style="font-size:12.0pt\;font-family:Wingdings\;mso-fareast-lang
+	uage:DE"><span style="mso-list:Ignore">Ø<span style="font:7.0pt &quot\;Ti
+	mes New Roman&quot\;">&nbsp\; </span></span></span><![endif]><span lang="E
+	N-US" style="font-size:12.0pt\;color:black\;background:yellow\;mso-highlig
+	ht:yellow\;mso-fareast-language:DE">Just accept this series of invitations
+	 in Outlook to have all the events available in your Outlook calender </sp
+	an><span lang="EN-US" style="font-size:12.0pt\;mso-fareast-language:DE"><o
+	:p></o:p></span></p><p class="MsoNormal" style="margin-left:58.3pt\;text-i
+	ndent:-18.0pt\;mso-list:l1 level1 lfo4"><![if !supportLists]><span lang="E
+	N-US" style="font-size:12.0pt\;font-family:Wingdings\;mso-fareast-language
+	:DE"><span style="mso-list:Ignore">Ø<span style="font:7.0pt &quot\;Times 
+	New Roman&quot\;">&nbsp\; </span></span></span><![endif]><span lang="EN-US
+	" style="font-size:12.0pt\;color:black\;mso-fareast-language:DE">For each 
+	event (call) we will send 1 week before the updated agenda and related top
+	ics for your information</span><span lang="EN-US" style="font-size:12.0pt\
+	;mso-fareast-language:DE"><o:p></o:p></span></p><p class="MsoNormal" style
+	="margin-left:58.3pt\;text-indent:-18.0pt\;mso-list:l1 level1 lfo4"><![if 
+	!supportLists]><span lang="EN-US" style="font-size:12.0pt\;font-family:Win
+	gdings\;mso-fareast-language:DE"><span style="mso-list:Ignore">Ø<span sty
+	le="font:7.0pt &quot\;Times New Roman&quot\;">&nbsp\; </span></span></span
+	><![endif]><span lang="EN-US" style="font-size:12.0pt\;color:black\;mso-fa
+	reast-language:DE">If you are interested please accept the update\, if not
+	 just ignore this specific event.</span><span lang="EN-US" style="font-siz
+	e:12.0pt\;mso-fareast-language:DE"><o:p></o:p></span></p><p class="MsoNorm
+	al" style="margin-left:58.3pt"><span lang="EN-US" style="font-size:12.0pt\
+	;mso-fareast-language:DE"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal
+	"><span lang="EN-US" style="font-size:12.0pt\;color:black\;mso-fareast-lan
+	guage:DE">Looking forward to see you in the Teams call for the next Commun
+	ity Call and beyond</span><span lang="EN-US" style="font-size:10.0pt\;mso-
+	fareast-language:DE"><o:p></o:p></span></p><p class="MsoNormal"><span lang
+	="EN-US" style="font-size:12.0pt\;color:black\;mso-fareast-language:DE">Ma
+	ny regards</span><span lang="EN-US" style="font-size:10.0pt\;mso-fareast-l
+	anguage:DE"><o:p></o:p></span></p><p class="MsoNormal"><span lang="EN-US" 
+	style="font-size:12.0pt\;color:black\;mso-fareast-language:DE">Joachim<o:p
+	></o:p></span></p><div><p class="MsoNormal"><span style="color:#5F5F5F">__
+	__________________________________________________________________________
+	____</span> <o:p></o:p></p></div><div><div style="margin-top:18.0pt\;margi
+	n-bottom:15.0pt"><p class="MsoNormal"><span style="font-size:18.0pt\;font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Microsoft Teams-
+	Besprechung</span><span style="font-family:&quot\;Segoe UI&quot\;\,sans-se
+	rif\;color:#252424"> <o:p></o:p></span></p></div><div style="margin-bottom
+	:15.0pt"><div><p class="MsoNormal"><b><span style="font-size:10.5pt\;font-
+	family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Nehmen Sie von I
+	hrem Computer oder der mobilen App aus teil</span></b><b><span style="font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"> <o:p></o:p></s
+	pan></b></p></div><p class="MsoNormal"><span style="font-family:&quot\;Seg
+	oe UI&quot\;\,sans-serif\;color:#252424"><a href="https://teams.microsoft.
+	com/l/meetup-join/19%3ameeting_ZTkzMGY4YTYtOWRmNS00ZjM2LTg0NWItN2FlZTRjY2M
+	2Yjc3%40thread.v2/0?context=%7b%22Tid%22%3a%228d4b558f-7b2e-40ba-ad1f-e04d
+	79e6265a%22%2c%22Oid%22%3a%2255c4b7f4-5b99-4af5-94d6-03c0cf2a0e2d%22%7d" t
+	arget="_blank"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI 
+	Semibold&quot\;\,sans-serif\;color:#6264A7">Klicken Sie hier\, um an der B
+	esprechung teilzunehmen</span></a> <o:p></o:p></span></p></div><div style=
+	"margin-top:15.0pt\;margin-bottom:18.0pt"><p class="MsoNormal"><span style
+	="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="
+	https://aka.ms/JoinTeamsMeeting" target="_blank"><span style="font-size:10
+	.5pt\;color:#6264A7">Weitere Infos</span></a> | <a href="https://teams.mic
+	rosoft.com/meetingOptions/?organizerId=55c4b7f4-5b99-4af5-94d6-03c0cf2a0e2
+	d&amp\;tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&amp\;threadId=19_meet
+	ing_ZTkzMGY4YTYtOWRmNS00ZjM2LTg0NWItN2FlZTRjY2M2Yjc3@thread.v2&amp\;messag
+	eId=0&amp\;language=de-DE" target="_blank"><span style="font-size:10.5pt\;
+	color:#6264A7">Besprechungsoptionen</span></a> | <a href="https://filehub.
+	admiralcloud.com/dl/5/6501531f-d1ca-436b-832a-1d684ab9ad7e" target="_blank
+	"><span style="font-size:10.5pt\;color:#6264A7">Rechtliche Hinweise</span>
+	</a> <o:p></o:p></span></p></div></div><div><p class="MsoNormal"><span sty
+	le="color:#5F5F5F">_______________________________________________________
+	_________________________</span> <o:p></o:p></p></div><p class="MsoNormal"
+	><o:p>&nbsp\;</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20220412T202416Z
+DTEND:20220728T074500Z
+DTSTAMP:20220722T005600Z
+DTSTART:20220728T070000Z
+LAST-MODIFIED:20220720T142957Z
+PRIORITY:5
+RECURRENCE-ID:20220728T070000Z
+SEQUENCE:0
+UID:040000008200E00074C5B7101A82E00800000000B066E5F6090BD801000000000000000
+	010000000BC02A80A2BED9C4AAF7120013D1BA5F7
 X-MICROSOFT-CDO-IMPORTANCE:1
 BEGIN:VALARM
 TRIGGER:-PT15M
@@ -2241,7 +4426,7 @@ CATEGORIES:假日
 CLASS:PUBLIC
 CREATED:20220324T040549Z
 DTEND;VALUE=DATE:20220724
-DTSTAMP:20220721T085533Z
+DTSTAMP:20220722T005616Z
 DTSTART;VALUE=DATE:20220723
 LAST-MODIFIED:20220711T123253Z
 LOCATION:中国
@@ -2263,7 +4448,7 @@ CATEGORIES:假日
 CLASS:PUBLIC
 CREATED:20220328T055228Z
 DTEND;VALUE=DATE:20220724
-DTSTAMP:20220721T085533Z
+DTSTAMP:20220722T005616Z
 DTSTART;VALUE=DATE:20220723
 LAST-MODIFIED:20220711T123253Z
 LOCATION:中国
@@ -2998,6 +5183,14 @@ ATTENDEE;CN="Aderbauer, Hubert";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DEC
 	LINED:mailto:hubert.aderbauer@continental-corporation.com
 ATTENDEE;CN="Trifa, Mihaela";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
 	ED:mailto:mihaela.trifa@continental-corporation.com
+ATTENDEE;CN="Sautner, Sascha";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLI
+	NED:mailto:sascha.sautner@continental-corporation.com
+ATTENDEE;CN="Tottos, Kornel";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLIN
+	ED:mailto:Kornel.Tottos@continental-corporation.com
+ATTENDEE;CN="Deak, Zsolt02 (uif24250)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
+	TAT=ACCEPTED:mailto:zsolt.2.deak@continental-corporation.com
+ATTENDEE;CN="Schierholz, Christopher";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=DECLINED:mailto:Christopher.Schierholz@continental-corporation.com
 CLASS:PUBLIC
 CREATED:20220624T101526Z
 DESCRIPTION:Topic:  CLAP Confluence Documentation\n\nSpeaker: Francis / Sop
@@ -3038,7 +5231,7 @@ DESCRIPTION:Topic:  CLAP Confluence Documentation\n\nSpeaker: Francis / Sop
 DTEND;TZID="W. Europe Standard Time":20220726T140000
 DTSTAMP:20220624T101512Z
 DTSTART;TZID="W. Europe Standard Time":20220726T133000
-LAST-MODIFIED:20220720T113310Z
+LAST-MODIFIED:20220721T132217Z
 ORGANIZER;CN="CLAP Open Teams":mailto:team_10030559@continental.onmicrosoft
 	.com
 PRIORITY:5
@@ -3333,7 +5526,7 @@ CLASS:PUBLIC
 CREATED:20220714T123428Z
 DESCRIPTION: \n
 DTEND;TZID="China Standard Time":20220726T170000
-DTSTAMP:20220721T085534Z
+DTSTAMP:20220722T005618Z
 DTSTART;TZID="China Standard Time":20220726T083000
 LAST-MODIFIED:20220714T152500Z
 ORGANIZER;CN="Li, Xiaodong03 (uib07707)":mailto:xiaodong.3.li@benecke-chang
@@ -3867,258 +6060,6 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN="Chen, Tingting02";RSVP=TRUE:mailto:tingting.2.chen@benecke-cha
-	ngshun.com.cn
-ATTENDEE;CN=TE_ZG_MR_CBC401_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-PARTICIPA
-	NT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_CBC401_Zhangjiagang@contine
-	ntal.com
-ATTENDEE;CN=TE_ZG_MR_PlantOffice303_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-P
-	ARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_PlantOffice309_Zhan
-	gjiagang@continental.com
-ATTENDEE;CN=TE_ZG_MR_CBC107_Zhangjiagang;CUTYPE=RESOURCE;ROLE=NON-PARTICIPA
-	NT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_CBC107_Zhangjiagang@contine
-	ntal.com
-ATTENDEE;CN=TE_ZG_MG_ALL;RSVP=TRUE:mailto:te_zg_mg_all@continental.com
-ATTENDEE;CN="Lv, Tiantian";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
-	:mailto:tiantian.lv@benecke-changshun.com.cn
-ATTENDEE;CN="Jiang, Nan02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
-	E:mailto:nan02.jiang@benecke-changshun.com.cn
-ATTENDEE;CN="Bian, Gordon (uie14074)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
-	AT=ACCEPTED:mailto:hairong.bian@benecke-changshun.com.cn
-ATTENDEE;CN="jiang, song03 (uic15874)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
-	TAT=ACCEPTED:mailto:Song.3.Jiang@benecke-changshun.com.cn
-ATTENDEE;CN="Zhang-EXT, Meng05 (uif29307)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;P
-	ARTSTAT=TENTATIVE:mailto:meng.5.zhang-EXT@benecke-changshun.com.cn
-ATTENDEE;CN="Zhang, Qiang (uia26407)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
-	AT=ACCEPTED:mailto:qiang.zhang@benecke-changshun.com.cn
-ATTENDEE;CN="Han, Lili";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:ma
-	ilto:Lili.Han@benecke-changshun.com.cn
-ATTENDEE;CN="He, Ping02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:m
-	ailto:ping.2.he@benecke-changshun.com.cn
-ATTENDEE;CN="Li, Jiong01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
-	mailto:jiong01.li@benecke-changshun.com.cn
-ATTENDEE;CN="Yu, Xiaoyan (uib57427)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
-	T=ACCEPTED:mailto:xiaoyan.yu@benecke-changshun.com.cn
-ATTENDEE;CN="Yang, Luna (uib43052)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
-	=TENTATIVE:mailto:tian.yang@benecke-changshun.com.cn
-ATTENDEE;CN="Geng, Juan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
-	ailto:juan.geng@benecke-changshun.com.cn
-ATTENDEE;CN="Ma, Siyuan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:m
-	ailto:Siyuan.Ma@benecke-changshun.com.cn
-ATTENDEE;CN="Shen, Qi";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mai
-	lto:qi.shen@benecke-changshun.com.cn
-ATTENDEE;CN="Ji-EXT, Furong (uif05357)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
-	STAT=ACCEPTED:mailto:furong.ji-EXT@benecke-changshun.com.cn
-ATTENDEE;CN="Shi, Gino (uie26475)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	ACCEPTED:mailto:gaofeng.shi@benecke-changshun.com.cn
-ATTENDEE;CN="Du-EXT, Wenqiu02 (uif29282)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
-	RTSTAT=ACCEPTED:mailto:wenqiu.2.du-EXT@benecke-changshun.com.cn
-ATTENDEE;CN="Sun, Gang03 (sung2)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=T
-	ENTATIVE:mailto:gang03.sun@benecke-changshun.com.cn
-ATTENDEE;CN="Tian, Maoqian02 (uib99721)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PAR
-	TSTAT=ACCEPTED:mailto:maoqian.2.tian@benecke-changshun.com.cn
-ATTENDEE;CN="Xu, Liuhui";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
-	ailto:Liuhui.Xu@benecke-changshun.com.cn
-ATTENDEE;CN="Xu, Hong02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
-	ailto:hong.2.xu@benecke-changshun.com.cn
-ATTENDEE;CN="Tao, Xiebin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
-	:mailto:xiebin.tao@benecke-changshun.com.cn
-ATTENDEE;CN="Pang, Shuang02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPT
-	ED:mailto:shuang.2.pang@benecke-changshun.com.cn
-ATTENDEE;CN="Hou, Xuewen";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:
-	mailto:xuewen.hou@benecke-changshun.com.cn
-ATTENDEE;CN="Huang, Yuyang";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
-	D:mailto:yuyang.huang@benecke-changshun.com.cn
-ATTENDEE;CN="Zhou, Bin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
-	ilto:Bin.Zhou@benecke-changshun.com.cn
-ATTENDEE;CN="Zhang, Yong09 (zhangy13)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
-	TAT=ACCEPTED:mailto:yong09.zhang@benecke-changshun.com.cn
-ATTENDEE;CN="Zhang, Xinling02";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENT
-	ATIVE:mailto:xinling.2.zhang@benecke-changshun.com.cn
-ATTENDEE;CN="Teng, Dayong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
-	E:mailto:dayong.teng@benecke-changshun.com.cn
-ATTENDEE;CN="Li, Xia08 (uif08188)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	ACCEPTED:mailto:xia.8.li@benecke-changshun.com.cn
-ATTENDEE;CN="Chen, Qiang05";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
-	D:mailto:qiang.5.chen@benecke-changshun.com.cn
-ATTENDEE;CN="Liu, Junming";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
-	:mailto:Junming.Liu@benecke-changshun.com.cn
-ATTENDEE;CN="Xu, Ming03 (uia79511)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
-	=ACCEPTED:mailto:ming.3.xu@benecke-changshun.com.cn
-ATTENDEE;CN="Wang, Rong (uif10588)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT
-	=ACCEPTED:mailto:rong.4.wang@continental-corporation.com
-ATTENDEE;CN="Chen, Hao06 (uib99720)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTA
-	T=ACCEPTED:mailto:hao.6.chen@benecke-changshun.com.cn
-ATTENDEE;CN="Zhou, Dan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
-	ilto:dan.zhou@benecke-changshun.com.cn
-ATTENDEE;CN="Pan, Hong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
-	ilto:Hong.Pan@benecke-changshun.com.cn
-ATTENDEE;CN="Qi, Nicholas (uie17680)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
-	AT=ACCEPTED:mailto:nicholas.qi@benecke-changshun.com.cn
-ATTENDEE;CN="Zhou, Xiaolan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
-	D:mailto:xiaolan.zhou@benecke-changshun.com.cn
-ATTENDEE;CN="Sun, Dimin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:
-	mailto:dimin.sun@benecke-changshun.com.cn
-ATTENDEE;CN="Pei, Yang";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
-	ilto:yang.pei@benecke-changshun.com.cn
-ATTENDEE;CN="Lu, Zhichao02 (uic98985)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTS
-	TAT=ACCEPTED:mailto:zhichao.2.lu@benecke-changshun.com.cn
-ATTENDEE;CN="Gao, Juan01";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE
-	:mailto:juan01.gao@benecke-changshun.com.cn
-ATTENDEE;CN="Tang, Jiawei04 (uif21900)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
-	STAT=ACCEPTED:mailto:jiawei.4.tang@benecke-changshun.com.cn
-ATTENDEE;CN="Fan, Yinfeng";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
-	:mailto:yinfeng.fan@benecke-changshun.com.cn
-ATTENDEE;CN="Xu, Hua";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:mai
-	lto:Hua.Xu@benecke-changshun.com.cn
-ATTENDEE;CN="Shan, Lan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:ma
-	ilto:lan.shan@benecke-changshun.com.cn
-ATTENDEE;CN="Zou, Yang (uia69734)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=
-	ACCEPTED:mailto:yang.zou@benecke-changshun.com.cn
-ATTENDEE;CN="Bian, Dongxu (uie35082)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
-	AT=ACCEPTED:mailto:dongxu.bian@benecke-changshun.com.cn
-ATTENDEE;CN="cheng, yifei (uic16637)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
-	AT=ACCEPTED:mailto:yifei.cheng@benecke-changshun.com.cn
-ATTENDEE;CN="Hang, Qiaodi";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED
-	:mailto:Qiaodi.Hang@benecke-changshun.com.cn
-ATTENDEE;CN="Yu, Xiaoyu";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:m
-	ailto:xiaoyu.yu@benecke-changshun.com.cn
-ATTENDEE;CN="Bian, Baoxiang02 (uib97886)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PA
-	RTSTAT=ACCEPTED:mailto:baoxiang.2.bian@benecke-changshun.com.cn
-ATTENDEE;CN="Lu, Xinhua";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED:m
-	ailto:Xinhua.Lu@benecke-changshun.com.cn
-ATTENDEE;CN="Gu, Ying (uic82228)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=A
-	CCEPTED:mailto:ying.gu@benecke-changshun.com.cn
-ATTENDEE;CN="Xu, Yanqiu";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:
-	mailto:yanqiu.xu@benecke-changshun.com.cn
-ATTENDEE;CN="Huang, Bo";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:m
-	ailto:bo.huang@benecke-changshun.com.cn
-ATTENDEE;CN="Li, Xiaodong03 (uib07707)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PART
-	STAT=ACCEPTED:mailto:xiaodong.3.li@benecke-changshun.com.cn
-ATTENDEE;CN="Sun, Juan";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:ma
-	ilto:juan.sun@benecke-changshun.com.cn
-CLASS:PUBLIC
-CREATED:20220718T074652Z
-DESCRIPTION:Dear  all：\n\n \n\n健康是我们最宝贵的财富!\n\n \n\
-	n为关注大家的健康，帮助大家清楚了解自身的健康状况
-	，以便及时进行相关的诊疗或采取健康管理措施。\n\n公
-	司特邀请美年大健康的2位专业医生，到公司为大家进行
-	体检报告的解读，和“一对一”个人健康咨询。\n\n机不
-	可失哦！ \n\n欢迎大家积极参加！\n\n \n\n安排如下：\n\n
-	日期\n\n时间\n\n地点\n\n内容\n\n7/21\n\n下午1:00 - 1:50\n\nCBC 4
-	01\n\n体检报告基本指标解读、健康注意事项\n\n7/21\n\n下
-	午2:00 – 3:00\n\nCBC 107 、Plant 303\n\n“一对一” 个人体检
-	报告咨询、健康管理咨询\n\n \n\n如有问题，请及时联系
-	我~\n\n谢谢配合！\n\n \n\nTina\n\nESH  \n\n \n\n
-DTEND;TZID="China Standard Time":20220721T150000
-DTSTAMP:20220718T065313Z
-DTSTART;TZID="China Standard Time":20220721T130000
-LAST-MODIFIED:20220721T061741Z
-LOCATION:TE_ZG_MR_CBC401_Zhangjiagang\; TE_ZG_MR_PlantOffice303_Zhangjiagan
-	g\; TE_ZG_MR_CBC107_Zhangjiagang
-ORGANIZER;CN="Chen, Tingting02":mailto:tingting.2.chen@benecke-changshun.co
-	m.cn
-PRIORITY:5
-SEQUENCE:0
-SUMMARY:体检报告解读和健康咨询
-TRANSP:OPAQUE
-UID:040000008200E00074C5B7101A82E0080000000000CE9289B49AD801000000000000000
-	010000000256F8D8972582847B193AE376FC0612A
-X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
-	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
-	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
-	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
-	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
-	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
-	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
-	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
-	 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
-	\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1 
-	1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 1
-	 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal
-	\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-family
-	:等线\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
-	family:等线\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:ex
-	port-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.
-	0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:Wo
-	rdSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext
-	="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:
-	shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelay
-	out></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink="#954
-	F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><div clas
-	s="WordSection1"><p class="MsoNormal"><span lang="EN-US">Dear &nbsp\;all</
-	span>：<span lang="EN-US"><o:p></o:p></span></p><p class="MsoNormal"><u><
-	span lang="EN-US"><o:p><span style="text-decoration:none">&nbsp\;</span></
-	o:p></span></u></p><p class="MsoNormal"><u>健康是我们最宝贵的财
-	富<span lang="EN-US">!<o:p></o:p></span></u></p><p class="MsoNormal"><u><
-	span lang="EN-US"><o:p><span style="text-decoration:none">&nbsp\;</span></
-	o:p></span></u></p><p class="MsoNormal">为关注大家的健康，帮助
-	大家清楚了解自身的健康状况，以便及时进行相关的诊
-	疗或采取健康管理措施。<span lang="EN-US"><o:p></o:p></span></p>
-	<p class="MsoNormal">公司特邀请美年大健康的<span lang="EN-US">2
-	</span>位专业医生，到公司为大家进行体检报告的解读，
-	和“一对一”个人健康咨询。<span lang="EN-US"><o:p></o:p></spa
-	n></p><p class="MsoNormal">机不可失哦！ <span lang="EN-US"><o:p></o:
-	p></span></p><p class="MsoNormal"><b>欢迎大家积极参加！</b><span 
-	lang="EN-US"><o:p></o:p></span></p><p class="MsoNormal"><span lang="EN-US"
-	><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal"><u>安排如下</u>：<
-	span lang="EN-US"><o:p></o:p></span></p><table class="MsoNormalTable" bord
-	er="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><t
-	r><td width="66" valign="top" style="width:49.4pt\;border:solid windowtext
-	 1.0pt\;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" s
-	tyle="text-align:center">日期<span lang="EN-US"><o:p></o:p></span></p></
-	td><td width="132" valign="top" style="width:99.2pt\;border:solid windowte
-	xt 1.0pt\;border-left:none\;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNorm
-	al" align="center" style="text-align:center">时间<span lang="EN-US"><o:p
-	></o:p></span></p></td><td width="161" valign="top" style="width:120.5pt\;
-	border:solid windowtext 1.0pt\;border-left:none\;padding:0cm 5.4pt 0cm 5.4
-	pt"><p class="MsoNormal" align="center" style="text-align:center">地点<s
-	pan lang="EN-US"><o:p></o:p></span></p></td><td width="302" valign="top" s
-	tyle="width:8.0cm\;border:solid windowtext 1.0pt\;border-left:none\;paddin
-	g:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-ali
-	gn:center">内容<span lang="EN-US"><o:p></o:p></span></p></td></tr><tr><t
-	d width="66" valign="top" style="width:49.4pt\;border:solid windowtext 1.0
-	pt\;border-top:none\;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><sp
-	an lang="EN-US">7/21<o:p></o:p></span></p></td><td width="132" valign="top
-	" style="width:99.2pt\;border-top:none\;border-left:none\;border-bottom:so
-	lid windowtext 1.0pt\;border-right:solid windowtext 1.0pt\;padding:0cm 5.4
-	pt 0cm 5.4pt"><p class="MsoNormal">下午<span lang="EN-US">1:00 - 1:50<o:
-	p></o:p></span></p></td><td width="161" valign="top" style="width:120.5pt\
-	;border-top:none\;border-left:none\;border-bottom:solid windowtext 1.0pt\;
-	border-right:solid windowtext 1.0pt\;padding:0cm 5.4pt 0cm 5.4pt"><p class
-	="MsoNormal"><span lang="EN-US">CBC 401<o:p></o:p></span></p></td><td widt
-	h="302" valign="top" style="width:8.0cm\;border-top:none\;border-left:none
-	\;border-bottom:solid windowtext 1.0pt\;border-right:solid windowtext 1.0p
-	t\;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">体检报告基本指
-	标解读、健康注意事项<span lang="EN-US"><o:p></o:p></span></p></t
-	d></tr><tr><td width="66" valign="top" style="width:49.4pt\;border:solid w
-	indowtext 1.0pt\;border-top:none\;padding:0cm 5.4pt 0cm 5.4pt"><p class="M
-	soNormal"><span lang="EN-US">7/21<o:p></o:p></span></p></td><td width="132
-	" valign="top" style="width:99.2pt\;border-top:none\;border-left:none\;bor
-	der-bottom:solid windowtext 1.0pt\;border-right:solid windowtext 1.0pt\;pa
-	dding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">下午<span lang="EN-US">2
-	:00 </span>–<span lang="EN-US"> 3:00<o:p></o:p></span></p></td><td width
-	="161" valign="top" style="width:120.5pt\;border-top:none\;border-left:non
-	e\;border-bottom:solid windowtext 1.0pt\;border-right:solid windowtext 1.0
-	pt\;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><span lang="EN-US">C
-	BC 107 </span>、<span lang="EN-US">Plant 303<o:p></o:p></span></p></td><t
-	d width="302" valign="top" style="width:8.0cm\;border-top:none\;border-lef
-	t:none\;border-bottom:solid windowtext 1.0pt\;border-right:solid windowtex
-	t 1.0pt\;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">“一对一”
-	 个人体检报告咨询、健康管理咨询<span lang="EN-US"><o:p></o:
-	p></span></p></td></tr></table><p class="MsoNormal"><span lang="EN-US"><o:
-	p>&nbsp\;</o:p></span></p><p class="MsoNormal">如有问题，请及时联
-	系我<span lang="EN-US">~<o:p></o:p></span></p><p class="MsoNormal">谢
-	谢配合！<span lang="EN-US"><o:p></o:p></span></p><p class="MsoNormal">
-	<span lang="EN-US"><o:p>&nbsp\;</o:p></span></p><p class="MsoNormal"><span
-	 lang="EN-US">Tina<o:p></o:p></span></p><p class="MsoNormal"><span lang="E
-	N-US">ESH &nbsp\;<o:p></o:p></span></p><p class="MsoNormal"><span lang="EN
-	-US"><o:p>&nbsp\;</o:p></span></p></div></body></html>
-X-MICROSOFT-CDO-BUSYSTATUS:BUSY
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-END:VEVENT
-BEGIN:VEVENT
 ATTENDEE;CN="Wang, Fen";RSVP=TRUE:mailto:fen.wang@benecke-changshun.com.cn
 ATTENDEE;CN=TE_ZG_MR_PlantOffice303_Zhangjiagang@continental.com;CUTYPE=RES
 	OURCE;ROLE=NON-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_Pla
@@ -4175,40 +6116,62 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-ATTENDEE;CN="Qiuhua Lu";RSVP=TRUE:mailto:qiuhua.lu@benecke-changshun.com.cn
-ATTENDEE;CN="jiang, song03 (uic15874)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
-	o:Song.3.Jiang@benecke-changshun.com.cn
-ATTENDEE;CN="Cheng, Dong01";RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:dong01.chen
-	g@benecke-changshun.com.cn
-ATTENDEE;CN="Hou, Xuewen";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:xuewen.hou@ben
-	ecke-changshun.com.cn
-ATTENDEE;CN="Hu, Harrison (uib98406)";RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:h
-	uisheng.hu@benecke-changshun.com.cn
-ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
-	xiaodong.3.li@benecke-changshun.com.cn
-ATTENDEE;CN="Cao, Haibing (uib97156)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:ha
-	ibing.cao@benecke-changshun.com.cn
-ATTENDEE;CN=TE_ZG_MR_PlantOffice303_Zhangjiagang@continental.com;CUTYPE=RES
-	OURCE;ROLE=NON-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:TE_ZG_MR_Pla
-	ntOffice303_Zhangjiagang@continental.com
-ATTENDEE;CN=TE_ZG_MR_PlantOffice302_Zhangjiagang;ROLE=OPT-PARTICIPANT;RSVP=
-	TRUE;PARTSTAT=TENTATIVE:mailto:TE_ZG_MR_PlantOffice302_Zhangjiagang@contin
-	ental.com
+ATTENDEE;CN="Ma, Siyuan";RSVP=TRUE:mailto:Siyuan.Ma@benecke-changshun.com.c
+	n
+ATTENDEE;CN="Teng, Dayong";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:dayong.teng@b
+	enecke-changshun.com.cn
+ATTENDEE;CN="Yuan, Lianghua (yuanl1)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:li
+	anghua.yuan@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Jianrui (uidt5628)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:j
+	ianrui.wang@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Nick (uib69460)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:nick
+	.wang@benecke-changshun.com.cn
+ATTENDEE;CN="Yu, Xiaoyan (uib57427)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:xia
+	oyan.yu@benecke-changshun.com.cn
+ATTENDEE;CN="Zhou, Yuan05 (uic39997)";RSVP=TRUE:mailto:yuan.5.zhou@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Jiang, Miaoxia";RSVP=TRUE:mailto:miaoxia.jiang@benecke-changsh
+	un.com.cn
+ATTENDEE;CN="Hou, Xuewen";RSVP=TRUE:mailto:xuewen.hou@benecke-changshun.com
+	.cn
+ATTENDEE;CN="Ge, Lingling";RSVP=TRUE:mailto:lingling.ge@benecke-changshun.c
+	om.cn
+ATTENDEE;CN="Cheng, Dong01";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:dong01.cheng
+	@benecke-changshun.com.cn
+ATTENDEE;CN="Fan, Xiaohua";RSVP=TRUE:mailto:xiaohua.fan@benecke-changshun.c
+	om.cn
+ATTENDEE;CN="Lin, Weiying";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Weiying.Lin@b
+	enecke-changshun.com.cn
+ATTENDEE;CN="Qu, Haihua";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:haihua.qu@benec
+	ke-changshun.com.cn
+ATTENDEE;CN="chen, qiao02 (uic01887)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:qi
+	ao.2.chen@benecke-changshun.com.cn
+ATTENDEE;CN="Hu, Harrison (uib98406)";RSVP=TRUE:mailto:huisheng.hu@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Xu, Yan01";RSVP=TRUE:mailto:yan01.xu@benecke-changshun.com.cn
+ATTENDEE;CN="Xu, Yanqiu";RSVP=TRUE;PARTSTAT=DECLINED:mailto:yanqiu.xu@benec
+	ke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE:mailto:xiaodong.3.li@bene
+	cke-changshun.com.cn
+ATTENDEE;CN="Chen, Tingting02";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:tingting.
+	2.chen@benecke-changshun.com.cn
+ATTENDEE;CN="Lu, Patrick (uic72634)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	patrick.lu@benecke-changshun.com.cn
 CLASS:PUBLIC
-CREATED:20220720T055924Z
+CREATED:20220721T072724Z
 DESCRIPTION: \n\n
-DTEND;TZID="China Standard Time":20220721T103000
-DTSTAMP:20220720T053224Z
-DTSTART;TZID="China Standard Time":20220721T100000
-LAST-MODIFIED:20220721T015604Z
-LOCATION:TE_ZG_MR_PlantOffice303_Zhangjiagang@continental.com
-ORGANIZER;CN="Qiuhua Lu":mailto:qiuhua.lu@benecke-changshun.com.cn
+DTEND;TZID="China Standard Time":20220726T203000
+DTSTAMP:20220721T072720Z
+DTSTART;TZID="China Standard Time":20220726T180000
+LAST-MODIFIED:20220721T105341Z
+LOCATION:201恋沙洲包厢 @\; 沙洲风情
+ORGANIZER;CN="Ma, Siyuan":mailto:Siyuan.Ma@benecke-changshun.com.cn
 PRIORITY:5
-SEQUENCE:0
-SUMMARY:颜色实验室自动录入改善
+SEQUENCE:1
+SUMMARY:GA庆功宴-PVC智能车间&五星上云
 TRANSP:OPAQUE
-UID:040000008200E00074C5B7101A82E00800000000906A6A103C9CD801000000000000000
-	0100000003E8058E7B3455749A08D21450164F332
+UID:040000008200E00074C5B7101A82E00800000000B0FACB29209CD801000000000000000
+	0100000001ECAF3D39A2A074BA36C3EA5B8CE5B2C
 X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
 	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
 	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
@@ -4233,9 +6196,230 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><div clas
 	s="WordSection1"><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p
 	></span></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20220720T020755Z
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ATTENDEE;CN="Wang, Jianrui (uidt5628)";RSVP=TRUE:mailto:jianrui.wang@beneck
+	e-changshun.com.cn
+ATTENDEE;CN="Shen, Qi";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:qi.shen@benecke-c
+	hangshun.com.cn
+ATTENDEE;CN="Jiang, Nan02";RSVP=TRUE:mailto:nan02.jiang@benecke-changshun.c
+	om.cn
+ATTENDEE;CN="Xu, Yanqiu";RSVP=TRUE:mailto:yanqiu.xu@benecke-changshun.com.c
+	n
+ATTENDEE;CN="Lv, Tiantian";RSVP=TRUE;PARTSTAT=TENTATIVE:mailto:tiantian.lv@
+	benecke-changshun.com.cn
+ATTENDEE;CN="Xu, Hong02";RSVP=TRUE:mailto:hong.2.xu@benecke-changshun.com.c
+	n
+ATTENDEE;CN="Xu, Ming03 (uia79511)";RSVP=TRUE:mailto:ming.3.xu@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Xu, Jinlong (uie25425)";RSVP=TRUE:mailto:jinlong.4.xu@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:
+	xiaodong.3.li@benecke-changshun.com.cn
+ATTENDEE;CN="Zhou, Yuan05 (uic39997)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yu
+	an.5.zhou@benecke-changshun.com.cn
+ATTENDEE;CN="Bian, Dongxu (uie35082)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:do
+	ngxu.bian@benecke-changshun.com.cn
+ATTENDEE;CN="Zhu, Lin";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Lin.Zhu@benecke-c
+	hangshun.com.cn
+ATTENDEE;CN="Lin, Weiying";RSVP=TRUE:mailto:Weiying.Lin@benecke-changshun.c
+	om.cn
+ATTENDEE;CN="Qiuhua Lu";RSVP=TRUE:mailto:qiuhua.lu@benecke-changshun.com.cn
+ATTENDEE;CN="Wang, Nick (uib69460)";RSVP=TRUE:mailto:nick.wang@benecke-chan
+	gshun.com.cn
+ATTENDEE;CN="Liu, Jiawen02";RSVP=TRUE:mailto:jiawen.2.liu@benecke-changshun
+	.com.cn
+ATTENDEE;CN="Zhu, Dali (uic89469)";RSVP=TRUE:mailto:dali.zhu@benecke-changs
+	hun.com.cn
+ATTENDEE;CN="Hou, Xuewen";RSVP=TRUE:mailto:xuewen.hou@benecke-changshun.com
+	.cn
+ATTENDEE;CN="Lu, Xinhua";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Xinhua.Lu@benec
+	ke-changshun.com.cn
+ATTENDEE;CN="Wang, Xu";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:Xu.Wang@beneck
+	e-changshun.com.cn
+ATTENDEE;CN="Ma, Yao";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:yao.ma@benecke-
+	changshun.com.cn
+ATTENDEE;CN="Sun, Dimin";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTED:m
+	ailto:dimin.sun@benecke-changshun.com.cn
+ATTENDEE;CN="Liu, Ling01";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:ling01.liu@
+	benecke-changshun.com.cn
+ATTENDEE;CN="Pan, Sheng";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIVE:
+	mailto:sheng.pan@benecke-changshun.com.cn
+ATTENDEE;CN="Huang, Yuyang";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=ACCEPTE
+	D:mailto:yuyang.huang@benecke-changshun.com.cn
+ATTENDEE;CN="Liu, Junming";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=TENTATIV
+	E:mailto:Junming.Liu@benecke-changshun.com.cn
+ATTENDEE;CN="Zhang, Qiang (uia26407)";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTST
+	AT=ACCEPTED:mailto:qiang.zhang@benecke-changshun.com.cn
+ATTENDEE;CN="jiang, song03 (uic15874)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailt
+	o:Song.3.Jiang@benecke-changshun.com.cn
+ATTENDEE;CN="Lu, Patrick (uic72634)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:
+	patrick.lu@benecke-changshun.com.cn
+ATTENDEE;CN="Qian, Quick (qianz1)";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:zh
+	engkai.qian@benecke-changshun.com.cn
+ATTENDEE;CN="Zhou, Mingxu";ROLE=OPT-PARTICIPANT;RSVP=TRUE:mailto:mingxu.zho
+	u@benecke-changshun.com.cn
+ATTENDEE;CN="Teng, Dayong";ROLE=OPT-PARTICIPANT;RSVP=TRUE;PARTSTAT=DECLINED
+	:mailto:dayong.teng@benecke-changshun.com.cn
+CLASS:PUBLIC
+CREATED:20220722T002935Z
+DESCRIPTION:Dear All \, \n\n \n\nI would like to invite you for kicking off
+	 the location database center project based on pre-alignments with some of
+	 depts. \n\n \n\nBR\n\nGary. \n\n \n\n____________________________________
+	____________________________________________ \n\nMicrosoft Teams meeting \
+	n\nJoin on your computer or mobile app \n\nClick here to join the meeting 
+	<https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2M5Y2YwMWYtYmIwNy
+	00NzYzLWIxYWMtNjA0ZTdmMjJkMTI2%40thread.v2/0?context=%7b%22Tid%22%3a%228d4
+	b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22daf57f77-f7aa-4fcb-b
+	898-ff0cdcd35a2f%22%7d>  \n\nMeeting ID: 317 189 191 799 \nPasscode: J97wJ
+	W \n\nDownload Teams <https://www.microsoft.com/en-us/microsoft-teams/down
+	load-app>  | Join on the web <https://www.microsoft.com/microsoft-teams/jo
+	in-a-meeting> \n\nOr call in (audio only) \n\n+86 400 819 0722\,\,35235413
+	4# <tel:+864008190722\,\,352354134#>    China\, All locations \n\nPhone Co
+	nference ID: 352 354 134# \n\nFind a local number <https://dialin.teams.mi
+	crosoft.com/97c37549-d499-4e63-9ec0-dc16377f37d4?id=352354134>  | Reset PI
+	N <https://dialin.teams.microsoft.com/usp/pstnconferencing>  \n\nLearn Mor
+	e <https://aka.ms/JoinTeamsMeeting>  | Meeting options <https://teams.micr
+	osoft.com/meetingOptions/?organizerId=daf57f77-f7aa-4fcb-b898-ff0cdcd35a2f
+	&tenantId=8d4b558f-7b2e-40ba-ad1f-e04d79e6265a&threadId=19_meeting_M2M5Y2Y
+	wMWYtYmIwNy00NzYzLWIxYWMtNjA0ZTdmMjJkMTI2@thread.v2&messageId=0&language=e
+	n-US>  | Legal <https://filehub.admiralcloud.com/dl/5/6501531f-d1ca-436b-8
+	32a-1d684ab9ad7e>  \n\n___________________________________________________
+	_____________________________ \n\n \n\n
+DTEND;TZID="China Standard Time":20220728T110000
+DTSTAMP:20220721T092453Z
+DTSTART;TZID="China Standard Time":20220728T100000
+LAST-MODIFIED:20220722T005145Z
+LOCATION:Microsoft Teams Meeting
+ORGANIZER;CN="Wang, Jianrui (uidt5628)":mailto:jianrui.wang@benecke-changsh
+	un.com.cn
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:Kick off of Location Database Center Project
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000090F8DA90259DD801000000000000000
+	010000000F2ED82041574D346A9DAD3FC793E299D
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
+	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
+	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
+	ions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4
+	 6 3 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1
+	 1 1\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2
+	 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 
+	2 3\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1
+	 1 1\;}\n@font-face\n	{font-family:"Segoe UI Semibold"\;\n	panose-1:2 11 7
+	 2 4 2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, d
+	iv.MsoNormal\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:11.0pt\;\n
+		font-family:等线\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:9
+	9\;\n	color:#0563C1\;\n	text-decoration:underline\;}\nspan.EmailStyle18\n	
+	{mso-style-type:personal-compose\;\n	font-family:等线\;\n	color:windowte
+	xt\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0pt\;
+	}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:72.0pt 90.0pt 72.
+	0pt 90.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[i
+	f gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml
+	><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:id
+	map v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><bo
+	dy lang="EN-US" link="#0563C1" vlink="#954F72" style="word-wrap:break-word
+	"><div class="WordSection1"><p class="MsoNormal">Dear All \, <o:p></o:p></
+	p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">I would 
+	like to invite you for kicking off the location database center project ba
+	sed on pre-alignments with some of depts. <o:p></o:p></p><p class="MsoNorm
+	al"><o:p>&nbsp\;</o:p></p><p class="MsoNormal">BR<o:p></o:p></p><p class="
+	MsoNormal">Gary. <o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp\;</o:p></p
+	><div><p class="MsoNormal"><span style="color:#5F5F5F">___________________
+	_____________________________________________________________</span> <o:p>
+	</o:p></p></div><div><div style="margin-top:18.0pt\;margin-bottom:15.0pt">
+	<p class="MsoNormal"><span style="font-size:18.0pt\;font-family:&quot\;Seg
+	oe UI&quot\;\,sans-serif\;color:#252424">Microsoft Teams meeting</span><sp
+	an style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"> 
+	<o:p></o:p></span></p></div><div style="margin-bottom:15.0pt"><div><p clas
+	s="MsoNormal"><b><span style="font-size:10.5pt\;font-family:&quot\;Segoe U
+	I&quot\;\,sans-serif\;color:#252424">Join on your computer or mobile app</
+	span></b><b><span style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;c
+	olor:#252424"> <o:p></o:p></span></b></p></div><p class="MsoNormal"><span 
+	style="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a h
+	ref="https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2M5Y2YwMWYtYm
+	IwNy00NzYzLWIxYWMtNjA0ZTdmMjJkMTI2%40thread.v2/0?context=%7b%22Tid%22%3a%2
+	28d4b558f-7b2e-40ba-ad1f-e04d79e6265a%22%2c%22Oid%22%3a%22daf57f77-f7aa-4f
+	cb-b898-ff0cdcd35a2f%22%7d" target="_blank"><span style="font-size:10.5pt\
+	;font-family:&quot\;Segoe UI Semibold&quot\;\,sans-serif\;color:#6264A7">C
+	lick here to join the meeting</span></a> <o:p></o:p></span></p></div><div 
+	style="margin-top:15.0pt\;margin-bottom:15.0pt"><div style="margin-bottom:
+	3.0pt"><p class="MsoNormal" align="left" style="text-align:left"><span sty
+	le="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;colo
+	r:#252424">Meeting ID: </span><span style="font-size:12.0pt\;font-family:&
+	quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">317 189 191 799</span><s
+	pan style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-seri
+	f\;color:#252424"> </span><span style="font-family:&quot\;Segoe UI&quot\;\
+	,sans-serif\;color:#252424"><br></span><span style="font-size:10.5pt\;font
+	-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424">Passcode: </spa
+	n><span style="font-size:12.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-
+	serif\;color:#252424">J97wJW </span><span style="font-family:&quot\;Segoe 
+	UI&quot\;\,sans-serif\;color:#252424"><o:p></o:p></span></p><div><p class=
+	"MsoNormal"><span style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quo
+	t\;\,sans-serif\;color:#252424"><a href="https://www.microsoft.com/en-us/m
+	icrosoft-teams/download-app" target="_blank"><span style="color:#6264A7">D
+	ownload Teams</span></a> | <a href="https://www.microsoft.com/microsoft-te
+	ams/join-a-meeting" target="_blank"><span style="color:#6264A7">Join on th
+	e web</span></a><o:p></o:p></span></p></div></div></div><div style="margin
+	-bottom:3.0pt"><div style="margin-bottom:3.0pt"><p class="MsoNormal"><b><s
+	pan style="font-size:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-seri
+	f\;color:#252424">Or call in (audio only)</span></b><span style="font-fami
+	ly:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"> <o:p></o:p></span><
+	/p></div><div style="margin-bottom:3.0pt"><p class="MsoNormal"><span style
+	="font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"><a href="
+	tel:+864008190722\,\,352354134# "><span style="font-size:10.5pt\;color:#62
+	64A7">+86 400 819 0722\,\,352354134#</span></a> </span><span style="font-s
+	ize:10.5pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;color:#252424"
+	>&nbsp\; China\, All locations </span><span style="font-family:&quot\;Sego
+	e UI&quot\;\,sans-serif\;color:#252424"><o:p></o:p></span></p></div></div>
+	<p class="MsoNormal"><span style="font-size:10.5pt\;font-family:&quot\;Seg
+	oe UI&quot\;\,sans-serif\;color:#252424">Phone Conference ID: </span><span
+	 style="font-size:12.0pt\;font-family:&quot\;Segoe UI&quot\;\,sans-serif\;
+	color:#252424">352 354 134# </span><span style="font-family:&quot\;Segoe U
+	I&quot\;\,sans-serif\;color:#252424"><o:p></o:p></span></p><div style="mar
+	gin-bottom:15.0pt"><p class="MsoNormal"><span style="font-family:&quot\;Se
+	goe UI&quot\;\,sans-serif\;color:#252424"><a href="https://dialin.teams.mi
+	crosoft.com/97c37549-d499-4e63-9ec0-dc16377f37d4?id=352354134" target="_bl
+	ank"><span style="font-size:10.5pt\;color:#6264A7">Find a local number</sp
+	an></a> | <a href="https://dialin.teams.microsoft.com/usp/pstnconferencing
+	" target="_blank"><span style="font-size:10.5pt\;color:#6264A7">Reset PIN<
+	/span></a> <o:p></o:p></span></p></div><div style="margin-top:15.0pt\;marg
+	in-bottom:18.0pt"><p class="MsoNormal"><span style="font-family:&quot\;Seg
+	oe UI&quot\;\,sans-serif\;color:#252424"><a href="https://aka.ms/JoinTeams
+	Meeting" target="_blank"><span style="font-size:10.5pt\;color:#6264A7">Lea
+	rn More</span></a> | <a href="https://teams.microsoft.com/meetingOptions/?
+	organizerId=daf57f77-f7aa-4fcb-b898-ff0cdcd35a2f&amp\;tenantId=8d4b558f-7b
+	2e-40ba-ad1f-e04d79e6265a&amp\;threadId=19_meeting_M2M5Y2YwMWYtYmIwNy00NzY
+	zLWIxYWMtNjA0ZTdmMjJkMTI2@thread.v2&amp\;messageId=0&amp\;language=en-US" 
+	target="_blank"><span style="font-size:10.5pt\;color:#6264A7">Meeting opti
+	ons</span></a> | <a href="https://filehub.admiralcloud.com/dl/5/6501531f-d
+	1ca-436b-832a-1d684ab9ad7e" target="_blank"><span style="font-size:10.5pt\
+	;color:#6264A7">Legal</span></a> <o:p></o:p></span></p></div></div><div><p
+	 class="MsoNormal"><span style="color:#5F5F5F">___________________________
+	_____________________________________________________</span> <span style="
+	font-family:&quot\;Calibri&quot\;\,sans-serif"><o:p></o:p></span></p></div
+	><p class="MsoNormal"><o:p>&nbsp\;</o:p></p></div></body></html>
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 ATTENDEE;CN="Qin, Minglei (uie66267)";RSVP=TRUE:mailto:minglei.qin@benecke-
@@ -4244,8 +6428,8 @@ ATTENDEE;CN="Qian, Quick (qianz1)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:zheng
 	kai.qian@benecke-changshun.com.cn
 ATTENDEE;CN="Liu, Jiawen02";RSVP=TRUE:mailto:jiawen.2.liu@benecke-changshun
 	.com.cn
-ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE:mailto:xiaodong.3.li@bene
-	cke-changshun.com.cn
+ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE;PARTSTAT=ACCEPTED;X-MS-OL
+	K-RESPTIME=20220722T003900Z:mailto:xiaodong.3.li@benecke-changshun.com.cn
 ATTENDEE;CN="Huang, Yuyang";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:yuyang.huang
 	@benecke-changshun.com.cn
 ATTENDEE;CN="Xu, Jinlong (uie25425)";RSVP=TRUE:mailto:jinlong.4.xu@benecke-
@@ -4290,98 +6474,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml"
 	F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><div clas
 	s="WordSection1"><p class="MsoNormal">之前的分析结果出来了我们
 	聊下<span lang="EN-US"><o:p></o:p></span></p></div></body></html>
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 X-MICROSOFT-CDO-IMPORTANCE:1
 X-MICROSOFT-DISALLOW-COUNTER:FALSE
-BEGIN:VALARM
-TRIGGER:-PT10M
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-ATTENDEE;CN="Ma, Siyuan";RSVP=TRUE:mailto:Siyuan.Ma@benecke-changshun.com.c
-	n
-ATTENDEE;CN="Teng, Dayong";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:dayong.teng@b
-	enecke-changshun.com.cn
-ATTENDEE;CN="Yuan, Lianghua (yuanl1)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:li
-	anghua.yuan@benecke-changshun.com.cn
-ATTENDEE;CN="Wang, Jianrui (uidt5628)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:j
-	ianrui.wang@benecke-changshun.com.cn
-ATTENDEE;CN="Wang, Nick (uib69460)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:nick
-	.wang@benecke-changshun.com.cn
-ATTENDEE;CN="Yu, Xiaoyan (uib57427)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:xia
-	oyan.yu@benecke-changshun.com.cn
-ATTENDEE;CN="Zhou, Yuan05 (uic39997)";RSVP=TRUE:mailto:yuan.5.zhou@benecke-
-	changshun.com.cn
-ATTENDEE;CN="Jiang, Miaoxia";RSVP=TRUE:mailto:miaoxia.jiang@benecke-changsh
-	un.com.cn
-ATTENDEE;CN="Hou, Xuewen";RSVP=TRUE:mailto:xuewen.hou@benecke-changshun.com
-	.cn
-ATTENDEE;CN="Ge, Lingling";RSVP=TRUE:mailto:lingling.ge@benecke-changshun.c
-	om.cn
-ATTENDEE;CN="Cheng, Dong01";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:dong01.cheng
-	@benecke-changshun.com.cn
-ATTENDEE;CN="Fan, Xiaohua";RSVP=TRUE:mailto:xiaohua.fan@benecke-changshun.c
-	om.cn
-ATTENDEE;CN="Lin, Weiying";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:Weiying.Lin@b
-	enecke-changshun.com.cn
-ATTENDEE;CN="Qu, Haihua";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:haihua.qu@benec
-	ke-changshun.com.cn
-ATTENDEE;CN="chen, qiao02 (uic01887)";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:qi
-	ao.2.chen@benecke-changshun.com.cn
-ATTENDEE;CN="Hu, Harrison (uib98406)";RSVP=TRUE:mailto:huisheng.hu@benecke-
-	changshun.com.cn
-ATTENDEE;CN="Xu, Yan01";RSVP=TRUE:mailto:yan01.xu@benecke-changshun.com.cn
-ATTENDEE;CN="Xu, Yanqiu";RSVP=TRUE;PARTSTAT=DECLINED:mailto:yanqiu.xu@benec
-	ke-changshun.com.cn
-ATTENDEE;CN="Li, Xiaodong03 (uib07707)";RSVP=TRUE:mailto:xiaodong.3.li@bene
-	cke-changshun.com.cn
-ATTENDEE;CN="Chen, Tingting02";RSVP=TRUE;PARTSTAT=ACCEPTED:mailto:tingting.
-	2.chen@benecke-changshun.com.cn
-CLASS:PUBLIC
-CREATED:20220721T072724Z
-DESCRIPTION: \n\n
-DTEND;TZID="China Standard Time":20220726T203000
-DTSTAMP:20220721T072720Z
-DTSTART;TZID="China Standard Time":20220726T180000
-LAST-MODIFIED:20220721T084331Z
-LOCATION:201恋沙洲包厢 @\; 沙洲风情
-ORGANIZER;CN="Ma, Siyuan":mailto:Siyuan.Ma@benecke-changshun.com.cn
-PRIORITY:5
-SEQUENCE:1
-SUMMARY:GA庆功宴-PVC智能车间&五星上云
-TRANSP:OPAQUE
-UID:040000008200E00074C5B7101A82E00800000000B0FACB29209CD801000000000000000
-	0100000001ECAF3D39A2A074BA36C3EA5B8CE5B2C
-X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
-	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
-	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
-	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>\n<meta http-equiv=
-	"Content-Type" content="text/html\; charset=utf-8"><meta name="Generator" 
-	content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definit
-	ions */\n@font-face\n	{font-family:宋体\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
-	\;}\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3
-	 2 4\;}\n@font-face\n	{font-family:等线\;\n	panose-1:2 1 6 0 3 1 1 1 1 1
-	\;}\n@font-face\n	{font-family:"\\@等线"\;\n	panose-1:2 1 6 0 3 1 1 1 1 
-	1\;}\n@font-face\n	{font-family:"\\@宋体"\;\n	panose-1:2 1 6 0 3 1 1 1 1
-	 1\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal
-	\n	{margin:0cm\;\n	text-align:justify\;\n	font-size:10.5pt\;\n	font-family
-	:等线\;}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-
-	family:等线\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-type:ex
-	port-only\;\n	font-size:10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.
-	0pt\;\n	margin:72.0pt 90.0pt 72.0pt 90.0pt\;}\ndiv.WordSection1\n	{page:Wo
-	rdSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext
-	="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:
-	shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelay
-	out></xml><![endif]--></head><body lang="ZH-CN" link="#0563C1" vlink="#954
-	F72" style="word-wrap:break-word\;text-justify-trim:punctuation"><div clas
-	s="WordSection1"><p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp\;</o:p
-	></span></p></div></body></html>
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MS-OLK-APPTSEQTIME:20220720T020755Z
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
